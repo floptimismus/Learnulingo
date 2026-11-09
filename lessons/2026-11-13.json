@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-13",
+  "theme": "art",
+  "subjectKey": "expressionismus",
+  "status": "published",
+  "title": "Expressionismus",
+  "subtitle": "Grelle Farben, verzerrte Formen, starke Gefühle: wie „Brücke“ und „Blauer Reiter“ die Kunst aufrüttelten.",
+  "cards": [
+    {
+      "tier": 1,
+      "kicker": "Die Idee",
+      "title": "Gefühl statt Abbild",
+      "body": "Expressionisten wollten nicht zeigen, wie etwas aussieht, sondern wie es sich anfühlt.\n\nDafür übertrieben sie Farben und Formen: ein grünes Gesicht, ein roter Himmel, schiefe Häuser. Die Bewegung prägte vor allem Deutschland zwischen etwa 1905 und 1925.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 120 C80 100 120 140 200 115 S300 95 320 110 V200 H0Z' opacity='0.5'/><path class='sa' stroke-width='6' d='M0 40 C60 20 100 70 160 45 S260 20 320 50'/><path class='sa' stroke-width='4' d='M0 70 C60 50 110 95 170 70 S270 45 320 75' opacity='0.7'/><line class='sb' stroke-width='4' x1='20' y1='190' x2='230' y2='105'/><line class='sb' stroke-width='3' x1='20' y1='170' x2='230' y2='105'/><ellipse class='c' cx='120' cy='130' rx='16' ry='22'/><ellipse class='b' cx='114' cy='126' rx='3' ry='5'/><ellipse class='b' cx='126' cy='126' rx='3' ry='5'/><ellipse class='b' cx='120' cy='142' rx='4' ry='6'/><path class='b' d='M100 150 Q120 200 140 150 Z'/></svg>",
+        "caption": "Motiv nach Edvard Munchs „Der Schrei“ (1893), einem wichtigen Vorbild",
+        "credit": "Illustration",
+        "href": "https://de.wikipedia.org/wiki/Der_Schrei"
+      }
+    },
+    {
+      "tier": 1,
+      "kicker": "Dresden, 1905",
+      "title": "Die „Brücke“",
+      "body": "1905 gründeten vier Architekturstudenten in Dresden die Künstlergruppe „Brücke“: Ernst Ludwig Kirchner, Erich Heckel, Karl Schmidt-Rottluff und Fritz Bleyl.\n\nSie malten schnell und spontan, oft Akte in der Natur oder das Leben im Atelier. Später zogen die meisten nach Berlin; 1913 löste sich die Gruppe auf.",
+      "links": [
+        {
+          "title": "Brücke-Museum Berlin",
+          "url": "https://www.bruecke-museum.de/"
+        }
+      ]
+    },
+    {
+      "tier": 1,
+      "kicker": "München, 1911",
+      "title": "„Der Blaue Reiter“",
+      "body": "In München taten sich Wassily Kandinsky und Franz Marc zusammen. Ende 1911 zeigten sie die erste Ausstellung des „Blauen Reiters“, 1912 erschien ihr Almanach.\n\nIhnen ging es um das Geistige in der Kunst: Farben sollten wie Musik wirken. Franz Marc wurde für seine blauen und roten Tiere berühmt.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='255' cy='45' r='18' opacity='0.6'/><path class='a' d='M80 150 C70 110 90 80 130 78 C150 60 175 55 190 70 C205 60 215 70 210 85 C220 100 210 115 195 110 C185 120 175 125 160 120 L165 160 L150 160 L145 128 C130 130 115 128 105 125 L110 160 L95 160 Z'/><path class='sb' stroke-width='3' d='M180 70 C170 90 160 100 140 105'/></svg>",
+        "caption": "Ein Tier in unnatürlicher Farbe, wie bei Franz Marc",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 1,
+      "kicker": "Erkennen",
+      "title": "So erkennst du ein expressionistisches Bild",
+      "body": "- Kräftige, oft unnatürliche Farben\n- Vereinfachte, verzerrte oder eckige Formen\n- Dicke Konturen, grobe Pinselstriche\n- Gefühle wie Angst, Sehnsucht oder Lebensfreude stehen im Vordergrund"
+    },
+    {
+      "tier": 2,
+      "kicker": "Vorbilder",
+      "title": "Munch, van Gogh, Gauguin",
+      "body": "Die Expressionisten bauten auf Künstlern auf, die schon vor 1900 Farben und Formen frei eingesetzt hatten: Vincent van Gogh, Paul Gauguin und Edvard Munch.\n\nFast gleichzeitig entstand in Frankreich der Fauvismus um Henri Matisse, der ebenfalls mit reinen, leuchtenden Farben arbeitete."
+    },
+    {
+      "tier": 2,
+      "kicker": "Technik",
+      "title": "Die Rückkehr des Holzschnitts",
+      "body": "Die „Brücke“-Künstler belebten den Holzschnitt neu. Sie schnitten grob und kantig ins Holz und ließen die Maserung sichtbar.\n\nDas Ergebnis: harte Schwarz-Weiß-Kontraste und eine rohe, direkte Wirkung, die gut zu ihrem Ausdruckswillen passte.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='60' y='30' width='200' height='140'/><path class='d' d='M90 150 L130 60 L150 110 L175 50 L230 150 Z'/><path class='b' d='M120 150 L140 100 L160 150 Z'/><path class='d' d='M75 45 L95 45 L85 70 Z'/><path class='d' d='M235 40 L250 60 L228 62 Z'/></svg>",
+        "caption": "Holzschnitt-Ästhetik: harte Kontraste, kantige Formen",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 2,
+      "kicker": "Großstadt",
+      "title": "Kirchners Berlin",
+      "body": "In Berlin malte Ernst Ludwig Kirchner ab 1913 seine berühmten Straßenszenen: elegante, spitze Figuren auf Boulevards wie dem Potsdamer Platz.\n\nDie langgezogenen Körper und die schrägen Perspektiven fangen die Hektik und Anonymität der Großstadt ein.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 200 L40 30 L80 200 Z' opacity='0.4'/><path class='c' d='M240 200 L285 25 L320 200 Z' opacity='0.4'/><path class='a' d='M120 60 L140 55 L150 190 L118 190 Z'/><path class='b' d='M170 70 L188 66 L195 190 L165 190 Z'/><ellipse class='b' cx='134' cy='48' rx='16' ry='5'/><ellipse class='b' cx='179' cy='60' rx='14' ry='5'/></svg>",
+        "caption": "Langgezogene Figuren und stürzende Linien, wie in Kirchners Straßenszenen",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 2,
+      "kicker": "Weitere Namen",
+      "title": "Mehr als zwei Gruppen",
+      "body": "Zum Umfeld gehören viele weitere Künstlerinnen und Künstler:\n\n- Emil Nolde und Max Pechstein (zeitweise bei der „Brücke“)\n- Gabriele Münter, August Macke und Paul Klee (Umfeld des „Blauen Reiters“)\n- Paula Modersohn-Becker als frühe Wegbereiterin in Worpswede"
+    },
+    {
+      "tier": 3,
+      "kicker": "Zur Abstraktion",
+      "title": "Kandinskys Weg",
+      "body": "Wassily Kandinsky löste sich immer weiter vom Gegenstand. In seiner Schrift „Über das Geistige in der Kunst“ (1911/12) begründete er, warum Farben und Formen allein wirken können.\n\nEr gilt deshalb als einer der Pioniere der abstrakten Malerei.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='90' cy='80' r='38' opacity='0.85'/><rect class='b' x='170' y='40' width='70' height='70' transform='rotate(18 205 75)'/><path class='sa' stroke-width='5' d='M40 160 C100 110 150 190 210 140 S290 120 300 170'/><line class='sb' stroke-width='3' x1='140' y1='20' x2='190' y2='180'/><circle class='c' cx='260' cy='150' r='14'/></svg>",
+        "caption": "Farben und Formen ohne Gegenstand",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 3,
+      "kicker": "Krieg",
+      "title": "Der Erste Weltkrieg als Bruch",
+      "body": "Der Krieg traf die Bewegung hart: August Macke fiel 1914, Franz Marc 1916 bei Verdun.\n\nAndere kehrten traumatisiert zurück. Danach wurde der Expressionismus vielfach von neuen Strömungen wie Dada und der Neuen Sachlichkeit abgelöst."
+    },
+    {
+      "tier": 3,
+      "kicker": "Verfolgung",
+      "title": "„Entartete Kunst“",
+      "body": "Die Nationalsozialisten verfemten den Expressionismus. 1937 zeigten sie in München die Propagandaausstellung „Entartete Kunst“, um die Moderne lächerlich zu machen.\n\nTausende Werke wurden aus Museen beschlagnahmt, verkauft oder zerstört. Viele Künstler erhielten Malverbot.",
+      "links": [
+        {
+          "title": "Wikipedia: Entartete Kunst",
+          "url": "https://de.wikipedia.org/wiki/Entartete_Kunst"
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "kicker": "Nachwirkung",
+      "title": "Film, Literatur, Museen",
+      "body": "Expressionismus gab es nicht nur in der Malerei: Der Stummfilm „Das Cabinet des Dr. Caligari“ (1920) zeigt schiefe Kulissen und gemalte Schatten.\n\nHeute sind die Werke Publikumsmagneten, etwa im Brücke-Museum in Berlin und im Lenbachhaus in München, das eine große Sammlung zum „Blauen Reiter“ besitzt.",
+      "links": [
+        {
+          "title": "Lenbachhaus München",
+          "url": "https://www.lenbachhaus.de/"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "tier": 1,
+      "type": "mc",
+      "prompt": "Was wollten Expressionisten vor allem zeigen?",
+      "options": [
+        "Gefühle und innere Eindrücke",
+        "Möglichst naturgetreue Abbilder",
+        "Wechselndes Tageslicht",
+        "Strenge geometrische Ordnung"
+      ],
+      "answer": 0,
+      "explain": "Nicht das Aussehen, sondern das Empfinden stand im Mittelpunkt."
+    },
+    {
+      "id": "q2",
+      "tier": 1,
+      "type": "tf",
+      "prompt": "Die Künstlergruppe „Brücke“ wurde 1905 in Dresden gegründet.",
+      "answer": true,
+      "explain": "Kirchner, Heckel, Schmidt-Rottluff und Bleyl gründeten sie 1905 in Dresden."
+    },
+    {
+      "id": "q3",
+      "tier": 1,
+      "type": "match",
+      "prompt": "Ordne richtig zu.",
+      "pairs": [
+        [
+          "Brücke",
+          "Dresden, 1905"
+        ],
+        [
+          "Der Blaue Reiter",
+          "München, 1911"
+        ],
+        [
+          "Franz Marc",
+          "Blaue und rote Tiere"
+        ]
+      ],
+      "explain": "Die „Brücke“ entstand in Dresden, der „Blaue Reiter“ in München; Marc malte Tiere in Symbolfarben."
+    },
+    {
+      "id": "q4",
+      "tier": 1,
+      "type": "image",
+      "prompt": "Ein Tier in unnatürlicher, leuchtender Farbe: An welchen Künstler denkt man zuerst?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='255' cy='45' r='18' opacity='0.6'/><path class='a' d='M80 150 C70 110 90 80 130 78 C150 60 175 55 190 70 C205 60 215 70 210 85 C220 100 210 115 195 110 C185 120 175 125 160 120 L165 160 L150 160 L145 128 C130 130 115 128 105 125 L110 160 L95 160 Z'/><path class='sb' stroke-width='3' d='M180 70 C170 90 160 100 140 105'/></svg>",
+      "options": [
+        "Franz Marc",
+        "Claude Monet",
+        "Albrecht Dürer",
+        "Gerhard Richter"
+      ],
+      "answer": 0,
+      "explain": "Franz Marc malte blaue Pferde und andere Tiere in Symbolfarben."
+    },
+    {
+      "id": "q5",
+      "tier": 2,
+      "type": "order",
+      "prompt": "Bring die Ereignisse in die richtige Reihenfolge.",
+      "items": [
+        "Munch malt „Der Schrei“",
+        "Gründung der „Brücke“",
+        "Erste Ausstellung des „Blauen Reiters“",
+        "Kirchner beginnt seine Berliner Straßenszenen"
+      ],
+      "explain": "1893 – 1905 – 1911 – 1913."
+    },
+    {
+      "id": "q6",
+      "tier": 2,
+      "type": "mc",
+      "prompt": "Welche Drucktechnik belebten die „Brücke“-Künstler neu?",
+      "options": [
+        "Holzschnitt",
+        "Siebdruck",
+        "Fotografie",
+        "Lithografie in Farbe"
+      ],
+      "answer": 0,
+      "explain": "Grob geschnittene Holzschnitte mit harten Kontrasten sind typisch für die „Brücke“."
+    },
+    {
+      "id": "q7",
+      "tier": 2,
+      "type": "tf",
+      "prompt": "Kirchner malte in Berlin Straßenszenen mit langgezogenen, spitzen Figuren.",
+      "answer": true,
+      "explain": "Seine Berliner Straßenszenen ab 1913 fangen die Hektik der Großstadt ein."
+    },
+    {
+      "id": "q8",
+      "tier": 2,
+      "type": "image",
+      "prompt": "Welches Werk war ein wichtiges Vorbild für die Expressionisten?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 120 C80 100 120 140 200 115 S300 95 320 110 V200 H0Z' opacity='0.5'/><path class='sa' stroke-width='6' d='M0 40 C60 20 100 70 160 45 S260 20 320 50'/><path class='sa' stroke-width='4' d='M0 70 C60 50 110 95 170 70 S270 45 320 75' opacity='0.7'/><line class='sb' stroke-width='4' x1='20' y1='190' x2='230' y2='105'/><line class='sb' stroke-width='3' x1='20' y1='170' x2='230' y2='105'/><ellipse class='c' cx='120' cy='130' rx='16' ry='22'/><ellipse class='b' cx='114' cy='126' rx='3' ry='5'/><ellipse class='b' cx='126' cy='126' rx='3' ry='5'/><ellipse class='b' cx='120' cy='142' rx='4' ry='6'/><path class='b' d='M100 150 Q120 200 140 150 Z'/></svg>",
+      "options": [
+        "Munchs „Der Schrei“",
+        "Da Vincis „Mona Lisa“",
+        "Monets „Seerosen“",
+        "Vermeers „Mädchen mit dem Perlenohrgehänge“"
+      ],
+      "answer": 0,
+      "explain": "Munchs „Der Schrei“ (1893) zeigt Angst durch Farbe und verzerrte Formen."
+    },
+    {
+      "id": "q9",
+      "tier": 3,
+      "type": "mc",
+      "prompt": "Welche Schrift veröffentlichte Kandinsky 1911/12?",
+      "options": [
+        "Über das Geistige in der Kunst",
+        "Das Kapital",
+        "Die Traumdeutung",
+        "Der Untergang des Abendlandes"
+      ],
+      "answer": 0,
+      "explain": "Darin begründete er die Wirkung von Farbe und Form ohne Gegenstand."
+    },
+    {
+      "id": "q10",
+      "tier": 3,
+      "type": "tf",
+      "prompt": "Franz Marc überlebte den Ersten Weltkrieg.",
+      "answer": false,
+      "explain": "Marc fiel 1916 bei Verdun, August Macke schon 1914."
+    },
+    {
+      "id": "q11",
+      "tier": 3,
+      "type": "match",
+      "prompt": "Ordne zu.",
+      "pairs": [
+        [
+          "Das Cabinet des Dr. Caligari",
+          "Expressionistischer Stummfilm"
+        ],
+        [
+          "Lenbachhaus",
+          "Sammlung zum Blauen Reiter"
+        ],
+        [
+          "„Entartete Kunst“",
+          "NS-Propagandaausstellung 1937"
+        ]
+      ],
+      "explain": "Film, Museum und Verfolgung: drei Stationen der Wirkungsgeschichte."
+    },
+    {
+      "id": "q12",
+      "tier": 3,
+      "type": "mc",
+      "prompt": "Wofür gilt Kandinsky als Pionier?",
+      "options": [
+        "Die abstrakte Malerei",
+        "Die Fotografie",
+        "Den Pointillismus",
+        "Die Pop-Art"
+      ],
+      "answer": 0,
+      "explain": "Er löste sich als einer der Ersten ganz vom Gegenstand."
+    }
+  ],
+  "takeaways": [
+    "Der Expressionismus (etwa 1905–1925) zeigt Gefühle statt Abbilder: mit grellen, unnatürlichen Farben und verzerrten Formen.",
+    "Die wichtigsten Gruppen waren die „Brücke“ (Dresden 1905, u. a. Kirchner) und „Der Blaue Reiter“ (München 1911, Kandinsky und Marc).",
+    "Erster Weltkrieg und NS-Verfolgung („Entartete Kunst“, 1937) trafen die Bewegung schwer; heute zählt sie zu den Glanzstücken deutscher Museen."
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Expressionismus (Kunst)",
+      "url": "https://de.wikipedia.org/wiki/Expressionismus_(Kunst)"
+    },
+    {
+      "title": "Wikipedia: Brücke (Künstlergruppe)",
+      "url": "https://de.wikipedia.org/wiki/Br%C3%BCcke_(K%C3%BCnstlergruppe)"
+    },
+    {
+      "title": "Wikipedia: Der Blaue Reiter",
+      "url": "https://de.wikipedia.org/wiki/Der_Blaue_Reiter"
+    },
+    {
+      "title": "Brücke-Museum Berlin",
+      "url": "https://www.bruecke-museum.de/"
+    },
+    {
+      "title": "Lenbachhaus München",
+      "url": "https://www.lenbachhaus.de/"
+    }
+  ]
+}

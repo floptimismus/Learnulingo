@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-14",
+  "theme": "pop",
+  "subjectKey": "hip-hop-anfaenge",
+  "status": "published",
+  "title": "Hip-Hop: Die Anfänge",
+  "subtitle": "Von einer Party in der Bronx zur meistgehörten Musik der Welt.",
+  "cards": [
+    {
+      "tier": 1,
+      "kicker": "11. August 1973",
+      "title": "Eine Party in der Bronx",
+      "body": "Im Gemeinschaftsraum eines Wohnblocks an der Sedgwick Avenue in der New Yorker Bronx legte DJ Kool Herc auf einer Party seiner Schwester auf.\n\nDer Abend gilt heute als symbolische Geburtsstunde des Hip-Hop.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='30' y='70' width='60' height='130'/><rect class='b' x='100' y='40' width='70' height='160'/><rect class='c' x='180' y='90' width='50' height='110'/><rect class='b' x='240' y='60' width='60' height='140'/><rect class='a' x='112' y='60' width='12' height='12'/><rect class='a' x='140' y='90' width='12' height='12'/><rect class='a' x='255' y='80' width='12' height='12'/><rect class='d' x='45' y='90' width='10' height='10'/><rect class='d' x='195' y='110' width='10' height='10'/></svg>",
+        "caption": "Die South Bronx der 1970er: Wohnblocks, wenig Geld, viele Jugendliche",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 1,
+      "kicker": "Der Trick",
+      "title": "Der Break wird verlängert",
+      "body": "Kool Herc merkte, dass die Tänzer bei den „Breaks“ am wildesten wurden: kurzen Stellen, in denen nur Schlagzeug und Bass spielen.\n\nMit zwei gleichen Platten auf zwei Plattenspielern wechselte er hin und her und verlängerte so den Break beliebig.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='20' y='60' width='280' height='110' rx='10' opacity='0.5'/><circle class='b' cx='95' cy='115' r='42'/><circle class='a' cx='95' cy='115' r='10'/><circle class='b' cx='225' cy='115' r='42'/><circle class='a' cx='225' cy='115' r='10'/><line class='sb' stroke-width='4' x1='140' y1='75' x2='118' y2='105'/><line class='sb' stroke-width='4' x1='270' y1='75' x2='248' y2='105'/><rect class='a' x='150' y='140' width='20' height='8' rx='3'/></svg>",
+        "caption": "Zwei Plattenspieler und ein Mischpult: das Instrument der ersten Hip-Hop-DJs",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 1,
+      "kicker": "Kultur",
+      "title": "Die vier Elemente",
+      "body": "Hip-Hop ist mehr als Musik. Man spricht von vier Elementen:\n\n- DJing: Platten auflegen und mischen\n- MCing: Rap, also rhythmischer Sprechgesang\n- Breaking: der Tanz, oft „Breakdance“ genannt\n- Graffiti: Bilder und Schriftzüge an Wänden und Zügen"
+    },
+    {
+      "tier": 1,
+      "kicker": "1979",
+      "title": "Der erste Hit",
+      "body": "Mit „Rapper’s Delight“ der Sugarhill Gang wurde Rap 1979 erstmals ein großer Hit und lief im Radio, weit über New York hinaus.\n\nDamit wurde aus einer Szene in der Bronx ein Musikgeschäft.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><ellipse class='b' cx='160' cy='60' rx='26' ry='32'/><rect class='c' x='152' y='88' width='16' height='70' rx='6'/><path class='sa' stroke-width='4' d='M110 40 Q95 60 110 80'/><path class='sa' stroke-width='4' d='M95 30 Q72 60 95 90'/><path class='sa' stroke-width='4' d='M210 40 Q225 60 210 80'/><path class='sa' stroke-width='4' d='M225 30 Q248 60 225 90'/></svg>",
+        "caption": "Das Mikrofon gehört dem MC",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 2,
+      "kicker": "Pioniere",
+      "title": "Die drei Gründerväter",
+      "body": "Neben Kool Herc gelten zwei weitere DJs als Gründerväter:\n\n- Grandmaster Flash verfeinerte das Mischen und Scratchen mit Präzision\n- Afrika Bambaataa gründete die Universal Zulu Nation und wollte Gangs durch Musik und Tanz befrieden"
+    },
+    {
+      "tier": 2,
+      "kicker": "Scratching",
+      "title": "Die Platte als Instrument",
+      "body": "Beim Scratching wird die Platte von Hand vor- und zurückbewegt. Das erzeugt ein kratzendes Geräusch im Rhythmus.\n\nAls Erfinder gilt Grand Wizzard Theodore, der die Technik Mitte der 1970er-Jahre als Teenager entdeckte."
+    },
+    {
+      "tier": 2,
+      "kicker": "1982",
+      "title": "„The Message“",
+      "body": "Grandmaster Flash and the Furious Five veröffentlichten 1982 „The Message“. Statt Partyreimen beschreibt der Song Armut, Gewalt und Stress im Ghetto.\n\nDamit zeigte Rap, dass er auch soziale Wirklichkeit erzählen kann."
+    },
+    {
+      "tier": 2,
+      "kicker": "Straße",
+      "title": "Breaking und Graffiti",
+      "body": "Breaker entwickelten akrobatische Bodenfiguren und trugen „Battles“ gegeneinander aus. 2024 war Breaking bei den Olympischen Spielen in Paris erstmals olympisch.\n\nGraffiti-Writer bemalten in den 1970er-Jahren ganze New Yorker U-Bahn-Wagen mit ihren Namen.",
+      "img": {
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='40' y='160' width='240' height='10' rx='5'/><circle class='a' cx='120' cy='140' r='14'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M132 132 L190 110 L230 60'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M190 110 L250 95'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M150 128 L140 160'/></svg>",
+        "caption": "Eine Freeze-Figur beim Breaking",
+        "credit": "Illustration"
+      }
+    },
+    {
+      "tier": 3,
+      "kicker": "1986",
+      "title": "Der Durchbruch zum Mainstream",
+      "body": "Run-DMC nahmen 1986 mit der Rockband Aerosmith eine neue Version von „Walk This Way“ auf. Das Video lief im Musikfernsehen rauf und runter.\n\nRap erreichte damit ein Publikum, das bis dahin vor allem Rock hörte."
+    },
+    {
+      "tier": 3,
+      "kicker": "Technik",
+      "title": "Sampler und Drumcomputer",
+      "body": "In den 1980ern prägten neue Geräte den Sound: Drumcomputer wie die Roland TR-808 lieferten wuchtige Bässe und Beats.\n\nSampler erlaubten es, kurze Ausschnitte aus fremden Platten zu neuen Stücken zusammenzusetzen. Daraus entstand später auch Streit um Urheberrechte."
+    },
+    {
+      "tier": 3,
+      "kicker": "Deutschland",
+      "title": "Rap auf Deutsch",
+      "body": "1992 erschienen zwei Meilensteine: „Die Da!?!“ von den Fantastischen Vier wurde ein Pop-Hit.\n\n„Fremd im eigenen Land“ von Advanced Chemistry thematisierte dagegen Rassismus gegenüber Menschen mit deutschem Pass."
+    },
+    {
+      "tier": 3,
+      "kicker": "Heute",
+      "title": "Vom Rand in die Mitte",
+      "body": "Hip-Hop gehört heute zu den meistgehörten Musikrichtungen der Welt.\n\nKendrick Lamar erhielt 2018 für sein Album „DAMN.“ den Pulitzer-Preis für Musik, als erster Künstler außerhalb von Klassik und Jazz."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "tier": 1,
+      "type": "mc",
+      "prompt": "In welchem New Yorker Stadtteil entstand Hip-Hop?",
+      "options": [
+        "Bronx",
+        "Manhattan",
+        "Staten Island",
+        "Queens"
+      ],
+      "answer": 0,
+      "explain": "Die Party von DJ Kool Herc 1973 fand in der Bronx statt."
+    },
+    {
+      "id": "q2",
+      "tier": 1,
+      "type": "tf",
+      "prompt": "DJ Kool Herc verlängerte die Breaks mit zwei gleichen Platten.",
+      "answer": true,
+      "explain": "Er wechselte zwischen zwei Exemplaren derselben Platte hin und her."
+    },
+    {
+      "id": "q3",
+      "tier": 1,
+      "type": "match",
+      "prompt": "Ordne das Element seiner Tätigkeit zu.",
+      "pairs": [
+        [
+          "DJing",
+          "Platten auflegen und mischen"
+        ],
+        [
+          "MCing",
+          "Rappen"
+        ],
+        [
+          "Breaking",
+          "Tanzen"
+        ],
+        [
+          "Graffiti",
+          "Wände und Züge bemalen"
+        ]
+      ],
+      "explain": "Das sind die vier klassischen Elemente des Hip-Hop."
+    },
+    {
+      "id": "q4",
+      "tier": 1,
+      "type": "image",
+      "prompt": "Was ist hier zu sehen?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='20' y='60' width='280' height='110' rx='10' opacity='0.5'/><circle class='b' cx='95' cy='115' r='42'/><circle class='a' cx='95' cy='115' r='10'/><circle class='b' cx='225' cy='115' r='42'/><circle class='a' cx='225' cy='115' r='10'/><line class='sb' stroke-width='4' x1='140' y1='75' x2='118' y2='105'/><line class='sb' stroke-width='4' x1='270' y1='75' x2='248' y2='105'/><rect class='a' x='150' y='140' width='20' height='8' rx='3'/></svg>",
+      "options": [
+        "Zwei Plattenspieler mit Mischpult",
+        "Ein Schlagzeug",
+        "Eine Orgel",
+        "Ein Kassettenrekorder"
+      ],
+      "answer": 0,
+      "explain": "Zwei Plattenspieler und ein Mixer: das Grundwerkzeug der Hip-Hop-DJs."
+    },
+    {
+      "id": "q5",
+      "tier": 2,
+      "type": "order",
+      "prompt": "Bring die Ereignisse in die richtige Reihenfolge.",
+      "items": [
+        "Kool Hercs Party in der Bronx",
+        "„Rapper’s Delight“ erscheint",
+        "„The Message“ erscheint",
+        "Breaking ist erstmals olympisch"
+      ],
+      "explain": "1973 – 1979 – 1982 – 2024."
+    },
+    {
+      "id": "q6",
+      "tier": 2,
+      "type": "mc",
+      "prompt": "Wer gründete die Universal Zulu Nation?",
+      "options": [
+        "Afrika Bambaataa",
+        "Grandmaster Flash",
+        "DJ Kool Herc",
+        "Run-DMC"
+      ],
+      "answer": 0,
+      "explain": "Afrika Bambaataa wollte mit Musik und Tanz Gangs befrieden."
+    },
+    {
+      "id": "q7",
+      "tier": 2,
+      "type": "tf",
+      "prompt": "„The Message“ ist ein reiner Party-Song ohne ernstes Thema.",
+      "answer": false,
+      "explain": "Der Song beschreibt Armut, Gewalt und Stress im Ghetto."
+    },
+    {
+      "id": "q8",
+      "tier": 2,
+      "type": "image",
+      "prompt": "Welches Hip-Hop-Element zeigt das Bild?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='40' y='160' width='240' height='10' rx='5'/><circle class='a' cx='120' cy='140' r='14'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M132 132 L190 110 L230 60'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M190 110 L250 95'/><path class='sa' stroke-width='10' stroke-linecap='round' d='M150 128 L140 160'/></svg>",
+      "options": [
+        "Breaking",
+        "Graffiti",
+        "DJing",
+        "Beatboxing"
+      ],
+      "answer": 0,
+      "explain": "Akrobatische Figuren am Boden gehören zum Breaking, seit 2024 sogar olympisch."
+    },
+    {
+      "id": "q9",
+      "tier": 3,
+      "type": "mc",
+      "prompt": "Mit welcher Rockband nahmen Run-DMC 1986 „Walk This Way“ auf?",
+      "options": [
+        "Aerosmith",
+        "Queen",
+        "The Rolling Stones",
+        "Metallica"
+      ],
+      "answer": 0,
+      "explain": "Die Zusammenarbeit brachte Rap ins Mainstream-Radio und -Fernsehen."
+    },
+    {
+      "id": "q10",
+      "tier": 3,
+      "type": "match",
+      "prompt": "Ordne Song und Künstler zu.",
+      "pairs": [
+        [
+          "Die Da!?!",
+          "Die Fantastischen Vier"
+        ],
+        [
+          "Fremd im eigenen Land",
+          "Advanced Chemistry"
+        ],
+        [
+          "Rapper’s Delight",
+          "Sugarhill Gang"
+        ]
+      ],
+      "explain": "Zwei deutsche Meilensteine von 1992 und der erste Rap-Hit von 1979."
+    },
+    {
+      "id": "q11",
+      "tier": 3,
+      "type": "tf",
+      "prompt": "Kendrick Lamar erhielt 2018 den Pulitzer-Preis für Musik.",
+      "answer": true,
+      "explain": "Er war der erste Preisträger außerhalb von Klassik und Jazz."
+    },
+    {
+      "id": "q12",
+      "tier": 3,
+      "type": "mc",
+      "prompt": "Was macht ein Sampler?",
+      "options": [
+        "Er setzt Ausschnitte aus Aufnahmen zu neuen Stücken zusammen",
+        "Er stimmt Gitarren",
+        "Er presst Schallplatten",
+        "Er verstärkt nur die Stimme"
+      ],
+      "answer": 0,
+      "explain": "Sampling ist eine Kerntechnik des Hip-Hop, aber auch ein Streitpunkt beim Urheberrecht."
+    }
+  ],
+  "takeaways": [
+    "Hip-Hop entstand in den 1970ern in der New Yorker Bronx; als Geburtsstunde gilt DJ Kool Hercs Party am 11. August 1973.",
+    "Zur Kultur gehören vier Elemente: DJing, MCing (Rap), Breaking und Graffiti.",
+    "Über „Rapper’s Delight“ (1979), „The Message“ (1982) und Run-DMC (1986) wurde Hip-Hop zu einer der meistgehörten Musikrichtungen der Welt."
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Hip-Hop",
+      "url": "https://de.wikipedia.org/wiki/Hip-Hop"
+    },
+    {
+      "title": "Wikipedia: DJ Kool Herc",
+      "url": "https://de.wikipedia.org/wiki/DJ_Kool_Herc"
+    },
+    {
+      "title": "Wikipedia: Rapper's Delight (englisch)",
+      "url": "https://en.wikipedia.org/wiki/Rapper%27s_Delight"
+    },
+    {
+      "title": "Wikipedia: The Message (englisch)",
+      "url": "https://en.wikipedia.org/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)"
+    },
+    {
+      "title": "Pulitzer Prize: Kendrick Lamar, DAMN.",
+      "url": "https://www.pulitzer.org/winners/kendrick-lamar"
+    }
+  ]
+}
