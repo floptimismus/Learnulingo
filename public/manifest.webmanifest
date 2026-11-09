@@ -1,0 +1,9 @@
+{
+  "name": "Learnulingo",
+  "short_name": "Learnulingo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E9EDF2",
+  "theme_color": "#A06A12",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

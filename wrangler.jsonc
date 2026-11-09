@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "learnulingo",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  // The D1 database is created automatically on the first `wrangler deploy`.
+  // If you created one yourself, add its "database_id" here.
+  "d1_databases": [
+    { "binding": "DB", "database_name": "learnulingo" }
+  ],
+  // Every day at 03:17 UTC: create tomorrow's lesson if it is missing
+  // (only when the ANTHROPIC_API_KEY secret is set).
+  "triggers": { "crons": ["17 3 * * *"] },
+  "vars": {
+    "APP_NAME": "Learnulingo"
+  },
+  "observability": { "enabled": true }
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Learnulingo</title>
+<meta name="description" content="Learnulingo – jeden Tag eine kurze Lektion Allgemeinbildung. Streaks, XP und Rangliste.">
+<meta name="theme-color" content="#E9EDF2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0A0C11" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="blobs" aria-hidden="true"><i></i><i></i><i></i></div>
+<div class="app" id="app">
+  <div class="top">
+    <a class="brand" href="#heute">Learnulingo</a>
+    <div class="chips" id="chips"></div>
+  </div>
+  <main id="view" style="display:flex;flex-direction:column;gap:18px">
+    <div class="panel"><div class="empty"><b>Lade Learnulingo …</b>Einen Moment.</div></div>
+  </main>
+</div>
+<div class="tabs"><nav id="tabs"></nav></div>
+<div class="player" id="player" hidden>
+  <div class="blobs" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="p-head"><button class="x" id="pClose" aria-label="Lektion beenden"></button><div class="prog"><i id="pProg" style="width:0"></i></div></div>
+  <div class="p-body" id="pBody"></div>
+  <div id="pFootWrap"><div class="p-foot" id="pFoot"></div></div>
+</div>
+<script src="/app.js"></script>
+</body>
+</html>
