@@ -523,6 +523,16 @@ async function adminUsers(req, env) {
   return json({ users: rows.results });
 }
 
+/* ---------------- status (public; shows whether a deploy and its lessons arrived) ---------------- */
+async function status(env) {
+  const db = await env.DB.prepare(`SELECT COUNT(*) AS n, MAX(date) AS latest FROM lessons WHERE status != 'draft'`).first();
+  return json({
+    ok: true,
+    bundled: { count: BUNDLED_LESSONS.length, latest: BUNDLED_LESSONS.length ? BUNDLED_LESSONS[BUNDLED_LESSONS.length - 1].date : null },
+    database: { count: db.n, latest: db.latest },
+  });
+}
+
 /* ---------------- router ---------------- */
 async function handleApi(req, env, url) {
   await ensureSchema(env);
@@ -545,6 +555,7 @@ async function handleApi(req, env, url) {
   if (path === "/api/auth/logout" && m === "POST") return logout(req, env);
   if (path === "/api/lessons" && m === "GET") return lessonIndex(req, env);
   if (path === "/api/leaderboard" && m === "GET") return leaderboard(req, env);
+  if (path === "/api/status" && m === "GET") return status(env);
   if (path === "/api/progress/finish" && m === "POST") return finishLesson(req, env);
   if (path === "/api/admin/generate" && m === "POST") return adminGenerate(req, env);
   if (path === "/api/admin/users" && m === "GET") return adminUsers(req, env);
