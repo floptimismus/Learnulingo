@@ -6,7 +6,7 @@ import {
   generateAuthenticationOptions,
   verifyAuthenticationResponse,
 } from "@simplewebauthn/server";
-import SEED_LESSONS from "../seed/lessons.json";
+import BUNDLED_LESSONS from "../.generated/lessons.json"; // built from lessons/*.json
 import { generateLesson, THEME_BY_WD, validateLesson } from "./generate.js";
 
 const SESSION_COOKIE = "lu_session";
@@ -33,20 +33,37 @@ const SCHEMA = [
   `CREATE TABLE IF NOT EXISTS lessons (
      date TEXT PRIMARY KEY, theme TEXT NOT NULL, title TEXT NOT NULL, status TEXT NOT NULL,
      subject_key TEXT, body TEXT NOT NULL, updated_at TEXT NOT NULL)`,
+  `CREATE TABLE IF NOT EXISTS lesson_imports (date TEXT PRIMARY KEY, hash TEXT NOT NULL, imported_at TEXT NOT NULL)`,
 ];
+// Lessons from the repo (lessons/*.json) are imported once per content hash: new or changed files in the
+// repo reach the database after the next deploy, while edits and deletions made in the editorial desk
+// are kept as long as the file in the repo stays the same.
+const IMPORT_CHUNK = 40; // stay well below D1's per-request query limit on the free plan
 let schemaReady = null;
-function ensureSchema(env) {
+let importsPending = true;
+async function ensureSchema(env) {
   if (!schemaReady) {
-    schemaReady = (async () => {
-      await env.DB.batch(SCHEMA.map((s) => env.DB.prepare(s)));
-      const row = await env.DB.prepare("SELECT COUNT(*) AS n FROM lessons").first();
-      if (!row || row.n === 0) {
-        const now = new Date().toISOString();
-        await env.DB.batch(SEED_LESSONS.map((L) => lessonInsert(env, L, now)));
-      }
-    })().catch((e) => { schemaReady = null; throw e; });
+    schemaReady = env.DB.batch(SCHEMA.map((s) => env.DB.prepare(s))).catch((e) => { schemaReady = null; throw e; });
   }
-  return schemaReady;
+  await schemaReady;
+  if (importsPending) await importBundledLessons(env);
+}
+async function importBundledLessons(env) {
+  const seen = await env.DB.prepare(`SELECT date, hash FROM lesson_imports`).all();
+  const known = new Map(seen.results.map((r) => [r.date, r.hash]));
+  const todo = BUNDLED_LESSONS.filter((x) => known.get(x.date) !== x.hash);
+  if (!todo.length) { importsPending = false; return; }
+  const now = new Date().toISOString();
+  const chunk = todo.slice(0, IMPORT_CHUNK);
+  const stmts = [];
+  for (const x of chunk) {
+    stmts.push(lessonInsert(env, x.lesson, now));
+    stmts.push(env.DB.prepare(
+      `INSERT INTO lesson_imports (date, hash, imported_at) VALUES (?,?,?) ON CONFLICT(date) DO UPDATE SET hash=excluded.hash, imported_at=excluded.imported_at`
+    ).bind(x.date, x.hash, now));
+  }
+  await env.DB.batch(stmts);
+  if (todo.length <= IMPORT_CHUNK) importsPending = false;
 }
 function lessonInsert(env, L, now = new Date().toISOString()) {
   return env.DB.prepare(

@@ -1,0 +1,317 @@
+{
+  "cards": [
+    {
+      "body": "Art déco ist der Stil der 1920er- und 1930er-Jahre. Er verbindet Luxus mit der Ästhetik von Maschinen: klare Geometrie, glänzende Materialien, viel Schmuck.\n\nDen Namen bekam er erst im Rückblick. Er geht auf eine große Pariser Ausstellung von 1925 zurück, die Exposition internationale des Arts décoratifs et industriels modernes. Populär wurde der Begriff erst in den 1960er-Jahren.",
+      "img": {
+        "caption": "Typische Fassade: gestufte Silhouette, senkrechte Bänder, Sonnenstrahlen über dem Eingang",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><polygon class='b' points='110,200 110,72 126,72 126,52 142,52 142,30 178,30 178,52 194,52 194,72 210,72 210,200'/><rect class='a' x='157' y='8' width='6' height='24'/><rect class='a' x='122' y='86' width='6' height='88'/><rect class='a' x='140' y='86' width='6' height='88'/><rect class='a' x='174' y='86' width='6' height='88'/><rect class='a' x='192' y='86' width='6' height='88'/><rect class='a' x='157' y='60' width='6' height='114'/><path class='a' d='M128 200 A32 32 0 0 1 192 200 Z'/><g class='sb' stroke-width='3'><path d='M160 200 L140 176'/><path d='M160 200 L152 170'/><path d='M160 200 L168 170'/><path d='M160 200 L180 176'/></g><polygon class='a' points='142,44 160,36 178,44 160,50'/></svg>"
+      },
+      "kicker": "Der Stil",
+      "tier": 1,
+      "title": "Was ist Art déco?"
+    },
+    {
+      "body": "- Zickzack und Chevrons: spitze Winkelmuster, oft als Fries\n- Sonnenstrahlen: Linien, die fächerförmig von einem Punkt ausgehen\n- Stufen: Silhouetten, die sich wie eine Zikkurat nach oben verjüngen\n\nDazu kommen strenge Symmetrie und eine starke Betonung der Senkrechten. Wenn du diese Formen siehst, liegst du mit Art déco meist richtig.",
+      "img": {
+        "caption": "Zickzack · Sonnenstrahl · Stufen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><polyline class='sa' stroke-width='8' stroke-linejoin='miter' points='14,120 34,80 54,120 74,80 94,120'/><polyline class='sb' stroke-width='4' points='14,140 34,100 54,140 74,100 94,140'/><g class='a'><path d='M160 150 L118 90 L126 86 Z'/><path d='M160 150 L134 76 L143 74 Z'/><path d='M160 150 L155 70 L165 70 Z'/><path d='M160 150 L177 74 L186 76 Z'/><path d='M160 150 L194 86 L202 90 Z'/></g><path class='b' d='M140 150 A20 20 0 0 1 180 150 Z'/><polygon class='b' points='224,150 224,126 238,126 238,106 252,106 252,86 276,86 276,106 290,106 290,126 304,126 304,150'/></svg>"
+      },
+      "kicker": "Erkennen",
+      "tier": 1,
+      "title": "Drei Muster, die fast immer auftauchen"
+    },
+    {
+      "body": "Art déco liebt Oberflächen, die glänzen: Chrom, Edelstahl, Messing, Glas, polierter Marmor und Lack. Dazu kommen Terrakotta-Fliesen an Fassaden und edle, oft exotische Hölzer im Innenraum.\n\nDie Botschaft: Moderne Technik und Luxus gehören zusammen. Ein Aufzug durfte genauso prächtig sein wie ein Opernfoyer.",
+      "kicker": "Materialien",
+      "tier": 1,
+      "title": "Glanz statt Patina"
+    },
+    {
+      "body": "Das Chrysler Building in New York, entworfen von William Van Alen, wurde 1930 fertig. Mit rund 319 Metern war es kurz das höchste Gebäude der Welt, bis 1931 das Empire State Building es überholte.\n\nSeine Krone besteht aus gestuften Bögen aus Edelstahl mit dreieckigen Fenstern. Die Spitze wurde heimlich im Inneren montiert und dann in wenigen Minuten nach oben geschoben, um die Konkurrenz zu überraschen.",
+      "img": {
+        "caption": "Die Krone des Chrysler Building, stark vereinfacht",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Chrysler_Building",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><path class='b' d='M96 200 V160 A64 48 0 0 1 224 160 V200 Z'/><path class='a' d='M112 162 V128 A48 38 0 0 1 208 128 V162 Z'/><path class='b' d='M126 130 V100 A34 28 0 0 1 194 100 V130 Z'/><path class='a' d='M138 102 V78 A22 20 0 0 1 182 78 V102 Z'/><path class='b' d='M148 80 V62 A12 12 0 0 1 172 62 V80 Z'/><path class='a' d='M155 64 L160 4 L165 64 Z'/><g class='d'><polygon points='120,176 128,162 136,176'/><polygon points='144,170 152,154 160,170'/><polygon points='160,170 168,154 176,170'/><polygon points='184,176 192,162 200,176'/><polygon points='134,142 140,130 146,142'/><polygon points='174,142 180,130 186,142'/><polygon points='150,138 158,124 166,138'/></g></svg>"
+      },
+      "kicker": "Ikone",
+      "tier": 1,
+      "title": "Das Chrysler Building"
+    },
+    {
+      "body": "Art déco mischt Einflüsse, die damals neu und aufregend waren: die zerlegten Formen des Kubismus, das Kunsthandwerk der Wiener Werkstätte und die farbenprächtigen Bühnenbilder der Ballets Russes.\n\nAls 1922 das Grab des Tutanchamun entdeckt wurde, brach eine Ägypten-Mode aus. Auch die Stufenpyramiden der Maya und Azteken lieferten Vorbilder für gestufte Formen.",
+      "kicker": "Ursprünge",
+      "tier": 2,
+      "title": "Ein Stil aus vielen Quellen"
+    },
+    {
+      "body": "1916 erließ New York eine neue Bauordnung, die Zoning Resolution. Damit genug Licht auf die Straßen fällt, mussten hohe Gebäude nach oben zurückspringen.\n\nDaraus entstanden die typischen gestuften Silhouetten, auch Setbacks genannt. Art-déco-Architekten machten aus der Vorschrift ein Markenzeichen, etwa beim Empire State Building von 1931.",
+      "kicker": "Wolkenkratzer",
+      "tier": 2,
+      "title": "Warum New Yorker Hochhäuser Stufen haben"
+    },
+    {
+      "body": "In den 1930er-Jahren entstand eine schlichtere Variante: Streamline Moderne. Statt Zacken gibt es abgerundete Ecken, lange waagerechte Linien und Bullaugenfenster.\n\nVorbild waren schnelle Maschinen wie Ozeandampfer, Züge und Flugzeuge. Selbst ein Kino oder eine Tankstelle sollte aussehen, als würde es gleich losfahren.",
+      "img": {
+        "caption": "Runde Ecke, Tempo-Streifen, Bullaugen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><path class='b' d='M40 190 V80 H210 A70 70 0 0 1 280 150 V190 Z'/><g class='a'><rect x='40' y='98' width='196' height='7'/><rect x='40' y='118' width='222' height='7'/><rect x='40' y='138' width='236' height='7'/></g><circle class='d' cx='92' cy='166' r='12'/><circle class='sa' cx='92' cy='166' r='12' stroke-width='4'/><circle class='d' cx='132' cy='166' r='12'/><circle class='sa' cx='132' cy='166' r='12' stroke-width='4'/><rect class='a' x='40' y='60' width='70' height='20'/></svg>"
+      },
+      "kicker": "Spielart",
+      "tier": 2,
+      "title": "Streamline Moderne"
+    },
+    {
+      "body": "Im Art Deco Historic District von Miami Beach stehen über 800 Gebäude aus den 1920er- bis 1940er-Jahren, viele im Streamline-Stil. 1979 kam das Viertel ins National Register of Historic Places, als erstes Viertel des 20. Jahrhunderts.\n\nDie berühmten Pastellfarben am Ocean Drive sind übrigens jünger: Sie stammen größtenteils aus der Restaurierung in den 1980er-Jahren.",
+      "img": {
+        "caption": "Hotelfassaden wie am Ocean Drive",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Miami_Beach_Architectural_District",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='e' x='0' y='170' width='320' height='30'/><path class='a' d='M30 170 V92 H110 V170 Z'/><rect class='b' x='62' y='66' width='16' height='26'/><g class='d'><rect x='42' y='104' width='56' height='6'/><rect x='42' y='122' width='56' height='6'/><rect x='42' y='140' width='56' height='6'/></g><path class='c' d='M120 170 V100 H180 A26 26 0 0 1 206 126 V170 Z'/><g class='d'><rect x='130' y='112' width='66' height='5'/><rect x='130' y='128' width='70' height='5'/></g><path class='b' d='M216 170 V80 H290 V170 Z'/><polygon class='a' points='240,80 253,56 266,80'/><g class='a'><rect x='228' y='96' width='8' height='60'/><rect x='249' y='96' width='8' height='60'/><rect x='270' y='96' width='8' height='60'/></g></svg>"
+      },
+      "kicker": "Ort",
+      "tier": 2,
+      "title": "Miami Beach"
+    },
+    {
+      "body": "Art déco war ein globaler Stil. In Mumbai säumen Art-déco-Wohnhäuser das Oval Maidan und den Marine Drive. Seit 2018 sind sie zusammen mit viktorianisch-gotischen Bauten UNESCO-Welterbe.\n\nIn Napier in Neuseeland zerstörte 1931 ein schweres Erdbeben die Innenstadt. Beim Wiederaufbau entstand sie fast komplett im Art-déco-Stil, deshalb gilt Napier heute als eine Art-déco-Hauptstadt.",
+      "kicker": "Weltweit",
+      "tier": 3,
+      "title": "Von Mumbai bis Napier"
+    },
+    {
+      "body": "Art déco prägte auch Möbel, Schmuck, Mode und Grafik. Plakatkünstler wie Cassandre zeichneten Schiffe und Züge als kraftvolle, geometrische Formen.\n\nDas französische Ozeanschiff Normandie von 1935 galt als schwimmendes Schaufenster des Stils: Speisesaal, Salons und Treppen waren durchgestaltet bis zum letzten Türgriff.",
+      "kicker": "Design",
+      "tier": 3,
+      "title": "Mehr als Architektur"
+    },
+    {
+      "body": "Der Jugendstil (international Art nouveau) ist älter, etwa 1890 bis 1910. Er setzt auf weich geschwungene Linien nach dem Vorbild von Pflanzen, Blüten und Ranken.\n\nArt déco dreht das um: gerade Kanten, Kreise, Dreiecke, Symmetrie. Faustregel: Wächst es, ist es Jugendstil. Ist es gebaut wie eine Maschine, ist es Art déco.",
+      "img": {
+        "caption": "Links Jugendstil: Ranken und Blüten. Rechts Art déco: Dreiecke und Symmetrie",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='e' x='158' y='16' width='4' height='168'/><path class='sc' stroke-width='6' stroke-linecap='round' d='M30 180 C40 120 110 150 90 90 S70 30 130 30'/><path class='sc' stroke-width='4' stroke-linecap='round' d='M60 180 C70 140 130 140 120 100'/><ellipse class='c' cx='116' cy='98' rx='14' ry='8' transform='rotate(-30 116 98)'/><circle class='c' cx='132' cy='30' r='10'/><g class='a'><path d='M240 180 L240 120 L210 120 Z'/><path d='M240 180 L240 120 L270 120 Z'/><rect x='214' y='90' width='52' height='20'/><path d='M216 86 L240 40 L264 86 Z'/></g><g class='sb' stroke-width='3'><path d='M196 180 V60'/><path d='M284 180 V60'/></g></svg>"
+      },
+      "kicker": "Verwechslungsgefahr",
+      "tier": 3,
+      "title": "Art déco oder Jugendstil?"
+    },
+    {
+      "body": "Die Weltwirtschaftskrise und der Zweite Weltkrieg bremsten den Luxusstil. Danach setzte sich die schmucklose internationale Moderne durch, und Art déco galt lange als altmodisch.\n\nAb den 1960er-Jahren wurde der Stil wiederentdeckt. In Miami Beach gründete Barbara Capitman 1976 die Miami Design Preservation League und rettete so viele Bauten vor dem Abriss.",
+      "kicker": "Nachleben",
+      "tier": 3,
+      "title": "Ende und Comeback"
+    }
+  ],
+  "date": "2026-11-05",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Der Name leitet sich von der Exposition internationale des Arts décoratifs in Paris 1925 ab.",
+      "id": "q1",
+      "options": [
+        "Eine Pariser Ausstellung von 1925",
+        "Einen französischen Architekten namens Déco",
+        "Eine New Yorker Kunstzeitschrift",
+        "Einen Kurs am Bauhaus"
+      ],
+      "prompt": "Worauf geht der Name Art déco zurück?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Stufen, Zickzackfries und Sonnenstrahlen sind klassische Art-déco-Merkmale.",
+      "id": "q2",
+      "options": [
+        "Art déco",
+        "Jugendstil",
+        "Gotik",
+        "Brutalismus"
+      ],
+      "prompt": "Welcher Stil ist das?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><polygon class='b' points='90,200 90,84 112,84 112,60 134,60 134,36 186,36 186,60 208,60 208,84 230,84 230,200'/><polyline class='sa' stroke-width='6' points='96,100 112,86 128,100 144,86 160,100 176,86 192,100 208,86 224,100'/><g class='a'><path d='M160 196 L128 150 L134 146 Z'/><path d='M160 196 L148 142 L155 141 Z'/><path d='M160 196 L165 141 L172 142 Z'/><path d='M160 196 L186 146 L192 150 Z'/></g><g class='a'><rect x='104' y='116' width='8' height='70'/><rect x='208' y='116' width='8' height='70'/></g></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "answer": true,
+      "explain": "Stimmt, von 1930 bis 1931, dann überholte es das Empire State Building.",
+      "id": "q3",
+      "prompt": "Das Chrysler Building war eine Zeit lang das höchste Gebäude der Welt.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "explain": "Winkel, Strahlen, Stufen und Glanz: das Grundvokabular von Art déco.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Chevron",
+          "Spitzes Winkelmuster"
+        ],
+        [
+          "Sonnenstrahl",
+          "Linien fächern von einem Punkt aus"
+        ],
+        [
+          "Zikkurat",
+          "Gestufte, nach oben schmaler werdende Form"
+        ],
+        [
+          "Edelstahl",
+          "Glänzendes Material der Chrysler-Krone"
+        ]
+      ],
+      "prompt": "Ordne jedem Muster seine Beschreibung zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "explain": "Erst die Bauordnung, dann die Ägypten-Mode, die Pariser Ausstellung und schließlich die großen Wolkenkratzer.",
+      "id": "q5",
+      "items": [
+        "New York erlässt die Zoning Resolution (1916)",
+        "Das Grab des Tutanchamun wird entdeckt (1922)",
+        "Pariser Ausstellung für dekorative Künste (1925)",
+        "Das Empire State Building wird eröffnet (1931)"
+      ],
+      "prompt": "Bring diese Ereignisse in die richtige Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Die Zoning Resolution von 1916 schrieb Rücksprünge vor, damit Licht auf die Straßen fällt.",
+      "id": "q6",
+      "options": [
+        "Eine Bauordnung verlangte Rücksprünge für mehr Licht auf der Straße",
+        "Sie sollten Erdbeben besser standhalten",
+        "Aufzüge konnten damals nur kurze Strecken fahren",
+        "Stufen sparten teuren Edelstahl"
+      ],
+      "prompt": "Warum haben viele New Yorker Hochhäuser dieser Zeit eine gestufte Form?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Runde Ecke, waagerechte Tempo-Streifen und Bullauge sind typisch für Streamline Moderne.",
+      "id": "q7",
+      "options": [
+        "Streamline Moderne",
+        "Jugendstil",
+        "Neugotik",
+        "Postmoderne"
+      ],
+      "prompt": "Welche Spielart zeigt dieses Gebäude?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><path class='b' d='M30 190 V100 H230 A50 50 0 0 1 280 150 V190 Z'/><g class='a'><rect x='30' y='116' width='222' height='6'/><rect x='30' y='132' width='242' height='6'/><rect x='30' y='148' width='250' height='6'/></g><circle class='d' cx='250' cy='172' r='10'/><circle class='sa' cx='250' cy='172' r='10' stroke-width='3'/><rect class='a' x='120' y='70' width='18' height='30'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": false,
+      "explain": "Die meisten Pastelltöne kamen erst bei der Restaurierung in den 1980er-Jahren dazu.",
+      "id": "q8",
+      "prompt": "Die Pastellfarben am Ocean Drive in Miami Beach stammen größtenteils aus den 1930er-Jahren.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "explain": "Art déco findet man weltweit, oft aus ganz verschiedenen Gründen.",
+      "id": "q9",
+      "pairs": [
+        [
+          "Napier",
+          "Nach dem Erdbeben von 1931 neu gebaut"
+        ],
+        [
+          "Mumbai",
+          "UNESCO-Welterbe am Oval Maidan"
+        ],
+        [
+          "Miami Beach",
+          "Über 800 Bauten im Historic District"
+        ],
+        [
+          "New York",
+          "Chrysler und Empire State Building"
+        ]
+      ],
+      "prompt": "Welche Besonderheit gehört zu welchem Ort?",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Der ältere Jugendstil liebt Ranken und Blüten, Art déco setzt auf Geometrie.",
+      "id": "q10",
+      "options": [
+        "Geschwungene Formen nach dem Vorbild von Pflanzen",
+        "Zickzackfriese",
+        "Gestufte Silhouetten",
+        "Verchromte Oberflächen"
+      ],
+      "prompt": "Was ist typisch für den Jugendstil, aber nicht für Art déco?",
+      "tier": 3,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Ranken, Blüten und geschwungene Linien verraten den Jugendstil.",
+      "id": "q11",
+      "options": [
+        "Jugendstil",
+        "Art déco",
+        "Streamline Moderne",
+        "Bauhaus"
+      ],
+      "prompt": "Art déco oder doch etwas anderes?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><path class='sb' stroke-width='5' stroke-linecap='round' d='M90 196 C80 150 130 140 120 100 S90 40 150 24'/><path class='sb' stroke-width='5' stroke-linecap='round' d='M230 196 C240 150 190 140 200 100 S230 40 170 24'/><path class='sa' stroke-width='4' stroke-linecap='round' d='M160 196 C150 160 175 140 160 110'/><ellipse class='a' cx='160' cy='92' rx='12' ry='20'/><ellipse class='a' cx='142' cy='100' rx='8' ry='16' transform='rotate(-35 142 100)'/><ellipse class='a' cx='178' cy='100' rx='8' ry='16' transform='rotate(35 178 100)'/><ellipse class='c' cx='128' cy='150' rx='16' ry='6' transform='rotate(-25 128 150)'/><ellipse class='c' cx='192' cy='150' rx='16' ry='6' transform='rotate(25 192 150)'/></svg>",
+      "tier": 3,
+      "type": "image"
+    },
+    {
+      "answer": true,
+      "explain": "Die Normandie von 1935 war bis ins Detail im Art-déco-Stil gestaltet.",
+      "id": "q12",
+      "prompt": "Das Ozeanschiff Normandie galt als schwimmendes Schaufenster des Art déco.",
+      "tier": 3,
+      "type": "tf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Art déco – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Art_d%C3%A9co"
+    },
+    {
+      "title": "Chrysler Building – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+    },
+    {
+      "title": "Miami Beach Architectural District – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Miami_Beach_Architectural_District"
+    },
+    {
+      "title": "Victorian Gothic and Art Deco Ensembles of Mumbai – UNESCO",
+      "url": "https://whc.unesco.org/en/list/1480"
+    },
+    {
+      "title": "Napier – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Napier_(Neuseeland)"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "art-deco",
+  "subtitle": "Zickzack, Sonnenstrahlen und Chrom: der Stil der Wolkenkratzer und Ozeandampfer",
+  "takeaways": [
+    "Art déco ist der Stil der 1920er und 1930er: Geometrie, Glanz und Maschinenästhetik.",
+    "Erkennungszeichen sind Zickzack, Sonnenstrahlen, Stufen und Symmetrie.",
+    "Jugendstil wächst wie eine Pflanze, Art déco ist gebaut wie eine Maschine."
+  ],
+  "theme": "architecture",
+  "title": "Art déco"
+}

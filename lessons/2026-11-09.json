@@ -1,0 +1,345 @@
+{
+  "cards": [
+    {
+      "body": "Die Romantik ist eine Epoche der europäischen Kultur, in Deutschland etwa von 1795 bis 1835. Sie setzt Gefühl, Fantasie und das Geheimnisvolle gegen den kühlen Vernunftglauben der Aufklärung.\n\nStatt klarer Regeln suchen Romantiker das Unendliche, das Unbewusste und das Wunderbare im Alltag.",
+      "img": {
+        "caption": "Einsamer Wanderer über Nebel – ein typisches romantisches Motiv",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Caspar_David_Friedrich",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 120 Q60 100 110 118 T220 112 T320 120 L320 200 L0 200 Z' opacity='0.5'/><path class='c' d='M0 150 Q80 130 150 148 T320 145 L320 200 L0 200 Z' opacity='0.8'/><path class='b' d='M110 200 L140 150 L170 140 L200 160 L230 200 Z'/><rect class='b' x='160' y='96' width='14' height='46' rx='5'/><circle class='b' cx='167' cy='88' r='8'/><path class='sb' stroke-width='4' d='M163 140 L158 156 M171 140 L176 156'/><path class='sb' stroke-width='3' d='M174 110 L190 140'/><circle class='a' cx='270' cy='40' r='14'/></svg>"
+      },
+      "kicker": "Überblick",
+      "tier": 1,
+      "title": "Was ist die Romantik?"
+    },
+    {
+      "body": "Das berühmteste Sinnbild der Romantik stammt von Novalis: In seinem Romanfragment „Heinrich von Ofterdingen“ träumt der Held von einer blauen Blume.\n\nSie steht für Sehnsucht, Liebe und das Streben nach dem Unerreichbaren – ein Ziel, das man nie ganz erreicht.",
+      "img": {
+        "caption": "Die blaue Blume: Sinnbild romantischer Sehnsucht",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='sc' stroke-width='4' fill='none' d='M160 190 C158 150 162 120 160 95'/><path class='c' d='M160 150 C135 140 125 120 128 108 C145 115 158 130 160 150 Z'/><path class='c' d='M161 130 C185 120 195 102 192 92 C176 98 164 112 161 130 Z'/><circle fill='#3b6fd8' cx='160' cy='60' r='22'/><circle fill='#3b6fd8' cx='136' cy='78' r='20'/><circle fill='#3b6fd8' cx='184' cy='78' r='20'/><circle fill='#3b6fd8' cx='146' cy='102' r='18'/><circle fill='#3b6fd8' cx='174' cy='102' r='18'/><circle class='a' cx='160' cy='84' r='12'/></svg>"
+      },
+      "kicker": "Symbol",
+      "tier": 1,
+      "title": "Die blaue Blume"
+    },
+    {
+      "body": "- Sehnsucht und Fernweh\n- Natur als Spiegel der Seele\n- Nacht, Traum und Wahnsinn\n- Mittelalter, Volkslied und Märchen\n- Wandern und Aufbruch\n\nOft verschwimmen dabei Wirklichkeit und Fantasie.",
+      "kicker": "Motive",
+      "tier": 1,
+      "title": "Typische Themen"
+    },
+    {
+      "body": "Jacob und Wilhelm Grimm sammelten Volksmärchen und veröffentlichten 1812 den ersten Band ihrer „Kinder- und Hausmärchen“. Darin stehen etwa „Hänsel und Gretel“ und „Rotkäppchen“.\n\nDas Sammeln alter Volksdichtung war ein Kernanliegen der Romantik: Man suchte die ‚ursprüngliche‘ Stimme des Volkes.",
+      "img": {
+        "caption": "Märchenbuch mit Hexenhaus",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M40 50 Q100 30 160 55 L160 175 Q100 150 40 170 Z'/><path class='e' d='M160 55 Q220 30 280 50 L280 170 Q220 150 160 175 Z'/><path class='sb' stroke-width='2' d='M160 55 L160 175'/><path class='a' d='M200 120 L215 85 L230 120 Z'/><rect class='a' x='205' y='120' width='20' height='22'/><circle class='b' cx='90' cy='95' r='14'/><path class='b' d='M70 145 Q90 110 110 145 Z'/></svg>"
+      },
+      "kicker": "Märchen",
+      "links": [
+        {
+          "title": "Grimms Märchen – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/Grimms_M%C3%A4rchen"
+        }
+      ],
+      "tier": 1,
+      "title": "Die Brüder Grimm"
+    },
+    {
+      "body": "Um 1798 trifft sich in Jena ein Kreis um die Brüder August Wilhelm und Friedrich Schlegel, dazu Novalis, Ludwig Tieck und Caroline Schlegel. Ihre Zeitschrift „Athenäum“ (1798–1800) wird zum Sprachrohr der neuen Bewegung.\n\nDie Frühromantik ist sehr theoretisch: Man denkt viel darüber nach, was Dichtung sein soll.",
+      "kicker": "Phase 1",
+      "tier": 2,
+      "title": "Frühromantik in Jena"
+    },
+    {
+      "body": "Friedrich Schlegel forderte eine Poesie, die alle Gattungen vermischt – Roman, Lyrik, Philosophie, Kritik – und nie fertig wird.\n\nDeshalb lieben Romantiker das Fragment: kurze, offene Gedankenstücke statt geschlossener Systeme. Auch die ‚romantische Ironie‘ gehört dazu: Der Autor bricht seine eigene Illusion bewusst auf.",
+      "img": {
+        "caption": "Fragmente statt geschlossenes Werk",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='e' x='40' y='30' width='90' height='60' rx='4' transform='rotate(-6 85 60)'/><rect class='c' x='150' y='40' width='120' height='40' rx='4' transform='rotate(4 210 60)'/><rect class='a' x='70' y='110' width='70' height='60' rx='4' transform='rotate(5 105 140)'/><rect class='e' x='170' y='105' width='100' height='70' rx='4' transform='rotate(-3 220 140)'/><path class='sb' stroke-width='3' d='M50 55 H115 M50 68 H105 M165 60 H250 M185 125 H255 M185 140 H245 M185 155 H235'/></svg>"
+      },
+      "kicker": "Programm",
+      "tier": 2,
+      "title": "Progressive Universalpoesie"
+    },
+    {
+      "body": "Novalis hieß eigentlich Friedrich von Hardenberg (1772–1801). Nach dem Tod seiner jungen Verlobten Sophie von Kühn schrieb er die „Hymnen an die Nacht“ (1800), in denen die Nacht als Ort der Liebe und des Unendlichen erscheint.\n\nEr starb mit nur 28 Jahren; sein Roman „Heinrich von Ofterdingen“ blieb unvollendet.",
+      "img": {
+        "caption": "Die Nacht als Ort der Sehnsucht",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Novalis",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='b' x='0' y='0' width='320' height='200'/><circle class='d' cx='240' cy='55' r='26'/><circle class='b' cx='252' cy='48' r='24'/><circle class='d' cx='60' cy='40' r='3'/><circle class='d' cx='110' cy='70' r='2'/><circle class='d' cx='160' cy='30' r='3'/><circle class='d' cx='200' cy='100' r='2'/><circle class='d' cx='290' cy='120' r='2'/><path class='c' d='M0 170 Q80 130 160 160 T320 150 L320 200 L0 200 Z'/><path class='a' d='M60 165 L70 120 L80 165 Z M95 160 L108 110 L121 160 Z'/></svg>"
+      },
+      "kicker": "Autor",
+      "links": [
+        {
+          "title": "Novalis – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/Novalis"
+        }
+      ],
+      "tier": 2,
+      "title": "Novalis"
+    },
+    {
+      "body": "Ab etwa 1805 rückt die Volksdichtung ins Zentrum. Achim von Arnim und Clemens Brentano geben „Des Knaben Wunderhorn“ heraus, eine Sammlung alter deutscher Lieder (1805–1808).\n\nIn dieser Phase wächst auch das Interesse an nationaler Geschichte und am Mittelalter – vor dem Hintergrund der napoleonischen Kriege.",
+      "kicker": "Phase 2",
+      "tier": 2,
+      "title": "Heidelberger Romantik"
+    },
+    {
+      "body": "Hoffmann (1776–1822) war Jurist, Komponist und Zeichner – und ein Meister des Unheimlichen. In „Der Sandmann“ (1816) verliebt sich Nathanael in die Automatenpuppe Olimpia und verliert den Verstand.\n\nAuch „Der goldne Topf“ und „Nussknacker und Mausekönig“ stammen von ihm; Letzteres inspirierte Tschaikowskys Ballett.",
+      "img": {
+        "caption": "Augen – das zentrale Motiv im „Sandmann“",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='e' cx='160' cy='100' r='70'/><ellipse class='d' cx='160' cy='100' rx='55' ry='28'/><circle class='a' cx='160' cy='100' r='24'/><circle class='b' cx='160' cy='100' r='11'/><circle class='d' cx='152' cy='92' r='4'/><path class='sb' stroke-width='3' fill='none' d='M95 70 L80 55 M120 55 L112 38 M160 48 L160 30 M200 55 L208 38 M225 70 L240 55'/></svg>"
+      },
+      "kicker": "Schauerromantik",
+      "links": [
+        {
+          "title": "E. T. A. Hoffmann – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/E._T._A._Hoffmann"
+        }
+      ],
+      "tier": 3,
+      "title": "E. T. A. Hoffmann"
+    },
+    {
+      "body": "Eichendorff (1788–1857) gilt als Vollender der romantischen Lyrik. Seine Gedichte wie „Mondnacht“ verbinden schlichte Volksliedform mit tiefer Naturstimmung.\n\nIn der Novelle „Aus dem Leben eines Taugenichts“ (1826) zieht ein sorgloser Müllerssohn mit seiner Geige in die Welt – Inbegriff romantischer Wanderlust.",
+      "img": {
+        "caption": "Aufbruch in die Ferne – der Taugenichts",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 120 L60 70 L120 115 L190 60 L260 110 L320 80 L320 200 L0 200 Z'/><path class='e' d='M140 200 Q170 160 160 130 Q150 110 175 95' fill='none' stroke-width='14'/><path class='a' d='M140 200 Q170 160 160 130 Q150 110 175 95 L180 96 Q158 112 168 132 Q178 162 152 200 Z'/><circle class='b' cx='90' cy='120' r='6'/><rect class='b' x='86' y='126' width='8' height='22' rx='3'/><path class='sb' stroke-width='3' d='M94 132 L104 124'/><rect class='a' x='100' y='112' width='10' height='14' rx='3'/></svg>"
+      },
+      "kicker": "Spätromantik",
+      "links": [
+        {
+          "title": "Joseph von Eichendorff – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/Joseph_von_Eichendorff"
+        }
+      ],
+      "tier": 3,
+      "title": "Joseph von Eichendorff"
+    },
+    {
+      "body": "Frauen prägten die Romantik stärker als frühere Epochen: Caroline Schlegel(-Schelling) und Dorothea Schlegel wirkten im Jenaer Kreis, Bettina von Arnim schrieb Briefromane, Karoline von Günderrode Gedichte und Dramen.\n\nIn Berliner Salons wie dem von Rahel Varnhagen trafen sich Dichter, Denker und Adlige zum Gespräch.",
+      "kicker": "Frauen",
+      "tier": 3,
+      "title": "Salons und Schriftstellerinnen"
+    },
+    {
+      "body": "Die Romantik wirkt bis heute: in der Fantasy-Literatur, im Bild der ‚deutschen Märchenwelt‘ und in der Idee des genialen, leidenden Künstlers.\n\nHeinrich Heine nannte sich spöttisch einen ‚entlaufenen Romantiker‘ und verabschiedete die Epoche mit Ironie. Auch Malerei (Caspar David Friedrich) und Musik (Schubert, Schumann) gehören zur Romantik.",
+      "kicker": "Erbe",
+      "tier": 3,
+      "title": "Nachwirkung"
+    }
+  ],
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Die Romantik setzte Gefühl und Fantasie gegen die Vernunftbetonung der Aufklärung.",
+      "id": "q1",
+      "options": [
+        "Gegen den reinen Vernunftglauben der Aufklärung",
+        "Gegen den Naturalismus",
+        "Gegen den Expressionismus",
+        "Gegen die Moderne nach 1900"
+      ],
+      "prompt": "Wogegen grenzte sich die Romantik vor allem ab?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Die blaue Blume aus Novalis’ „Heinrich von Ofterdingen“ steht für Sehnsucht.",
+      "id": "q2",
+      "options": [
+        "Die blaue Blume",
+        "Der Lorbeerkranz",
+        "Die rote Rose",
+        "Das Eichenlaub"
+      ],
+      "prompt": "Welches romantische Symbol zeigt das Bild?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='sc' stroke-width='4' fill='none' d='M160 190 C158 150 162 120 160 95'/><path class='c' d='M160 150 C135 140 125 120 128 108 C145 115 158 130 160 150 Z'/><path class='c' d='M161 130 C185 120 195 102 192 92 C176 98 164 112 161 130 Z'/><circle fill='#3b6fd8' cx='160' cy='60' r='22'/><circle fill='#3b6fd8' cx='136' cy='78' r='20'/><circle fill='#3b6fd8' cx='184' cy='78' r='20'/><circle fill='#3b6fd8' cx='146' cy='102' r='18'/><circle fill='#3b6fd8' cx='174' cy='102' r='18'/><circle class='a' cx='160' cy='84' r='12'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "answer": true,
+      "explain": "Der erste Band erschien 1812.",
+      "id": "q3",
+      "prompt": "Die Brüder Grimm veröffentlichten den ersten Band ihrer „Kinder- und Hausmärchen“ im Jahr 1812.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "explain": "Diese Motive ziehen sich durch die gesamte romantische Literatur.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Blaue Blume",
+          "Sehnsucht nach dem Unerreichbaren"
+        ],
+        [
+          "Nacht",
+          "Traum und Unbewusstes"
+        ],
+        [
+          "Wandern",
+          "Aufbruch und Fernweh"
+        ],
+        [
+          "Märchen",
+          "Ursprüngliche Volksdichtung"
+        ]
+      ],
+      "prompt": "Ordne Motiv und Bedeutung zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Das „Athenäum“ erschien 1798–1800 und war das Sprachrohr der Frühromantik.",
+      "id": "q5",
+      "options": [
+        "Athenäum",
+        "Die Horen",
+        "Der Teutsche Merkur",
+        "Die Fackel"
+      ],
+      "prompt": "Wie hieß die Zeitschrift der Jenaer Frühromantiker?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Novalis hieß eigentlich Friedrich von Hardenberg.",
+      "id": "q6",
+      "prompt": "Novalis war der bürgerliche Name von Friedrich Schlegel.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "explain": "1798, 1800, 1812, 1826.",
+      "id": "q7",
+      "items": [
+        "„Athenäum“ (erste Ausgabe)",
+        "„Hymnen an die Nacht“",
+        "„Kinder- und Hausmärchen“, Band 1",
+        "„Aus dem Leben eines Taugenichts“"
+      ],
+      "prompt": "Bringe die Werke in die zeitliche Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Arnim und Brentano sammelten darin alte deutsche Lieder.",
+      "id": "q8",
+      "options": [
+        "Achim von Arnim und Clemens Brentano",
+        "Jacob und Wilhelm Grimm",
+        "August Wilhelm und Friedrich Schlegel",
+        "Goethe und Schiller"
+      ],
+      "prompt": "Wer gab „Des Knaben Wunderhorn“ heraus?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Augen sind das Leitmotiv in E. T. A. Hoffmanns „Der Sandmann“.",
+      "id": "q9",
+      "options": [
+        "„Der Sandmann“",
+        "„Der Taugenichts“",
+        "„Undine“",
+        "„Peter Schlemihl“"
+      ],
+      "prompt": "Auf welche Erzählung spielt dieses Bild mit dem Augen-Motiv an?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='e' cx='160' cy='100' r='70'/><ellipse class='d' cx='160' cy='100' rx='55' ry='28'/><circle class='a' cx='160' cy='100' r='24'/><circle class='b' cx='160' cy='100' r='11'/><circle class='d' cx='152' cy='92' r='4'/><path class='sb' stroke-width='3' fill='none' d='M95 70 L80 55 M120 55 L112 38 M160 48 L160 30 M200 55 L208 38 M225 70 L240 55'/></svg>",
+      "tier": 3,
+      "type": "image"
+    },
+    {
+      "explain": "Jedes Werk ist ein Klassiker seiner romantischen Phase.",
+      "id": "q10",
+      "pairs": [
+        [
+          "E. T. A. Hoffmann",
+          "Der Sandmann"
+        ],
+        [
+          "Joseph von Eichendorff",
+          "Aus dem Leben eines Taugenichts"
+        ],
+        [
+          "Novalis",
+          "Heinrich von Ofterdingen"
+        ],
+        [
+          "Arnim und Brentano",
+          "Des Knaben Wunderhorn"
+        ]
+      ],
+      "prompt": "Ordne Autor und Werk zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": true,
+      "explain": "Das Ballett geht auf Hoffmanns Erzählung zurück.",
+      "id": "q11",
+      "prompt": "Hoffmanns „Nussknacker und Mausekönig“ inspirierte Tschaikowskys Ballett „Der Nussknacker“.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Heine stand zwischen Romantik und Moderne und ironisierte die Epoche.",
+      "id": "q12",
+      "options": [
+        "Heinrich Heine",
+        "Friedrich Schiller",
+        "Theodor Fontane",
+        "Rainer Maria Rilke"
+      ],
+      "prompt": "Welcher Dichter verabschiedete die Romantik mit Ironie und nannte sich einen ‚entlaufenen Romantiker‘?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Romantik – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Romantik"
+    },
+    {
+      "title": "Novalis – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Novalis"
+    },
+    {
+      "title": "E. T. A. Hoffmann – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/E._T._A._Hoffmann"
+    },
+    {
+      "title": "Joseph von Eichendorff – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Joseph_von_Eichendorff"
+    },
+    {
+      "title": "Grimms Märchen – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Grimms_M%C3%A4rchen"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "romantik",
+  "subtitle": "Sehnsucht, Nacht und Märchen: die Epoche, die Gefühl über Vernunft stellte.",
+  "takeaways": [
+    "Die Romantik (ca. 1795–1835) setzte Gefühl, Fantasie und das Geheimnisvolle gegen die Vernunftbetonung der Aufklärung.",
+    "Sie verlief in Phasen: Jenaer Frühromantik, Heidelberger Romantik mit Volksdichtung und Spätromantik mit Eichendorff und Hoffmann.",
+    "Die blaue Blume, Nacht, Wandern und Märchen sind ihre Leitmotive – und prägen unsere Vorstellungswelt bis heute."
+  ],
+  "theme": "literature",
+  "title": "Die Romantik"
+}

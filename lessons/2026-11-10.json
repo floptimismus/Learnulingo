@@ -1,0 +1,324 @@
+{
+  "cards": [
+    {
+      "body": "Japan ist ein Inselstaat im Westpazifik, östlich von Korea und China. Die Hauptstadt ist Tokio, Amtssprache Japanisch, die Währung der Yen.\n\n- Fläche: rund 378.000 km² (etwas größer als Deutschland)\n- Einwohner: rund 124 Millionen\n- Staatsform: parlamentarische Monarchie mit einem Kaiser (Tennō)",
+      "img": {
+        "caption": "Stark vereinfacht: die Inselkette Japans zwischen Japanischem Meer und Pazifik",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' opacity='0.35' d='M0 0 L60 0 L40 60 L20 140 L0 160 Z'/><path class='a' d='M232 22 L262 18 L284 34 L276 56 L254 62 L236 50 Z'/><path class='a' d='M244 74 L258 70 L262 92 L250 120 L226 140 L196 150 L166 152 L140 160 L122 156 L130 144 L160 136 L190 128 L214 116 L232 98 Z'/><path class='a' d='M150 162 L176 160 L180 172 L156 176 Z'/><path class='a' d='M104 160 L122 162 L126 182 L112 194 L98 184 Z'/><path class='sb' stroke-width='2' fill='none' stroke-dasharray='4 4' d='M300 10 L300 190'/></svg>"
+      },
+      "kicker": "Überblick",
+      "tier": 1,
+      "title": "Japan auf einen Blick"
+    },
+    {
+      "body": "Die Flagge heißt Nisshōki, im Alltag Hinomaru („Sonnenkreis“): eine rote Scheibe mittig auf weißem Grund. Das Seitenverhältnis ist 2:3, der Kreis misst drei Fünftel der Flaggenhöhe.\n\nOffiziell gesetzlich festgelegt wurde sie erst 1999, genutzt wird sie aber seit Jahrhunderten. Japan nennt sich selbst Nippon oder Nihon – „Ursprung der Sonne“.",
+      "img": {
+        "caption": "Hinomaru: rote Scheibe auf Weiß",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Flag_of_Japan",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect fill='#ffffff' class='sc' stroke-width='1' x='40' y='20' width='240' height='160'/><circle fill='#bc002d' cx='160' cy='100' r='48'/></svg>"
+      },
+      "kicker": "Flagge",
+      "tier": 1,
+      "title": "Die Sonnenscheibe"
+    },
+    {
+      "body": "Von Nord nach Süd liegen die vier Hauptinseln Hokkaidō, Honshū, Shikoku und Kyūshū. Honshū ist die größte; dort liegen Tokio, Osaka und Kyoto.\n\nInsgesamt zählt Japan nach einer Neuzählung von 2023 über 14.000 Inseln, darunter die subtropischen Ryūkyū-Inseln mit Okinawa im Süden.",
+      "kicker": "Lage",
+      "tier": 1,
+      "title": "Vier Hauptinseln – und tausende weitere"
+    },
+    {
+      "body": "Japanisch wird mit drei Schriften geschrieben, oft gemischt im selben Satz:\n\n- Kanji: aus China übernommene Zeichen für Bedeutungen\n- Hiragana: Silbenschrift für Endungen und Grammatik\n- Katakana: Silbenschrift vor allem für Fremdwörter\n\nFür den Alltag gelten 2.136 „Jōyō-Kanji“ als Standard.",
+      "img": {
+        "caption": "Drei Schriftsysteme nebeneinander (symbolisch)",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='e' x='20' y='40' width='80' height='120' rx='10'/><rect class='e' x='120' y='40' width='80' height='120' rx='10'/><rect class='e' x='220' y='40' width='80' height='120' rx='10'/><path class='sa' stroke-width='6' fill='none' stroke-linecap='round' d='M42 80 Q60 70 78 82 M50 110 Q62 130 80 116'/><path class='sb' stroke-width='6' fill='none' stroke-linecap='round' d='M140 72 L180 72 L170 96 M150 104 L182 128'/><path class='sb' stroke-width='6' fill='none' stroke-linecap='round' d='M240 70 L280 70 M260 60 L260 140 M240 100 L280 100 M244 130 L276 130'/></svg>"
+      },
+      "kicker": "Sprache",
+      "tier": 1,
+      "title": "Drei Schriften in einem Satz"
+    },
+    {
+      "body": "Der Fuji ist mit 3.776 Metern der höchste Berg Japans, ein fast symmetrischer Vulkan, der zuletzt 1707 ausbrach. Seit 2013 ist er UNESCO-Welterbe.\n\nJapan liegt am Pazifischen Feuerring, wo mehrere Erdplatten aufeinandertreffen. Deshalb gibt es viele Vulkane, heiße Quellen (Onsen) und häufig Erdbeben.",
+      "img": {
+        "caption": "Der schneebedeckte Gipfel des Fuji",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Mount_Fuji",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='255' cy='45' r='18'/><path class='c' d='M40 170 L130 70 Q160 52 190 70 L280 170 Z'/><path fill='#ffffff' d='M118 84 L130 70 Q160 52 190 70 L202 84 L188 92 L174 84 L160 94 L146 84 L132 92 Z'/><rect class='b' x='0' y='170' width='320' height='30' opacity='0.25'/></svg>"
+      },
+      "kicker": "Natur",
+      "tier": 2,
+      "title": "Fuji und der Feuerring"
+    },
+    {
+      "body": "- Kyoto: über 1.000 Jahre Kaiserstadt, mit dem Goldenen Pavillon (Kinkaku-ji)\n- Himeji-jō: die weiße „Reiherburg“, eine der besterhaltenen Burgen\n- Itsukushima (Miyajima): Schrein mit einem roten Torii, das bei Flut im Wasser steht\n- Hiroshima: die Atombombenkuppel (Genbaku-Kuppel) als Friedensdenkmal",
+      "img": {
+        "caption": "Ein Torii markiert den Eingang zu einem Shintō-Schrein",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='140' width='320' height='60' opacity='0.5'/><path fill='#d6452a' d='M80 46 Q160 30 240 46 L240 58 Q160 44 80 58 Z'/><rect fill='#d6452a' x='96' y='70' width='128' height='10'/><rect fill='#d6452a' x='108' y='54' width='12' height='112'/><rect fill='#d6452a' x='200' y='54' width='12' height='112'/><rect class='b' x='154' y='58' width='12' height='14'/></svg>"
+      },
+      "kicker": "Sehenswürdigkeiten",
+      "tier": 2,
+      "title": "Tempel, Burgen, Schreine"
+    },
+    {
+      "body": "Am 1. Oktober 1964, kurz vor den Olympischen Spielen in Tokio, eröffnete zwischen Tokio und Osaka die erste Schnellfahrstrecke der Welt.\n\nDie Shinkansen-Züge sind berühmt für ihre Pünktlichkeit: Verspätungen werden oft in Sekunden gemessen.",
+      "img": {
+        "caption": "Ein Shinkansen mit der typischen langen Nase",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Shinkansen",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='150' width='320' height='6'/><path class='sb' stroke-width='2' d='M0 164 L320 164'/><path class='e' d='M20 100 L220 100 Q290 102 300 140 L20 140 Z' fill='#ffffff'/><path class='sb' stroke-width='2' fill='none' d='M20 100 L220 100 Q290 102 300 140 L20 140 Z'/><rect fill='#1d4fa3' x='20' y='124' width='272' height='6'/><path class='b' d='M226 104 Q262 108 276 124 L230 124 Z'/><rect class='c' x='40' y='108' width='16' height='10'/><rect class='c' x='70' y='108' width='16' height='10'/><rect class='c' x='100' y='108' width='16' height='10'/><rect class='c' x='130' y='108' width='16' height='10'/><rect class='c' x='160' y='108' width='16' height='10'/><rect class='c' x='190' y='108' width='16' height='10'/></svg>"
+      },
+      "kicker": "Verkehr",
+      "tier": 2,
+      "title": "Shinkansen"
+    },
+    {
+      "body": "Im Frühling feiern viele Menschen Hanami, das Betrachten der Kirschblüte. Neben Shintō-Schreinen gibt es zahlreiche buddhistische Tempel; viele Menschen besuchen beide.\n\nDie Küche mit Sushi, Ramen und Miso ist weltbekannt; die traditionelle japanische Esskultur (Washoku) ist seit 2013 immaterielles UNESCO-Kulturerbe.",
+      "img": {
+        "caption": "Kirschblüten – Symbol des Frühlings",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='sb' stroke-width='6' fill='none' d='M20 190 Q80 120 160 110 Q230 100 300 40'/><g><circle fill='#f4b6c8' cx='90' cy='138' r='9'/><circle class='a' cx='90' cy='138' r='3'/></g><g><circle fill='#f4b6c8' cx='130' cy='112' r='9'/><circle class='a' cx='130' cy='112' r='3'/></g><g><circle fill='#f4b6c8' cx='170' cy='100' r='9'/><circle class='a' cx='170' cy='100' r='3'/></g><g><circle fill='#f4b6c8' cx='205' cy='92' r='9'/><circle class='a' cx='205' cy='92' r='3'/></g><g><circle fill='#f4b6c8' cx='240' cy='74' r='9'/><circle class='a' cx='240' cy='74' r='3'/></g><g><circle fill='#f4b6c8' cx='270' cy='58' r='9'/><circle class='a' cx='270' cy='58' r='3'/></g><g><circle fill='#f4b6c8' cx='150' cy='84' r='9'/><circle class='a' cx='150' cy='84' r='3'/></g><g><circle fill='#f4b6c8' cx='220' cy='118' r='9'/><circle class='a' cx='220' cy='118' r='3'/></g><g><circle fill='#f4b6c8' cx='110' cy='150' r='9'/><circle class='a' cx='110' cy='150' r='3'/></g></svg>"
+      },
+      "kicker": "Kultur",
+      "tier": 2,
+      "title": "Alltag zwischen Tradition und Hightech"
+    },
+    {
+      "body": "794 wurde Heian-kyō, das heutige Kyoto, Kaiserresidenz. Ab 1603 regierten die Tokugawa-Shōgune von Edo aus und schotteten das Land weitgehend ab.\n\nMit der Meiji-Restauration 1868 kam der Kaiser zurück an die Macht, Edo wurde als Tokio Hauptstadt, und Japan modernisierte sich rasant nach westlichem Vorbild.",
+      "img": {
+        "caption": "Japanische Burg mit geschwungenen Dächern",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Himeji_Castle",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='70' y='150' width='180' height='40'/><rect fill='#ffffff' class='sc' stroke-width='1' x='100' y='118' width='120' height='32'/><path class='b' d='M84 122 L160 104 L236 122 Z'/><rect fill='#ffffff' class='sc' stroke-width='1' x='116' y='86' width='88' height='26'/><path class='b' d='M102 90 L160 72 L218 90 Z'/><rect fill='#ffffff' class='sc' stroke-width='1' x='132' y='56' width='56' height='22'/><path class='b' d='M120 60 L160 40 L200 60 Z'/></svg>"
+      },
+      "kicker": "Geschichte",
+      "tier": 3,
+      "title": "Von Heian-kyō bis zur Moderne"
+    },
+    {
+      "body": "Japan ist eine parlamentarische Monarchie; der Kaiser hat nach der Verfassung von 1947 nur repräsentative Aufgaben. Seit 2019 ist Naruhito Kaiser.\n\nJapan zählt Jahre zusätzlich nach Ären: Mit Naruhitos Thronbesteigung begann die Ära Reiwa, davor lief Heisei (1989–2019).",
+      "kicker": "Staat",
+      "tier": 3,
+      "title": "Kaiser und Ären"
+    },
+    {
+      "body": "Japaner haben eine der höchsten Lebenserwartungen der Welt. Zugleich werden wenige Kinder geboren.\n\nDie Bevölkerung erreichte um 2008 ihren Höchststand mit gut 128 Millionen und schrumpft seither. Fast drei von zehn Menschen sind 65 oder älter.",
+      "kicker": "Gesellschaft",
+      "tier": 3,
+      "title": "Langes Leben, schrumpfende Bevölkerung"
+    },
+    {
+      "body": "- Tokio bildet mit seinem Umland einen der größten Ballungsräume der Welt.\n- Der Biwa-See bei Kyoto ist Japans größter See.\n- Für viele Züge gilt: Das Personal verbeugt sich beim Verlassen des Wagens vor den Fahrgästen.\n- Japan hat mehr als 100 aktive Vulkane.",
+      "kicker": "Fun Facts",
+      "tier": 3,
+      "title": "Überraschendes aus Japan"
+    }
+  ],
+  "date": "2026-11-10",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Tokio ist seit der Meiji-Zeit Hauptstadt Japans.",
+      "id": "q1",
+      "options": [
+        "Tokio",
+        "Kyoto",
+        "Osaka",
+        "Seoul"
+      ],
+      "prompt": "Wie heißt die Hauptstadt Japans?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Die rote Scheibe mittig auf Weiß ist der japanische Hinomaru.",
+      "id": "q2",
+      "options": [
+        "Japan",
+        "Bangladesch",
+        "Südkorea",
+        "China"
+      ],
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect fill='#ffffff' class='sc' stroke-width='1' x='40' y='20' width='240' height='160'/><circle fill='#bc002d' cx='160' cy='100' r='48'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "answer": false,
+      "explain": "Es gibt vier Hauptinseln, insgesamt aber über 14.000 Inseln.",
+      "id": "q3",
+      "prompt": "Japan besteht aus genau vier Inseln.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "explain": "Von Nord nach Süd: Hokkaidō, Honshū, Shikoku, Kyūshū.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Hokkaidō",
+          "ganz im Norden"
+        ],
+        [
+          "Honshū",
+          "größte Insel mit Tokio"
+        ],
+        [
+          "Kyūshū",
+          "im Südwesten"
+        ],
+        [
+          "Shikoku",
+          "kleinste der vier Hauptinseln"
+        ]
+      ],
+      "prompt": "Ordne die Hauptinseln richtig zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Das Torii ist das typische Tor eines Shintō-Schreins.",
+      "id": "q5",
+      "options": [
+        "Ein Torii",
+        "Eine Pagode",
+        "Einen Burgturm",
+        "Ein Teehaus"
+      ],
+      "prompt": "Was zeigt das Bild?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='140' width='320' height='60' opacity='0.5'/><path fill='#d6452a' d='M80 46 Q160 30 240 46 L240 58 Q160 44 80 58 Z'/><rect fill='#d6452a' x='96' y='70' width='128' height='10'/><rect fill='#d6452a' x='108' y='54' width='12' height='112'/><rect fill='#d6452a' x='200' y='54' width='12' height='112'/><rect class='b' x='154' y='58' width='12' height='14'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": 0,
+      "explain": "Die Strecke Tokio–Osaka eröffnete 1964 kurz vor den Olympischen Spielen.",
+      "id": "q6",
+      "options": [
+        "1964",
+        "1945",
+        "1972",
+        "1988"
+      ],
+      "prompt": "In welchem Jahr fuhr der erste Shinkansen?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": true,
+      "explain": "Der Vulkan Fuji ist 3.776 Meter hoch.",
+      "id": "q7",
+      "prompt": "Der Fuji ist mit 3.776 Metern der höchste Berg Japans.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "explain": "Alle vier gehören zu Japans bekanntesten Orten.",
+      "id": "q8",
+      "pairs": [
+        [
+          "Kinkaku-ji",
+          "Goldener Pavillon in Kyoto"
+        ],
+        [
+          "Himeji-jō",
+          "weiße „Reiherburg“"
+        ],
+        [
+          "Itsukushima",
+          "Torii im Wasser"
+        ],
+        [
+          "Genbaku-Kuppel",
+          "Friedensdenkmal in Hiroshima"
+        ]
+      ],
+      "prompt": "Ordne die Sehenswürdigkeiten zu.",
+      "tier": 2,
+      "type": "match"
+    },
+    {
+      "explain": "794, 1603, 1868, 1964.",
+      "id": "q9",
+      "items": [
+        "Heian-kyō (Kyoto) wird Kaiserresidenz",
+        "Beginn der Edo-Zeit unter den Tokugawa",
+        "Meiji-Restauration",
+        "Eröffnung des ersten Shinkansen"
+      ],
+      "prompt": "Bringe die Ereignisse in die richtige Reihenfolge.",
+      "tier": 3,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Seit dem 1. Mai 2019 läuft die Ära Reiwa.",
+      "id": "q10",
+      "options": [
+        "Reiwa",
+        "Heisei",
+        "Shōwa",
+        "Meiji"
+      ],
+      "prompt": "Wie heißt die Ära, die 2019 mit Kaiser Naruhito begann?",
+      "tier": 3,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Seit dem Höchststand um 2008 schrumpft die Bevölkerung.",
+      "id": "q11",
+      "prompt": "Japans Bevölkerung wächst seit 2008 stetig.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Katakana dient vor allem für Lehn- und Fremdwörter; Hangul ist die koreanische Schrift.",
+      "id": "q12",
+      "options": [
+        "Katakana",
+        "Hiragana",
+        "Kanji",
+        "Hangul"
+      ],
+      "prompt": "Welche Schrift nutzt man im Japanischen vor allem für Fremdwörter?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Japan",
+      "url": "https://de.wikipedia.org/wiki/Japan"
+    },
+    {
+      "title": "Wikipedia: Flagge Japans",
+      "url": "https://de.wikipedia.org/wiki/Flagge_Japans"
+    },
+    {
+      "title": "UNESCO: Fujisan",
+      "url": "https://whc.unesco.org/en/list/1418"
+    },
+    {
+      "title": "Wikipedia: Shinkansen",
+      "url": "https://de.wikipedia.org/wiki/Shinkansen"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "Japan",
+  "subtitle": "Inselstaat zwischen Vulkanen, Tempeln und Hochgeschwindigkeitszügen.",
+  "takeaways": [
+    "Japan ist ein Inselstaat mit vier Hauptinseln und der Hauptstadt Tokio.",
+    "Die Lage am Pazifischen Feuerring prägt das Land mit Vulkanen wie dem Fuji und häufigen Erdbeben.",
+    "Von der Kaiserstadt Kyoto über die Meiji-Restauration bis zum Shinkansen verbindet Japan Tradition und Moderne."
+  ],
+  "theme": "geography",
+  "title": "Japan"
+}

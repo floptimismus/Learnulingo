@@ -1,0 +1,406 @@
+{
+  "cards": [
+    {
+      "body": "In der Nacht vom 9. auf den 10. November 1989 öffnete die DDR ihre Grenzübergänge nach West-Berlin. Tausende Menschen strömten hinüber, feierten auf der Mauer und lagen sich in den Armen.\n\nDer Mauerfall war der Höhepunkt der Friedlichen Revolution in der DDR. Elf Monate später war Deutschland wiedervereinigt.",
+      "img": {
+        "caption": "Symbolbild: Menschen gehen durch eine Lücke in der Mauer",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Berlin_Wall",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='150' width='320' height='50'/><rect class='b' x='10' y='70' width='110' height='80'/><rect class='b' x='200' y='70' width='110' height='80'/><path class='b' d='M120 70 L132 92 L124 110 L134 150 L120 150 Z M200 70 L190 96 L198 120 L188 150 L200 150 Z'/><circle class='a' cx='150' cy='110' r='7'/><rect class='a' x='144' y='118' width='12' height='24'/><circle class='a' cx='170' cy='104' r='7'/><rect class='a' x='164' y='112' width='12' height='24'/><circle class='a' cx='160' cy='124' r='7'/><rect class='a' x='154' y='132' width='12' height='24'/></svg>"
+      },
+      "kicker": "Überblick",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        }
+      ],
+      "tier": 1,
+      "title": "Die Nacht, in der die Mauer fiel"
+    },
+    {
+      "body": "Die DDR begann am 13. August 1961 mit dem Bau der Mauer, um die Massenflucht in den Westen zu stoppen. Sie umschloss West-Berlin auf rund 155 Kilometern.\n\nHinter der eigentlichen Mauer lag ein bewachter Todesstreifen. Mindestens 140 Menschen kamen an der Berliner Mauer ums Leben.",
+      "img": {
+        "caption": "Stilisiert: Mauer, Todesstreifen und Wachturm",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Berlin_Wall",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='160' width='320' height='40'/><rect class='e' x='0' y='150' width='320' height='10'/><rect class='b' x='20' y='100' width='120' height='50'/><path class='b' d='M20 100 Q80 88 140 100 Z'/><rect class='b' x='220' y='60' width='16' height='90'/><rect class='b' x='208' y='40' width='40' height='22'/><rect class='d' x='214' y='46' width='28' height='8'/><path class='b' d='M204 40 L252 40 L246 32 L210 32 Z'/><path class='sc' stroke-width='2' stroke-dasharray='5 5' d='M150 140 L320 140'/></svg>"
+      },
+      "kicker": "Hintergrund",
+      "links": [
+        {
+          "title": "Wikipedia: Berliner Mauer",
+          "url": "https://de.wikipedia.org/wiki/Berliner_Mauer"
+        },
+        {
+          "title": "Chronik der Mauer (bpb/ZZF)",
+          "url": "https://www.chronik-der-mauer.de/"
+        }
+      ],
+      "tier": 1,
+      "title": "28 Jahre geteilte Stadt"
+    },
+    {
+      "body": "Am Abend des 9. November verlas SED-Politbüromitglied Günter Schabowski auf einer live übertragenen Pressekonferenz eine neue Reiseregelung. Auf die Frage, ab wann sie gelte, sagte er: „sofort, unverzüglich“.\n\nEigentlich sollte die Regel erst am nächsten Tag und geordnet in Kraft treten. Das Westfernsehen meldete aber, die Grenze sei offen – und die Menschen machten sich auf den Weg.",
+      "img": {
+        "caption": "Symbolbild: Die Nachricht verbreitete sich über das Fernsehen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='80' y='40' width='160' height='110' rx='12'/><rect class='c' x='94' y='52' width='132' height='86' rx='6'/><rect class='a' x='150' y='70' width='20' height='50'/><circle class='a' cx='160' cy='62' r='9'/><rect class='b' x='110' y='150' width='14' height='22'/><rect class='b' x='196' y='150' width='14' height='22'/></svg>"
+      },
+      "kicker": "Auslöser",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        }
+      ],
+      "tier": 1,
+      "title": "Ein Zettel und ein Wort: „sofort“"
+    },
+    {
+      "body": "Am Übergang Bornholmer Straße drängten sich am Abend Tausende. Gegen 23.30 Uhr gab der diensthabende Offizier Harald Jäger ohne Befehl von oben nach und ließ alle passieren.\n\nIn den folgenden Stunden öffneten auch andere Übergänge. Kein Schuss fiel.",
+      "kicker": "Bornholmer Straße",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        },
+        {
+          "title": "Chronik der Mauer (bpb/ZZF)",
+          "url": "https://www.chronik-der-mauer.de/"
+        }
+      ],
+      "tier": 1,
+      "title": "Der Schlagbaum geht hoch"
+    },
+    {
+      "body": "- Die Wirtschaft der DDR war marode, Versorgungsmängel prägten den Alltag.\n- Viele Menschen wollten Reisefreiheit, Meinungsfreiheit und freie Wahlen.\n- In Moskau setzte Michail Gorbatschow auf Reformen (Glasnost und Perestroika) und ließ den Ostblockstaaten mehr Spielraum.\n\nAnders als 1953 in der DDR griff die Sowjetunion 1989 nicht militärisch ein.",
+      "kicker": "Ursachen",
+      "links": [
+        {
+          "title": "Wikipedia: Friedliche Revolution",
+          "url": "https://de.wikipedia.org/wiki/Friedliche_Revolution"
+        }
+      ],
+      "tier": 2,
+      "title": "Warum die DDR ins Wanken geriet"
+    },
+    {
+      "body": "Im Mai 1989 begann Ungarn, die Grenzanlagen zu Österreich abzubauen. Beim Paneuropäischen Picknick am 19. August flohen Hunderte DDR-Bürger, ab dem 11. September ließ Ungarn sie offiziell ausreisen.\n\nTausende besetzten zudem die westdeutsche Botschaft in Prag. Am 30. September verkündete Außenminister Hans-Dietrich Genscher dort ihre Ausreise.",
+      "img": {
+        "caption": "Symbolbild: ein geöffneter Grenzzaun",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='e' d='M0 100 L320 100'/><path class='sb' stroke-width='3' fill='none' d='M40 60 L40 140 M80 60 L80 140 M120 60 L120 140'/><path class='sc' stroke-width='2' fill='none' d='M40 70 L120 90 M40 90 L120 110 M40 110 L120 130 M40 130 L120 70'/><path class='sa' stroke-width='4' fill='none' d='M150 100 L290 100 M270 85 L290 100 L270 115'/></svg>"
+      },
+      "kicker": "Fluchtwelle",
+      "links": [
+        {
+          "title": "Wikipedia: Friedliche Revolution",
+          "url": "https://de.wikipedia.org/wiki/Friedliche_Revolution"
+        }
+      ],
+      "tier": 2,
+      "title": "Das Loch im Eisernen Vorhang"
+    },
+    {
+      "body": "In Leipzig zogen montags immer mehr Menschen nach Friedensgebeten durch die Stadt. Am 9. Oktober 1989 waren es rund 70.000 – der Staat griff nicht ein.\n\nAm 4. November folgte auf dem Berliner Alexanderplatz eine der größten Demonstrationen der DDR-Geschichte. Die Proteste blieben gewaltfrei, daher der Name Friedliche Revolution.",
+      "img": {
+        "caption": "Kerzen wurden zum Symbol der friedlichen Proteste",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='50' y='110' width='14' height='40' rx='3'/><path class='a' d='M57 90 Q66 102 57 108 Q48 102 57 90 Z'/><rect class='c' x='100' y='110' width='14' height='40' rx='3'/><path class='a' d='M107 90 Q116 102 107 108 Q98 102 107 90 Z'/><rect class='c' x='150' y='110' width='14' height='40' rx='3'/><path class='a' d='M157 90 Q166 102 157 108 Q148 102 157 90 Z'/><rect class='c' x='200' y='110' width='14' height='40' rx='3'/><path class='a' d='M207 90 Q216 102 207 108 Q198 102 207 90 Z'/><rect class='c' x='250' y='110' width='14' height='40' rx='3'/><path class='a' d='M257 90 Q266 102 257 108 Q248 102 257 90 Z'/><rect class='e' x='30' y='150' width='260' height='8'/></svg>"
+      },
+      "kicker": "Protest",
+      "links": [
+        {
+          "title": "Wikipedia: Friedliche Revolution",
+          "url": "https://de.wikipedia.org/wiki/Friedliche_Revolution"
+        }
+      ],
+      "tier": 2,
+      "title": "„Wir sind das Volk“"
+    },
+    {
+      "body": "- Erich Honecker: langjähriger Staats- und Parteichef, am 18. Oktober 1989 gestürzt\n- Egon Krenz: sein Nachfolger an der SED-Spitze\n- Günter Schabowski: verkündete die neue Reiseregelung\n- Michail Gorbatschow: sowjetischer Parteichef und Reformer\n- Helmut Kohl: Bundeskanzler der Bundesrepublik",
+      "kicker": "Personen",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        }
+      ],
+      "tier": 2,
+      "title": "Wer eine Rolle spielte"
+    },
+    {
+      "body": "Am 28. November 1989 stellte Helmut Kohl ein Zehn-Punkte-Programm zur deutschen Einheit vor. Am 18. März 1990 wählte die DDR zum ersten Mal frei ihre Volkskammer.\n\nAm 1. Juli 1990 kam die D-Mark in die DDR, am 3. Oktober 1990 trat die DDR der Bundesrepublik bei.",
+      "kicker": "Wiedervereinigung",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        }
+      ],
+      "tier": 3,
+      "title": "Von der offenen Grenze zur Einheit"
+    },
+    {
+      "body": "Die Einheit brauchte die Zustimmung der Siegermächte des Zweiten Weltkriegs. Am 12. September 1990 unterzeichneten beide deutschen Staaten mit den USA, der Sowjetunion, Großbritannien und Frankreich in Moskau den Zwei-plus-Vier-Vertrag.\n\nDamit erhielt Deutschland die volle Souveränität. Der Mauerfall gilt zudem als Symbol für das Ende des Kalten Krieges.",
+      "kicker": "Außenpolitik",
+      "links": [
+        {
+          "title": "Wikipedia: Zwei-plus-Vier-Vertrag",
+          "url": "https://de.wikipedia.org/wiki/Zwei-plus-Vier-Vertrag"
+        }
+      ],
+      "tier": 3,
+      "title": "Der Zwei-plus-Vier-Vertrag"
+    },
+    {
+      "body": "Der 9. November steht in der deutschen Geschichte für mehrere Wendepunkte: 1918 wurde die Republik ausgerufen, 1938 verübten die Nationalsozialisten die Novemberpogrome gegen Jüdinnen und Juden.\n\nAuch deshalb wurde nicht der Tag des Mauerfalls, sondern der 3. Oktober zum Nationalfeiertag.",
+      "kicker": "Gedenken",
+      "links": [
+        {
+          "title": "Wikipedia: Mauerfall",
+          "url": "https://de.wikipedia.org/wiki/Mauerfall"
+        }
+      ],
+      "tier": 3,
+      "title": "Der 9. November als Schicksalstag"
+    },
+    {
+      "body": "Das Brandenburger Tor lag im Sperrgebiet und wurde am 22. Dezember 1989 geöffnet – heute ist es das Symbol der Einheit.\n\n- Gedenkstätte Berliner Mauer an der Bernauer Straße\n- East Side Gallery: rund 1,3 Kilometer bemalte Mauer an der Spree\n- Eine doppelte Pflastersteinreihe markiert vielerorts den alten Verlauf",
+      "img": {
+        "caption": "Stilisiert: das Brandenburger Tor mit Quadriga",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Brandenburg_Gate",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='170' width='320' height='30'/><rect class='b' x='50' y='70' width='220' height='14'/><rect class='b' x='60' y='60' width='200' height='10'/><rect class='b' x='62' y='84' width='10' height='86'/><rect class='b' x='96' y='84' width='10' height='86'/><rect class='b' x='130' y='84' width='10' height='86'/><rect class='b' x='180' y='84' width='10' height='86'/><rect class='b' x='214' y='84' width='10' height='86'/><rect class='b' x='248' y='84' width='10' height='86'/><rect class='b' x='140' y='40' width='40' height='20'/><path class='a' d='M144 40 L150 24 L170 24 L176 40 Z'/><circle class='a' cx='160' cy='18' r='5'/></svg>"
+      },
+      "kicker": "Spuren heute",
+      "links": [
+        {
+          "title": "Gedenkstätte Berliner Mauer",
+          "url": "https://www.stiftung-berliner-mauer.de/"
+        }
+      ],
+      "tier": 3,
+      "title": "Wo man die Mauer noch sieht"
+    }
+  ],
+  "date": "2026-11-11",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Am Abend des 9. November 1989 öffneten sich die Grenzübergänge.",
+      "id": "q1",
+      "options": [
+        "In der Nacht vom 9. auf den 10. November 1989",
+        "Am 13. August 1961",
+        "Am 3. Oktober 1990",
+        "Am 17. Juni 1953"
+      ],
+      "prompt": "Wann fiel die Berliner Mauer?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": true,
+      "explain": "Mit diesen Worten löste er den Ansturm auf die Grenzübergänge aus.",
+      "id": "q2",
+      "prompt": "Günter Schabowski sagte, die neue Reiseregelung gelte „sofort, unverzüglich“.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Mauer, Todesstreifen und Wachturm prägten die innerdeutsche Grenze in Berlin.",
+      "id": "q3",
+      "options": [
+        "Berliner Mauer mit Wachturm",
+        "Chinesische Mauer",
+        "Hadrianswall",
+        "Klagemauer in Jerusalem"
+      ],
+      "prompt": "Was zeigt diese stilisierte Szene?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='160' width='320' height='40'/><rect class='e' x='0' y='150' width='320' height='10'/><rect class='b' x='20' y='100' width='120' height='50'/><path class='b' d='M20 100 Q80 88 140 100 Z'/><rect class='b' x='220' y='60' width='16' height='90'/><rect class='b' x='208' y='40' width='40' height='22'/><rect class='d' x='214' y='46' width='28' height='8'/><path class='b' d='M204 40 L252 40 L246 32 L210 32 Z'/><path class='sc' stroke-width='2' stroke-dasharray='5 5' d='M150 140 L320 140'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "explain": "Diese Daten, Orte und Personen gehören zum Kern der Geschichte des Mauerfalls.",
+      "id": "q4",
+      "pairs": [
+        [
+          "13. August 1961",
+          "Beginn des Mauerbaus"
+        ],
+        [
+          "Günter Schabowski",
+          "Pressekonferenz zur Reiseregelung"
+        ],
+        [
+          "Bornholmer Straße",
+          "Erster geöffneter Übergang"
+        ],
+        [
+          "Harald Jäger",
+          "Öffnete den Schlagbaum"
+        ]
+      ],
+      "prompt": "Ordne richtig zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "explain": "19. August, 11. September, 9. Oktober, 18. Oktober 1989.",
+      "id": "q5",
+      "items": [
+        "Paneuropäisches Picknick an der ungarischen Grenze",
+        "Ungarn lässt DDR-Bürger offiziell ausreisen",
+        "Rund 70.000 demonstrieren in Leipzig",
+        "Honecker wird gestürzt"
+      ],
+      "prompt": "Bringe die Ereignisse des Jahres 1989 in die richtige Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "„Wir sind das Volk“ wurde auf den Montagsdemonstrationen gerufen.",
+      "id": "q6",
+      "options": [
+        "Wir sind das Volk",
+        "Freiheit für alle",
+        "Nie wieder Krieg",
+        "Mehr Demokratie wagen"
+      ],
+      "prompt": "Welcher Ruf wurde zum Motto der Demonstrationen?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Unter Gorbatschow griff die Sowjetunion nicht militärisch ein.",
+      "id": "q7",
+      "prompt": "1989 schickte die Sowjetunion Panzer, um die Proteste in der DDR niederzuschlagen.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Außenminister Genscher sprach am 30. September 1989 vom Botschaftsbalkon.",
+      "id": "q8",
+      "options": [
+        "Hans-Dietrich Genscher",
+        "Helmut Kohl",
+        "Willy Brandt",
+        "Egon Krenz"
+      ],
+      "prompt": "Wer verkündete den Flüchtlingen in der Prager Botschaft ihre Ausreise?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "explain": "28. November 1989, 18. März 1990, 1. Juli 1990, 3. Oktober 1990.",
+      "id": "q9",
+      "items": [
+        "Kohls Zehn-Punkte-Programm",
+        "Erste freie Volkskammerwahl",
+        "D-Mark wird in der DDR eingeführt",
+        "Beitritt der DDR zur Bundesrepublik"
+      ],
+      "prompt": "Bringe die Schritte zur Einheit in die richtige Reihenfolge.",
+      "tier": 3,
+      "type": "order"
+    },
+    {
+      "explain": "Der 9. November gilt als Schicksalstag der Deutschen.",
+      "id": "q10",
+      "pairs": [
+        [
+          "9. November 1918",
+          "Ausrufung der Republik"
+        ],
+        [
+          "9. November 1938",
+          "Novemberpogrome"
+        ],
+        [
+          "9. November 1989",
+          "Mauerfall"
+        ],
+        [
+          "3. Oktober 1990",
+          "Deutsche Einheit"
+        ]
+      ],
+      "prompt": "Ordne die Daten den Ereignissen zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Säulentor mit Quadriga: das Brandenburger Tor, Symbol der Einheit.",
+      "id": "q11",
+      "options": [
+        "Brandenburger Tor",
+        "Arc de Triomphe",
+        "Siegestor in München",
+        "Holstentor in Lübeck"
+      ],
+      "prompt": "Welches Bauwerk ist hier stilisiert?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='170' width='320' height='30'/><rect class='b' x='50' y='70' width='220' height='14'/><rect class='b' x='60' y='60' width='200' height='10'/><rect class='b' x='62' y='84' width='10' height='86'/><rect class='b' x='96' y='84' width='10' height='86'/><rect class='b' x='130' y='84' width='10' height='86'/><rect class='b' x='180' y='84' width='10' height='86'/><rect class='b' x='214' y='84' width='10' height='86'/><rect class='b' x='248' y='84' width='10' height='86'/><rect class='b' x='140' y='40' width='40' height='20'/><path class='a' d='M144 40 L150 24 L170 24 L176 40 Z'/><circle class='a' cx='160' cy='18' r='5'/></svg>",
+      "tier": 3,
+      "type": "image"
+    },
+    {
+      "answer": 0,
+      "explain": "Es waren die vier Siegermächte des Zweiten Weltkriegs.",
+      "id": "q12",
+      "options": [
+        "USA, Sowjetunion, Großbritannien, Frankreich",
+        "USA, China, Polen, Frankreich",
+        "Sowjetunion, Polen, Tschechoslowakei, Ungarn",
+        "USA, Kanada, Großbritannien, Italien"
+      ],
+      "prompt": "Welche Staaten unterzeichneten neben den beiden deutschen Staaten den Zwei-plus-Vier-Vertrag?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Mauerfall",
+      "url": "https://de.wikipedia.org/wiki/Mauerfall"
+    },
+    {
+      "title": "Wikipedia: Berliner Mauer",
+      "url": "https://de.wikipedia.org/wiki/Berliner_Mauer"
+    },
+    {
+      "title": "Wikipedia: Friedliche Revolution",
+      "url": "https://de.wikipedia.org/wiki/Friedliche_Revolution"
+    },
+    {
+      "title": "Wikipedia: Zwei-plus-Vier-Vertrag",
+      "url": "https://de.wikipedia.org/wiki/Zwei-plus-Vier-Vertrag"
+    },
+    {
+      "title": "Chronik der Mauer (bpb/ZZF)",
+      "url": "https://www.chronik-der-mauer.de/"
+    },
+    {
+      "title": "Gedenkstätte Berliner Mauer",
+      "url": "https://www.stiftung-berliner-mauer.de/"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "mauerfall-1989",
+  "subtitle": "Wie eine friedliche Revolution 1989 die Mauer zu Fall brachte – und den Weg zur deutschen Einheit öffnete.",
+  "takeaways": [
+    "Die Berliner Mauer teilte die Stadt von 1961 bis 1989; mindestens 140 Menschen starben an ihr.",
+    "Wirtschaftskrise, Fluchtwelle über Ungarn und gewaltfreie Massenproteste brachten die SED-Führung 1989 ins Wanken.",
+    "Eine missverständliche Ankündigung öffnete am 9. November die Grenze; am 3. Oktober 1990 folgte die Wiedervereinigung."
+  ],
+  "theme": "history",
+  "title": "Der Fall der Berliner Mauer"
+}

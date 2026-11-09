@@ -1,0 +1,422 @@
+{
+  "cards": [
+    {
+      "body": "Bei den Zwischenwahlen am 3. November gewannen die Demokraten die Mehrheit im Repräsentantenhaus und im Senat. Zur Wahl standen alle 435 Sitze im Haus und 35 der 100 Senatssitze.\n\nDamit endet die republikanische Kontrolle über Weißes Haus und beide Kammern. Präsident Trump kann ohne Zustimmung der Demokraten kaum noch Gesetze durchbringen.",
+      "img": {
+        "caption": "Stilisiertes Kapitol in Washington, Sitz des Kongresses",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:United_States_Capitol",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='e' x='40' y='170' width='240' height='8'/><rect class='c' x='60' y='120' width='200' height='50'/><rect class='b' x='130' y='100' width='60' height='20'/><path class='a' d='M128 100 Q160 40 192 100 Z'/><rect class='b' x='156' y='30' width='8' height='16'/><circle class='a' cx='160' cy='28' r='5'/><rect class='d' x='72' y='130' width='8' height='34'/><rect class='d' x='94' y='130' width='8' height='34'/><rect class='d' x='116' y='130' width='8' height='34'/><rect class='d' x='138' y='130' width='8' height='34'/><rect class='d' x='160' y='130' width='8' height='34'/><rect class='d' x='182' y='130' width='8' height='34'/><rect class='d' x='204' y='130' width='8' height='34'/><rect class='d' x='226' y='130' width='8' height='34'/><rect class='d' x='248' y='130' width='8' height='34'/></svg>"
+      },
+      "kicker": "USA",
+      "links": [
+        {
+          "title": "Al Jazeera: Democrats flip US Senate",
+          "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+        },
+        {
+          "title": "Euronews: US midterm election results 2026",
+          "url": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts"
+        }
+      ],
+      "tier": 1,
+      "title": "Demokraten erobern den Kongress"
+    },
+    {
+      "body": "Laut Al Jazeera holten die Demokraten mindestens sieben Senatssitze von den Republikanern, darunter:\n\n- Maine: Troy Jackson schlägt Senatorin Susan Collins\n- Texas: James Talarico gewinnt gegen Ken Paxton\n- Ohio: Sherrod Brown kehrt in den Senat zurück\n\nIn Michigan siegte Abdul El-Sayed, der als erster muslimischer US-Senator gilt.",
+      "kicker": "Senat",
+      "links": [
+        {
+          "title": "Al Jazeera: Democrats flip US Senate",
+          "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+        }
+      ],
+      "tier": 1,
+      "title": "Mehrere Überraschungssiege"
+    },
+    {
+      "body": "Trump sagte, der Krieg der USA und Israels gegen Iran und die gestiegenen Benzinpreise hätten den Republikanern geschadet. Nach der Wahl kündigte er an, bald über eine Wiederaufnahme der Angriffe zu entscheiden.\n\nIran schickte über Katar einen Vorschlag zum Atomprogramm. Teheran will darüber aber erst reden, wenn seine Bedingungen zur Öffnung der Straße von Hormus erfüllt sind.",
+      "img": {
+        "caption": "Schematisch: die Meerenge von Hormus, eine Schlüsselroute für Öltanker",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M0 0 L320 0 L320 70 L240 90 L200 70 L150 85 L100 60 L40 80 L0 70 Z'/><path class='c' d='M0 200 L0 150 L70 140 L140 160 L190 120 L230 130 L260 110 L320 120 L320 200 Z'/><path class='sa' stroke-width='3' fill='none' stroke-dasharray='8 6' d='M20 110 Q160 100 300 100'/></svg>"
+      },
+      "kicker": "Nahost",
+      "links": [
+        {
+          "title": "Just Security: Early Edition, 6. November 2026",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+        },
+        {
+          "title": "Al Jazeera: Democrats flip US Senate",
+          "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+        }
+      ],
+      "tier": 1,
+      "title": "Iran-Krieg: Entscheidung nach der Wahl"
+    },
+    {
+      "body": "Am 5. November fiel der Nasdaq 100 um mehr als 6 Prozent, so stark wie seit März 2020 nicht mehr. Der S&P 500 verlor 4,4 Prozent, Nvidia über 9 Prozent.\n\nAnleger fürchten laut Bloomberg, dass der politische Wandel die milliardenschweren Investitionen in KI und Rechenzentren bremsen könnte.",
+      "img": {
+        "caption": "Symbolbild: steiler Kursrückgang",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='sc' stroke-width='2' fill='none' d='M30 170 L300 170 M30 20 L30 170'/><path class='sa' stroke-width='5' fill='none' d='M40 60 L80 50 L120 70 L160 55 L200 65 L230 120 L260 150 L290 160'/><path class='a' d='M282 150 L298 162 L280 168 Z'/></svg>"
+      },
+      "kicker": "Börse",
+      "links": [
+        {
+          "title": "Star-Advertiser/Bloomberg: Nasdaq heads for correction",
+          "url": "https://www.staradvertiser.com/2026/11/05/breaking-news/nasdaq-heads-for-correction-as-ai-stocks-plunge-after-midterms/"
+        }
+      ],
+      "tier": 1,
+      "title": "Kurssturz bei Tech-Aktien"
+    },
+    {
+      "body": "Die Zentralbank übernahm am 3. November die Digitalbank Ueno, die nach AP-Angaben mehr als 60 Prozent der Erwachsenen im Land als Kunden hatte.\n\nPräsident Santiago Peña kündigte am 5. November seinen Rücktritt an. Kurz darauf stimmte das Abgeordnetenhaus mit 78 zu 0 für seine Amtsenthebung. Vizepräsident Pedro Alliana übernimmt das Amt.",
+      "img": {
+        "caption": "Symbolbild: eine Bank mit Riss",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='b' d='M60 70 L160 30 L260 70 Z'/><rect class='b' x='60' y='160' width='200' height='12'/><rect class='c' x='80' y='78' width='16' height='82'/><rect class='c' x='124' y='78' width='16' height='82'/><rect class='c' x='180' y='78' width='16' height='82'/><rect class='c' x='224' y='78' width='16' height='82'/><path class='sa' stroke-width='5' fill='none' d='M150 60 L170 100 L150 130 L172 170'/></svg>"
+      },
+      "kicker": "Paraguay",
+      "links": [
+        {
+          "title": "AP/NPR: Paraguays Präsident nach Bankkollaps abgesetzt",
+          "url": "https://www.kunc.org/npr-news/2026-11-05/paraguays-president-is-impeached-minutes-after-resigning-following-a-bank-collapse"
+        },
+        {
+          "title": "Africanews: Alliana als Präsident vereidigt",
+          "url": "https://www.africanews.com/2026/11/07/paraguay-vp-alliana-sworn-is-as-president-after-predecessor-impeached/"
+        }
+      ],
+      "tier": 2,
+      "title": "Präsident stürzt über Bankpleite"
+    },
+    {
+      "body": "Präsident Selenskyj sagte, die Ukraine müsse sich an die neue politische Lage in den USA anpassen, um weiter Hilfe und Patriot-Luftabwehr zu erhalten.\n\nDer Kreml erklärte, Europa solle an künftigen Gesprächen beteiligt sein. Trump berichtete von einem Treffen mit dem russischen Gesandten Kirill Dmitrijew im Weißen Haus.",
+      "kicker": "Ukraine",
+      "links": [
+        {
+          "title": "Just Security: Early Edition, 6. November 2026",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+        }
+      ],
+      "tier": 2,
+      "title": "Diplomatie in Bewegung"
+    },
+    {
+      "body": "Die Regierung von Premier Mark Carney legte am 5. November ihren Haushalt vor. Er soll Kanada wirtschaftlich unabhängiger von den USA machen.\n\nFinanzminister François-Philippe Champagne begründete das damit, dass bisher verlässliche Regeln nicht mehr zu gelten schienen.",
+      "kicker": "Kanada",
+      "links": [
+        {
+          "title": "Just Security: Early Edition, 6. November 2026",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+        }
+      ],
+      "tier": 2,
+      "title": "Haushalt gegen die US-Abhängigkeit"
+    },
+    {
+      "body": "Vom 9. bis 20. November tagt die COP31 im türkischen Antalya. Die Türkei richtet die Konferenz in enger Partnerschaft mit Australien aus.\n\nDort verhandeln fast alle Staaten der Welt darüber, wie die Erderwärmung begrenzt und ihre Folgen bewältigt werden können.",
+      "img": {
+        "caption": "Symbolbild: Erde und Sonne",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='240' cy='50' r='24'/><circle class='c' cx='140' cy='115' r='65'/><path class='e' d='M100 80 Q130 70 140 95 Q120 120 100 110 Z M150 130 Q180 120 190 145 Q170 170 150 160 Z'/><path class='sb' stroke-width='2' fill='none' d='M75 115 L205 115 M140 50 L140 180'/></svg>"
+      },
+      "kicker": "Klima",
+      "links": [
+        {
+          "title": "UNRIC: COP31 – the road to Antalya",
+          "url": "https://unric.org/en/unfccc-cop31-the-road-to-antalya/"
+        }
+      ],
+      "tier": 2,
+      "title": "Weltklimakonferenz in Antalya"
+    },
+    {
+      "body": "Ein Bundesgericht in Abuja erklärte am 5. November die Nominierung von Atiku Abubakar zum Präsidentschaftskandidaten der Oppositionspartei ADC für ungültig. Zugleich hob es die Parteiführung auf, die ihn aufgestellt hatte.\n\nDie Wahl ist für den 16. Januar 2027 angesetzt. Die ADC will in Berufung gehen; die Regierungspartei weist jede Beteiligung zurück.",
+      "kicker": "Nigeria",
+      "links": [
+        {
+          "title": "Africanews: Nigerian court nullifies Atiku's candidacy",
+          "url": "https://www.africanews.com/2026/11/05/nigerian-court-nullifies-atiku-abubakars-presidential-candidacy/"
+        }
+      ],
+      "tier": 3,
+      "title": "Gericht kippt Oppositionskandidaten"
+    },
+    {
+      "body": "Gouverneur Gavin Newsom will alle 548 Todesurteile des Bundesstaats in lebenslange Haft ohne Bewährung umwandeln.\n\nIn 382 Fällen muss das Oberste Gericht Kaliforniens zustimmen, weil die Verurteilten mehrfach straffällig wurden. Newsoms Nachfolger Xavier Becerra übernimmt im Januar.",
+      "kicker": "Kalifornien",
+      "links": [
+        {
+          "title": "ABC7/AP: Newsom will Todesurteile umwandeln",
+          "url": "https://abc7news.com/post/california-gov-gavin-newsom-says-he-will-commute-death-sentences-state-life-parole/20018235/"
+        }
+      ],
+      "tier": 3,
+      "title": "Ende der Todesurteile angekündigt"
+    },
+    {
+      "body": "Ein Bericht für den UN-Sicherheitsrat wirft laut New York Times den Vereinigten Arabischen Emiraten vor, kolumbianische Söldner für die RSF-Miliz angeworben zu haben.\n\nDie RSF kämpft seit 2023 gegen die sudanesische Armee. Die Emirate haben ähnliche Vorwürfe bisher zurückgewiesen.",
+      "kicker": "Sudan",
+      "links": [
+        {
+          "title": "Just Security: Early Edition, 6. November 2026",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+        },
+        {
+          "title": "The Week: UAE and the Colombian mercenary scandal",
+          "url": "https://theweek.com/world-news/uae-sudan-el-fasher-colombia-genocide-mercenaries"
+        }
+      ],
+      "tier": 3,
+      "title": "Vorwürfe gegen die Emirate"
+    },
+    {
+      "body": "Trump kündigte an, mit den Demokraten zusammenarbeiten zu wollen, Gesetze, die er für unsinnig hält, aber per Veto zu stoppen.\n\nDer demokratische Fraktionschef Chuck Schumer erklärte, seine Partei werde rechtsgerichtete Kandidaten für den Supreme Court blockieren. Der Senat muss Richterernennungen bestätigen.",
+      "kicker": "USA",
+      "links": [
+        {
+          "title": "Al Jazeera: Democrats flip US Senate",
+          "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+        },
+        {
+          "title": "Just Security: Early Edition, 6. November 2026",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+        }
+      ],
+      "tier": 3,
+      "title": "Machtkampf nach der Wahl"
+    }
+  ],
+  "date": "2026-11-08",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Die Demokraten eroberten Repräsentantenhaus und Senat.",
+      "id": "q1",
+      "options": [
+        "Demokraten",
+        "Republikaner",
+        "Libertäre",
+        "Grüne"
+      ],
+      "prompt": "Welche Partei gewann bei den US-Zwischenwahlen beide Kammern des Kongresses?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Der Nasdaq 100 fiel am 5. November um mehr als 6 Prozent.",
+      "id": "q2",
+      "prompt": "Nach der Wahl stiegen die Tech-Aktien an der Nasdaq kräftig.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Die große Kuppel über dem Säulenbau ist das Kapitol, Sitz des Kongresses.",
+      "id": "q3",
+      "options": [
+        "Kapitol in Washington",
+        "Weißes Haus",
+        "Pentagon",
+        "Lincoln Memorial"
+      ],
+      "prompt": "Welches Gebäude ist hier stilisiert?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='e' x='40' y='170' width='240' height='8'/><rect class='c' x='60' y='120' width='200' height='50'/><rect class='b' x='130' y='100' width='60' height='20'/><path class='a' d='M128 100 Q160 40 192 100 Z'/><rect class='b' x='156' y='30' width='8' height='16'/><circle class='a' cx='160' cy='28' r='5'/><rect class='d' x='72' y='130' width='8' height='34'/><rect class='d' x='94' y='130' width='8' height='34'/><rect class='d' x='116' y='130' width='8' height='34'/><rect class='d' x='138' y='130' width='8' height='34'/><rect class='d' x='160' y='130' width='8' height='34'/><rect class='d' x='182' y='130' width='8' height='34'/><rect class='d' x='204' y='130' width='8' height='34'/><rect class='d' x='226' y='130' width='8' height='34'/><rect class='d' x='248' y='130' width='8' height='34'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "explain": "Alle vier gewannen Senatssitze für die Demokraten.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Maine",
+          "Troy Jackson"
+        ],
+        [
+          "Texas",
+          "James Talarico"
+        ],
+        [
+          "Ohio",
+          "Sherrod Brown"
+        ],
+        [
+          "Michigan",
+          "Abdul El-Sayed"
+        ]
+      ],
+      "prompt": "Ordne die Wahlsieger ihrem Bundesstaat zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "explain": "3. Nov. Wahl, 5. Nov. Kurssturz, 7. Nov. Vereidigung Allianas, 9. Nov. Klimakonferenz.",
+      "id": "q5",
+      "items": [
+        "US-Zwischenwahlen",
+        "Kurssturz an der Nasdaq",
+        "Pedro Alliana wird Präsident Paraguays",
+        "Beginn der COP31 in Antalya"
+      ],
+      "prompt": "Bringe die Ereignisse in die richtige zeitliche Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Die Pleite der Digitalbank Ueno brachte Peña unter Druck.",
+      "id": "q6",
+      "options": [
+        "Der Zusammenbruch einer großen Bank",
+        "Ein Militärputsch",
+        "Eine verlorene Wahl",
+        "Ein Erdbeben"
+      ],
+      "prompt": "Was löste den Sturz von Paraguays Präsident Peña aus?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Rot-Weiß-Blau quer mit Wappen in der Mitte ist die Flagge Paraguays.",
+      "id": "q7",
+      "options": [
+        "Paraguay",
+        "Niederlande",
+        "Russland",
+        "Frankreich"
+      ],
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect fill='#d52b1e' x='60' y='40' width='200' height='40'/><rect fill='#ffffff' class='sc' stroke-width='1' x='60' y='80' width='200' height='40'/><rect fill='#0038a8' x='60' y='120' width='200' height='40'/><circle fill='none' stroke='#0038a8' stroke-width='3' cx='160' cy='100' r='14'/><circle fill='#fedf00' cx='160' cy='100' r='5'/><rect class='sc' fill='none' stroke-width='1' x='60' y='40' width='200' height='120'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": true,
+      "explain": "Sie tagt vom 9. bis 20. November in Antalya.",
+      "id": "q8",
+      "prompt": "Die Weltklimakonferenz COP31 findet in der Türkei statt.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Das Gericht kippte Abubakars Nominierung durch die ADC.",
+      "id": "q9",
+      "options": [
+        "Atiku Abubakar",
+        "Bola Tinubu",
+        "Goodluck Jonathan",
+        "Muhammadu Buhari"
+      ],
+      "prompt": "Wessen Präsidentschaftskandidatur erklärte ein Gericht in Nigeria für ungültig?",
+      "tier": 3,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Nur in 382 Fällen ist die Zustimmung des Gerichts nötig.",
+      "id": "q10",
+      "prompt": "Für alle 548 Umwandlungen der Todesurteile in Kalifornien braucht Newsom die Zustimmung des Obersten Gerichts.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "explain": "Alle vier standen diese Woche in ihren Ländern im Mittelpunkt.",
+      "id": "q11",
+      "pairs": [
+        [
+          "Atiku Abubakar",
+          "Nigeria"
+        ],
+        [
+          "Gavin Newsom",
+          "Kalifornien"
+        ],
+        [
+          "Pedro Alliana",
+          "Paraguay"
+        ],
+        [
+          "Mark Carney",
+          "Kanada"
+        ]
+      ],
+      "prompt": "Ordne die Personen dem passenden Land oder Bundesstaat zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Der Bericht wirft den Emiraten Unterstützung der sudanesischen RSF vor.",
+      "id": "q12",
+      "options": [
+        "RSF im Sudan",
+        "Hamas in Gaza",
+        "Huthi im Jemen",
+        "Hisbollah im Libanon"
+      ],
+      "prompt": "Für welche Miliz sollen laut UN-Bericht kolumbianische Söldner angeworben worden sein?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al Jazeera: Democrats flip US Senate",
+      "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+    },
+    {
+      "title": "Euronews: US midterm election results 2026",
+      "url": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts"
+    },
+    {
+      "title": "Just Security: Early Edition, 6. November 2026",
+      "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    },
+    {
+      "title": "Star-Advertiser/Bloomberg: Nasdaq heads for correction",
+      "url": "https://www.staradvertiser.com/2026/11/05/breaking-news/nasdaq-heads-for-correction-as-ai-stocks-plunge-after-midterms/"
+    },
+    {
+      "title": "AP/NPR: Paraguays Präsident nach Bankkollaps abgesetzt",
+      "url": "https://www.kunc.org/npr-news/2026-11-05/paraguays-president-is-impeached-minutes-after-resigning-following-a-bank-collapse"
+    },
+    {
+      "title": "Africanews: Alliana als Präsident vereidigt",
+      "url": "https://www.africanews.com/2026/11/07/paraguay-vp-alliana-sworn-is-as-president-after-predecessor-impeached/"
+    },
+    {
+      "title": "UNRIC: COP31 – the road to Antalya",
+      "url": "https://unric.org/en/unfccc-cop31-the-road-to-antalya/"
+    },
+    {
+      "title": "Africanews: Nigerian court nullifies Atiku's candidacy",
+      "url": "https://www.africanews.com/2026/11/05/nigerian-court-nullifies-atiku-abubakars-presidential-candidacy/"
+    },
+    {
+      "title": "ABC7/AP: Newsom will Todesurteile umwandeln",
+      "url": "https://abc7news.com/post/california-gov-gavin-newsom-says-he-will-commute-death-sentences-state-life-parole/20018235/"
+    },
+    {
+      "title": "The Week: UAE and the Colombian mercenary scandal",
+      "url": "https://theweek.com/world-news/uae-sudan-el-fasher-colombia-genocide-mercenaries"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "wochenrueckblick-2026-11-08",
+  "subtitle": "US-Zwischenwahlen, Börsenbeben, Präsidentensturz in Paraguay und Klimagipfel – die Woche vom 1. bis 8. November.",
+  "takeaways": [
+    "Die Demokraten haben beide Kammern des US-Kongresses gewonnen und können Trumps Vorhaben nun blockieren.",
+    "Die Märkte reagierten nervös: Tech- und KI-Aktien brachen am 5. November so stark ein wie seit 2020 nicht mehr.",
+    "In Paraguay stürzte ein Bankkollaps den Präsidenten, während in Antalya die Weltklimakonferenz COP31 beginnt."
+  ],
+  "theme": "news",
+  "title": "Wochenrückblick: Machtwechsel im Kongress"
+}

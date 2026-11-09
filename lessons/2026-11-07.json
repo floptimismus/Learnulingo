@@ -1,0 +1,305 @@
+{
+  "cards": [
+    {
+      "body": "Disco ist Tanzmusik der 1970er-Jahre. Der Name kommt von „Diskothek“ – Clubs, in denen DJs Platten auflegten statt Bands live zu spielen.\n\nVon kleinen New Yorker Clubs eroberte Disco bis 1978 die Hitparaden der Welt.",
+      "img": {
+        "caption": "Die Spiegelkugel wurde zum Symbol der Disco-Ära",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='159' y='0' width='2' height='45'/><circle class='c' cx='160' cy='105' r='60'/><rect class='a' x='112' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='112' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='68' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='57' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='145' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='68' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='145' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='200' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='200' y='123' width='8' height='8' opacity='0.85'/><path class='sa' d='M226 129 L249 137' stroke-width='3'/><path class='sa' d='M195 166 L208 187' stroke-width='3'/><path class='sa' d='M125 166 L113 187' stroke-width='3'/><path class='sa' d='M94 129 L71 137' stroke-width='3'/><path class='sa' d='M94 81 L71 73' stroke-width='3'/><path class='sa' d='M226 81 L249 73' stroke-width='3'/></svg>"
+      },
+      "kicker": "Auftakt",
+      "tier": 1,
+      "title": "Was ist Disco?"
+    },
+    {
+      "body": "Das Herz jedes Disco-Songs: Die Bassdrum schlägt auf jeden der vier Viertel im Takt, die offene Hi-Hat sitzt dazwischen.\n\nDazu kommen ein treibender Bass, Streicher, Bläser und große Gesangsstimmen. Das Tempo liegt meist um 120 Schläge pro Minute.",
+      "img": {
+        "caption": "Vier gleichmäßige Bassdrum-Schläge pro Takt, Hi-Hat dazwischen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='e' x='20' y='100' width='280' height='2'/><circle class='a' cx='40' cy='101' r='14'/><circle class='a' cx='110' cy='101' r='14'/><circle class='a' cx='180' cy='101' r='14'/><circle class='a' cx='250' cy='101' r='14'/><circle class='c' cx='75' cy='60' r='6'/><circle class='c' cx='145' cy='60' r='6'/><circle class='c' cx='215' cy='60' r='6'/><circle class='c' cx='285' cy='60' r='6'/><rect class='b' x='34' y='150' width='12' height='20'/><rect class='b' x='69' y='150' width='12' height='10'/><rect class='b' x='104' y='150' width='12' height='20'/><rect class='b' x='139' y='150' width='12' height='10'/><rect class='b' x='174' y='150' width='12' height='20'/><rect class='b' x='209' y='150' width='12' height='10'/><rect class='b' x='244' y='150' width='12' height='20'/><rect class='b' x='279' y='150' width='12' height='10'/></svg>"
+      },
+      "kicker": "Sound",
+      "tier": 1,
+      "title": "Der Four-on-the-floor-Beat"
+    },
+    {
+      "body": "Der Film von 1977 mit John Travolta machte Disco zum Massenphänomen. Travolta im weißen Anzug auf leuchtender Tanzfläche wurde zum Bild der Epoche.\n\nDer Soundtrack, geprägt von den Bee Gees („Stayin’ Alive“), zählt zu den meistverkauften Soundtracks überhaupt.",
+      "img": {
+        "caption": "Leuchtende Tanzfläche im Stil der 1970er",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='a' x='0' y='120' width='40' height='40' opacity='0.5'/><rect class='e' x='0' y='160' width='40' height='40' opacity='0.9'/><rect class='c' x='40' y='120' width='40' height='40' opacity='0.9'/><rect class='b' x='40' y='160' width='40' height='40' opacity='0.5'/><rect class='e' x='80' y='120' width='40' height='40' opacity='0.5'/><rect class='a' x='80' y='160' width='40' height='40' opacity='0.9'/><rect class='b' x='120' y='120' width='40' height='40' opacity='0.9'/><rect class='c' x='120' y='160' width='40' height='40' opacity='0.5'/><rect class='a' x='160' y='120' width='40' height='40' opacity='0.5'/><rect class='e' x='160' y='160' width='40' height='40' opacity='0.9'/><rect class='c' x='200' y='120' width='40' height='40' opacity='0.9'/><rect class='b' x='200' y='160' width='40' height='40' opacity='0.5'/><rect class='e' x='240' y='120' width='40' height='40' opacity='0.5'/><rect class='a' x='240' y='160' width='40' height='40' opacity='0.9'/><rect class='b' x='280' y='120' width='40' height='40' opacity='0.9'/><rect class='c' x='280' y='160' width='40' height='40' opacity='0.5'/><circle class='b' cx='160' cy='40' r='10'/><rect class='b' x='155' y='50' width='10' height='38'/><path class='sb' d='M157 58 L130 30 M163 58 L182 80' stroke-width='4'/><path class='sb' d='M157 88 L140 118 M163 88 L180 118' stroke-width='4'/></svg>"
+      },
+      "kicker": "Film",
+      "tier": 1,
+      "title": "„Saturday Night Fever“"
+    },
+    {
+      "body": "- Gloria Gaynor, „I Will Survive“ (1978)\n- Donna Summer, „I Feel Love“ (1977)\n- Chic, „Le Freak“ (1978)\n- Village People, „Y.M.C.A.“ (1978)\n- ABBA, „Dancing Queen“ (1976)",
+      "kicker": "Hits",
+      "tier": 1,
+      "title": "Songs, die jeder kennt"
+    },
+    {
+      "body": "Disco entstand Anfang der 1970er in New Yorker Clubs, vor allem in der schwulen, Schwarzen und Latino-Szene. Ein Vorreiter war David Mancusos private Party-Reihe „The Loft“ ab 1970.\n\nMusikalisch speiste sich Disco aus Soul, Funk und dem orchestralen „Philly Sound“ aus Philadelphia.",
+      "kicker": "Wurzeln",
+      "tier": 2,
+      "title": "Aus dem Untergrund"
+    },
+    {
+      "body": "Im April 1977 eröffnete in Manhattan das Studio 54. Der Club wurde berühmt für Stars, exzentrische Outfits und eine strenge Türpolitik.\n\nEr steht bis heute für Glamour und Exzess der späten Disco-Jahre.",
+      "kicker": "Club",
+      "tier": 2,
+      "title": "Studio 54"
+    },
+    {
+      "body": "Disco machte den DJ zum Star. Damit Songs länger tanzbar blieben, entstanden verlängerte Remixe.\n\nDafür setzte sich die 12-Zoll-Maxi-Single durch: Die breiteren Rillen erlaubten mehr Lautstärke und Bass. Der Produzent Tom Moulton gilt als Pionier des Disco-Remixes.",
+      "img": {
+        "caption": "Die 12-Zoll-Platte – Arbeitsgerät jedes Disco-DJs",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='b' cx='160' cy='100' r='85'/><circle class='sc' cx='160' cy='100' r='70' fill='none' stroke-width='1'/><circle class='sc' cx='160' cy='100' r='55' fill='none' stroke-width='1'/><circle class='a' cx='160' cy='100' r='28'/><circle class='d' cx='160' cy='100' r='4'/></svg>"
+      },
+      "kicker": "Technik",
+      "tier": 2,
+      "title": "DJs, Remixe und die Maxi-Single"
+    },
+    {
+      "body": "Ein wichtiges Zentrum lag in Deutschland: In München produzierten Giorgio Moroder und Pete Bellotte Donna Summers Hits.\n\nAuch Boney M. („Daddy Cool“, „Rivers of Babylon“), gegründet vom Produzenten Frank Farian, wurde von Deutschland aus weltweit erfolgreich.",
+      "kicker": "Europa",
+      "tier": 2,
+      "title": "Eurodisco aus München"
+    },
+    {
+      "body": "Donna Summers „I Feel Love“ (1977) wurde fast vollständig mit Synthesizern eingespielt – damals revolutionär.\n\nDer pulsierende Sequenzer-Sound gilt als Blaupause für spätere elektronische Tanzmusik von Synth-Pop bis Techno.",
+      "img": {
+        "caption": "Synthesizer statt Orchester: der Sound von „I Feel Love“",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='30' y='60' width='260' height='100' rx='6'/><rect class='d' x='40' y='110' width='18' height='45'/><rect class='d' x='60' y='110' width='18' height='45'/><rect class='d' x='80' y='110' width='18' height='45'/><rect class='d' x='100' y='110' width='18' height='45'/><rect class='d' x='120' y='110' width='18' height='45'/><rect class='d' x='140' y='110' width='18' height='45'/><rect class='d' x='160' y='110' width='18' height='45'/><rect class='d' x='180' y='110' width='18' height='45'/><rect class='d' x='200' y='110' width='18' height='45'/><rect class='d' x='220' y='110' width='18' height='45'/><rect class='d' x='240' y='110' width='18' height='45'/><rect class='d' x='260' y='110' width='18' height='45'/><rect class='b' x='53' y='110' width='10' height='27'/><rect class='b' x='73' y='110' width='10' height='27'/><rect class='b' x='113' y='110' width='10' height='27'/><rect class='b' x='133' y='110' width='10' height='27'/><rect class='b' x='153' y='110' width='10' height='27'/><rect class='b' x='193' y='110' width='10' height='27'/><rect class='b' x='213' y='110' width='10' height='27'/><rect class='b' x='253' y='110' width='10' height='27'/><circle class='a' cx='55' cy='82' r='8'/><circle class='a' cx='85' cy='82' r='8'/><circle class='a' cx='115' cy='82' r='8'/><circle class='a' cx='145' cy='82' r='8'/><circle class='a' cx='175' cy='82' r='8'/><circle class='a' cx='205' cy='82' r='8'/><circle class='a' cx='235' cy='82' r='8'/><circle class='a' cx='265' cy='82' r='8'/></svg>"
+      },
+      "kicker": "Meilenstein",
+      "tier": 3,
+      "title": "„I Feel Love“ und die Elektronik"
+    },
+    {
+      "body": "Ende der 1970er gab es eine Gegenbewegung. Am 12. Juli 1979 ließ der Radiomoderator Steve Dahl im Chicagoer Baseballstadion Comiskey Park Disco-Platten sprengen („Disco Demolition Night“); Fans stürmten das Feld.\n\nKritiker sahen darin auch Ablehnung gegenüber der schwulen und Schwarzen Szene, aus der Disco kam. Danach verschwand das Etikett „Disco“ schnell aus den Charts.",
+      "kicker": "Gegenwind",
+      "tier": 3,
+      "title": "„Disco sucks“"
+    },
+    {
+      "body": "Disco lebte weiter, nur unter neuen Namen:\n\n- „Rapper’s Delight“ der Sugarhill Gang (1979) basiert auf Chics „Good Times“\n- In Chicago entwickelte DJ Frankie Knuckles im Club „The Warehouse“ den House\n- Daft Punks „Get Lucky“ (2013) mit Nile Rodgers brachte den Sound zurück",
+      "img": {
+        "caption": "Vom Disco-Break zum Rap: Hip-Hop griff Disco-Grooves auf",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='0' width='320' height='200' opacity='0.3'/><circle class='b' cx='160' cy='70' r='22'/><rect class='b' x='156' y='92' width='8' height='70'/><rect class='b' x='130' y='160' width='60' height='8' rx='4'/><path class='sa' d='M110 40 L60 10 M210 40 L260 10 M100 70 L40 70 M220 70 L280 70' stroke-width='4'/></svg>"
+      },
+      "kicker": "Erbe",
+      "tier": 3,
+      "title": "Hip-Hop und House"
+    },
+    {
+      "body": "- Bassdrum auf jedem Viertel, Hi-Hat dazwischen\n- melodischer, oft oktavspringender Bass\n- Streicher und Bläser, große Stimmen\n- Tempo um 120 BPM, lange Instrumentalpassagen\n\nModerne Beispiele sind Dua Lipas Album „Future Nostalgia“ (2020) und viele Nu-Disco-Produktionen.",
+      "kicker": "Erkennen",
+      "tier": 3,
+      "title": "So erkennst du Disco"
+    }
+  ],
+  "date": "2026-11-07",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Die Spiegelkugel ist das Wahrzeichen der Disco-Ära.",
+      "id": "q1",
+      "options": [
+        "Discokugel",
+        "Plattenteller",
+        "Jukebox",
+        "Kassettenrekorder"
+      ],
+      "prompt": "Welches Symbol der 1970er ist hier zu sehen?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='159' y='0' width='2' height='45'/><circle class='c' cx='160' cy='105' r='60'/><rect class='a' x='112' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='112' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='112' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='123' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='123' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='134' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='134' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='68' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='145' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='145' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='57' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='156' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='156' y='145' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='167' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='167' y='145' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='57' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='68' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='101' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='123' width='8' height='8' opacity='0.85'/><rect class='d' x='178' y='134' width='8' height='8' opacity='0.85'/><rect class='a' x='178' y='145' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='68' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='79' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='90' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='112' width='8' height='8' opacity='0.85'/><rect class='d' x='189' y='123' width='8' height='8' opacity='0.85'/><rect class='a' x='189' y='134' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='79' width='8' height='8' opacity='0.85'/><rect class='a' x='200' y='90' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='101' width='8' height='8' opacity='0.85'/><rect class='d' x='200' y='112' width='8' height='8' opacity='0.85'/><rect class='a' x='200' y='123' width='8' height='8' opacity='0.85'/><path class='sa' d='M226 129 L249 137' stroke-width='3'/><path class='sa' d='M195 166 L208 187' stroke-width='3'/><path class='sa' d='M125 166 L113 187' stroke-width='3'/><path class='sa' d='M94 129 L71 137' stroke-width='3'/><path class='sa' d='M94 81 L71 73' stroke-width='3'/><path class='sa' d='M226 81 L249 73' stroke-width='3'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "answer": 0,
+      "explain": "John Travolta wurde mit dem Film von 1977 zum Disco-Idol.",
+      "id": "q2",
+      "options": [
+        "John Travolta",
+        "Patrick Swayze",
+        "Al Pacino",
+        "Richard Gere"
+      ],
+      "prompt": "Wer spielte die Hauptrolle in „Saturday Night Fever“?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": true,
+      "explain": "Vier gleichmäßige Bassdrum-Schläge pro Takt sind das Markenzeichen von Disco.",
+      "id": "q3",
+      "prompt": "Beim Four-on-the-floor-Beat schlägt die Bassdrum auf jeden Viertel im Takt.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "explain": "Vier der bekanntesten Disco-Hits der 1970er.",
+      "id": "q4",
+      "pairs": [
+        [
+          "„I Will Survive“",
+          "Gloria Gaynor"
+        ],
+        [
+          "„Le Freak“",
+          "Chic"
+        ],
+        [
+          "„Y.M.C.A.“",
+          "Village People"
+        ],
+        [
+          "„Dancing Queen“",
+          "ABBA"
+        ]
+      ],
+      "prompt": "Ordne Song und Interpret zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Die ersten Disco-Clubs wie „The Loft“ lagen in New York.",
+      "id": "q5",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "London",
+        "Paris"
+      ],
+      "prompt": "In welcher Stadt entstand Disco Anfang der 1970er vor allem?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Die 12-Zoll-Platte bot Platz für lange Remixe mit kräftigem Bass.",
+      "id": "q6",
+      "options": [
+        "12-Zoll-Maxi-Single",
+        "Musikkassette",
+        "CD",
+        "Schellackplatte"
+      ],
+      "prompt": "Welches Format setzte sich für Disco-Remixe durch?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='b' cx='160' cy='100' r='85'/><circle class='sc' cx='160' cy='100' r='70' fill='none' stroke-width='1'/><circle class='sc' cx='160' cy='100' r='55' fill='none' stroke-width='1'/><circle class='a' cx='160' cy='100' r='28'/><circle class='d' cx='160' cy='100' r='4'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": true,
+      "explain": "Frank Farian stellte Boney M. Mitte der 1970er zusammen.",
+      "id": "q7",
+      "prompt": "Boney M. wurde vom Produzenten Frank Farian gegründet.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "explain": "1970 – 1976 – 1977 – 1979.",
+      "id": "q8",
+      "items": [
+        "„The Loft“ öffnet in New York",
+        "ABBA veröffentlicht „Dancing Queen“",
+        "„Saturday Night Fever“ kommt ins Kino",
+        "„Disco Demolition Night“ in Chicago"
+      ],
+      "prompt": "Bringe in die zeitliche Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Der Synthesizer-Sound von Moroder und Bellotte prägte die elektronische Tanzmusik.",
+      "id": "q9",
+      "options": [
+        "Es wurde fast ganz mit Synthesizern eingespielt",
+        "Es war der erste Song mit Streichern",
+        "Es hatte keinen Gesang",
+        "Es wurde live im Stadion aufgenommen"
+      ],
+      "prompt": "Was war an Donna Summers „I Feel Love“ (1977) so neu?",
+      "tier": 3,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Sie fand am 12. Juli 1979 im Comiskey Park in Chicago statt.",
+      "id": "q10",
+      "prompt": "Die „Disco Demolition Night“ fand 1983 in New York statt.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "explain": "Hip-Hop, House und Nu-Disco bauen auf Disco auf.",
+      "id": "q11",
+      "pairs": [
+        [
+          "„Rapper’s Delight“",
+          "Sugarhill Gang"
+        ],
+        [
+          "House",
+          "Frankie Knuckles"
+        ],
+        [
+          "„Get Lucky“",
+          "Daft Punk"
+        ]
+      ],
+      "prompt": "Ordne das Erbe von Disco zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "explain": "1977 – 1979 – 2013 – 2020.",
+      "id": "q12",
+      "items": [
+        "„I Feel Love“",
+        "„Rapper’s Delight“",
+        "„Get Lucky“",
+        "„Future Nostalgia“"
+      ],
+      "prompt": "Bringe in die zeitliche Reihenfolge.",
+      "tier": 3,
+      "type": "order"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Disco (Musik)",
+      "url": "https://de.wikipedia.org/wiki/Disco_(Musik)"
+    },
+    {
+      "title": "Wikipedia: Disco Demolition Night",
+      "url": "https://en.wikipedia.org/wiki/Disco_Demolition_Night"
+    },
+    {
+      "title": "Wikipedia: I Feel Love",
+      "url": "https://en.wikipedia.org/wiki/I_Feel_Love"
+    },
+    {
+      "title": "Wikipedia: Studio 54",
+      "url": "https://en.wikipedia.org/wiki/Studio_54"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "disco-1970er",
+  "subtitle": "Wie ein Tanzsound aus New Yorker Clubs die 1970er eroberte – und bis heute nachklingt.",
+  "takeaways": [
+    "Disco entstand Anfang der 1970er in New Yorker Clubs und wurde mit „Saturday Night Fever“ (1977) zum weltweiten Massenphänomen.",
+    "Typisch sind der Four-on-the-floor-Beat um 120 BPM, treibender Bass, Streicher und große Stimmen.",
+    "Nach dem Backlash von 1979 lebte Disco in Hip-Hop, House und Nu-Disco weiter."
+  ],
+  "theme": "pop",
+  "title": "Disco"
+}

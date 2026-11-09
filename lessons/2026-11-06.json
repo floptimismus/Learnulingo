@@ -1,0 +1,312 @@
+{
+  "cards": [
+    {
+      "body": "1874 zeigte eine Gruppe junger Malerinnen und Maler in Paris eine eigene Ausstellung – unabhängig vom offiziellen Salon.\n\nDer Kritiker Louis Leroy verspottete sie nach Claude Monets Bild „Impression, soleil levant“ als „Impressionisten“. Die Gruppe übernahm den Namen.",
+      "img": {
+        "caption": "Motiv nach Monets „Impression, soleil levant“ (1872): Sonnenaufgang im Hafen von Le Havre",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='110' width='320' height='90' opacity='0.5'/><circle class='a' cx='210' cy='70' r='18'/><rect class='a' x='195' y='118' width='30' height='4' rx='2'/><rect class='a' x='198' y='130' width='26' height='4' rx='2'/><rect class='a' x='201' y='142' width='22' height='4' rx='2'/><rect class='a' x='204' y='154' width='18' height='4' rx='2'/><rect class='a' x='207' y='166' width='14' height='4' rx='2'/><path class='b' d='M80 150 q20 -6 40 0 l-4 8 h-32 z'/><rect class='b' x='98' y='120' width='2' height='30'/><path class='b' d='M140 165 q14 -4 28 0 l-3 6 h-22 z'/><rect class='c' x='20' y='60' width='4' height='50'/><rect class='c' x='40' y='50' width='3' height='60'/><rect class='c' x='270' y='55' width='4' height='55'/></svg>"
+      },
+      "kicker": "Auftakt",
+      "tier": 1,
+      "title": "Ein Spottname wird zum Programm"
+    },
+    {
+      "body": "Statt glatt verschliffener Flächen setzen Impressionisten kurze, nebeneinanderliegende Farbtupfer.\n\nAus der Nähe wirkt das skizzenhaft, aus der Distanz verschmilzt es im Auge zu flirrendem Licht. Konturen lösen sich auf, Schatten sind farbig statt schwarz.",
+      "img": {
+        "caption": "Sichtbare Farbstriche statt glatter Flächen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='a' x='30' y='40' width='22' height='6' rx='3' transform='rotate(-20 30 40)'/><rect class='c' x='70' y='50' width='22' height='6' rx='3' transform='rotate(15 70 50)'/><rect class='b' x='110' y='35' width='22' height='6' rx='3' transform='rotate(-10 110 35)'/><rect class='a' x='150' y='60' width='22' height='6' rx='3' transform='rotate(25 150 60)'/><rect class='c' x='190' y='40' width='22' height='6' rx='3' transform='rotate(-25 190 40)'/><rect class='a' x='230' y='55' width='22' height='6' rx='3' transform='rotate(10 230 55)'/><rect class='b' x='270' y='45' width='22' height='6' rx='3' transform='rotate(-15 270 45)'/><rect class='c' x='40' y='100' width='22' height='6' rx='3' transform='rotate(20 40 100)'/><rect class='a' x='80' y='110' width='22' height='6' rx='3' transform='rotate(-15 80 110)'/><rect class='c' x='120' y='95' width='22' height='6' rx='3' transform='rotate(5 120 95)'/><rect class='b' x='160' y='115' width='22' height='6' rx='3' transform='rotate(-30 160 115)'/><rect class='a' x='200' y='100' width='22' height='6' rx='3' transform='rotate(18 200 100)'/><rect class='c' x='240' y='110' width='22' height='6' rx='3' transform='rotate(-8 240 110)'/><rect class='a' x='280' y='105' width='22' height='6' rx='3' transform='rotate(22 280 105)'/><rect class='a' x='50' y='150' width='22' height='6' rx='3' transform='rotate(-12 50 150)'/><rect class='b' x='90' y='160' width='22' height='6' rx='3' transform='rotate(8 90 160)'/><rect class='a' x='130' y='145' width='22' height='6' rx='3' transform='rotate(-22 130 145)'/><rect class='c' x='170' y='165' width='22' height='6' rx='3' transform='rotate(14 170 165)'/><rect class='a' x='210' y='150' width='22' height='6' rx='3' transform='rotate(-5 210 150)'/><rect class='b' x='250' y='160' width='22' height='6' rx='3' transform='rotate(28 250 160)'/></svg>"
+      },
+      "kicker": "Technik",
+      "tier": 1,
+      "title": "Kurze, sichtbare Pinselstriche"
+    },
+    {
+      "body": "Gemalt wird, was man sieht – in einem flüchtigen Moment:\n\n- Landschaften und Gärten bei wechselndem Licht\n- Boulevards, Bahnhöfe, Cafés und Tanzlokale\n- Freizeit, Familie, Alltag der Großstadt",
+      "kicker": "Motive",
+      "tier": 1,
+      "title": "Licht, Augenblick, modernes Leben"
+    },
+    {
+      "body": "- Claude Monet: Licht und Landschaft\n- Pierre-Auguste Renoir: Menschen, Feste, Haut im Sonnenlicht\n- Edgar Degas: Tänzerinnen, ungewöhnliche Bildausschnitte\n- Camille Pissarro, Alfred Sisley, Berthe Morisot, Mary Cassatt, Gustave Caillebotte",
+      "kicker": "Köpfe",
+      "tier": 1,
+      "title": "Die wichtigsten Namen"
+    },
+    {
+      "body": "Über Erfolg entschied im Frankreich des 19. Jahrhunderts der staatliche Salon. Er bevorzugte Historien- und Mythenbilder mit makelloser Oberfläche.\n\n1863 wurden so viele Werke abgelehnt, dass ein „Salon des Refusés“ stattfand. Dort sorgte Édouard Manets „Frühstück im Grünen“ für einen Skandal – Manet gilt als wichtiger Wegbereiter, stellte aber nie mit der Gruppe aus.",
+      "kicker": "Vorgeschichte",
+      "tier": 2,
+      "title": "Gegen den Salon"
+    },
+    {
+      "body": "Die Freilichtmalerei („en plein air“) wurde durch Farbe in Metalltuben erleichtert, die der US-Maler John Goffe Rand 1841 patentieren ließ.\n\nSo konnten Künstler mit Staffelei hinaus und das Licht direkt vor dem Motiv einfangen. Renoir soll gesagt haben, ohne Tubenfarben hätte es den Impressionismus nicht gegeben.",
+      "img": {
+        "caption": "Die Farbtube machte die Malerei mobil",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='c' d='M90 80 h110 l20 15 v10 l-20 15 h-110 z'/><rect class='b' x='80' y='78' width='12' height='44' rx='2'/><rect class='a' x='220' y='93' width='22' height='14' rx='3'/><path class='a' d='M242 100 q30 -10 40 20 q-20 15 -40 -10 z'/></svg>"
+      },
+      "kicker": "Erfindung",
+      "tier": 2,
+      "title": "Malen unter freiem Himmel"
+    },
+    {
+      "body": "- Renoir, „Bal du moulin de la Galette“ (1876): Tanzfest auf dem Montmartre, heute im Musée d’Orsay\n- Caillebotte, „Straße in Paris, Regenwetter“ (1877): das moderne Paris, heute in Chicago\n- Morisot, „Die Wiege“ (1872): ein stiller Moment, heute im Musée d’Orsay",
+      "kicker": "Werke",
+      "tier": 2,
+      "title": "Drei Bilder, die man kennen sollte"
+    },
+    {
+      "body": "Monet malte dasselbe Motiv immer wieder zu unterschiedlichen Tageszeiten und Jahreszeiten.\n\nBerühmt sind die Heuhaufen (1890–91) und die Kathedrale von Rouen (1892–94). Das Motiv wird fast zur Nebensache – das eigentliche Thema ist das Licht.",
+      "img": {
+        "caption": "Heuhaufen im Abendlicht – ein typisches Serienmotiv Monets",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='130' width='320' height='70' opacity='0.5'/><path class='a' d='M60 140 q40 -90 80 0 z'/><path class='a' d='M180 140 q35 -70 70 0 z' opacity='0.7'/><circle class='a' cx='270' cy='40' r='14' opacity='0.6'/></svg>"
+      },
+      "kicker": "Monet",
+      "tier": 2,
+      "title": "Serien: ein Motiv, viele Lichter"
+    },
+    {
+      "body": "Japanische Farbholzschnitte waren in Paris groß in Mode (Japonismus). Ihre flachen Farbflächen, hohen Horizonte und angeschnittenen Figuren prägten etwa Degas und Monet.\n\nAuch die Fotografie wirkte: Zufällig wirkende Ausschnitte und Momentaufnahmen fanden ihren Weg in die Malerei.",
+      "img": {
+        "caption": "Tänzerinnen im angeschnittenen Ausschnitt – ein Lieblingsthema von Degas",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='150' width='320' height='50' opacity='0.5'/><circle class='b' cx='120' cy='55' r='9'/><rect class='b' x='116' y='64' width='8' height='30'/><path class='a' d='M95 110 L120 90 L145 110 Z'/><rect class='b' x='112' y='110' width='3' height='40'/><rect class='b' x='125' y='110' width='3' height='40'/><path class='sb' d='M118 70 L95 52 M122 70 L148 60' stroke-width='3'/><circle class='b' cx='210' cy='65' r='8'/><rect class='b' x='206' y='73' width='8' height='26'/><path class='a' d='M188 112 L210 95 L232 112 Z' opacity='0.7'/><rect class='b' x='203' y='112' width='3' height='38'/><rect class='b' x='214' y='112' width='3' height='38'/></svg>"
+      },
+      "kicker": "Einflüsse",
+      "tier": 3,
+      "title": "Japan und die Fotografie"
+    },
+    {
+      "body": "1883 zog Monet nach Giverny in der Normandie. Er legte einen Garten mit Seerosenteich und japanischer Brücke an.\n\nUm die 250 Seerosenbilder entstanden. Seine riesigen Seerosen-Wandbilder sind seit 1927 im Pariser Musée de l’Orangerie zu sehen – kurz nach seinem Tod 1926 eröffnet.",
+      "img": {
+        "caption": "Seerosenteich mit japanischer Brücke wie in Monets Garten",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='100' width='320' height='100' opacity='0.4'/><path class='sb' d='M40 90 Q160 20 280 90' fill='none' stroke-width='8'/><path class='sb' d='M40 105 Q160 40 280 105' fill='none' stroke-width='3'/><rect class='b' x='70' y='68' width='3' height='42'/><rect class='b' x='110' y='52' width='3' height='58'/><rect class='b' x='160' y='46' width='3' height='64'/><rect class='b' x='210' y='52' width='3' height='58'/><rect class='b' x='250' y='68' width='3' height='42'/><ellipse class='c' cx='50' cy='150' rx='28' ry='8'/><ellipse class='c' cx='130' cy='170' rx='34' ry='9'/><ellipse class='c' cx='220' cy='145' rx='26' ry='7'/><ellipse class='c' cx='280' cy='180' rx='30' ry='8'/><ellipse class='c' cx='100' cy='135' rx='18' ry='5'/><circle class='a' cx='52' cy='146' r='4'/><circle class='a' cx='132' cy='166' r='4'/><circle class='a' cx='222' cy='141' r='4'/><circle class='a' cx='282' cy='176' r='4'/></svg>"
+      },
+      "kicker": "Spätwerk",
+      "tier": 3,
+      "title": "Giverny und die Seerosen"
+    },
+    {
+      "body": "Die Gruppe stellte von 1874 bis 1886 achtmal gemeinsam aus. Bei der letzten Schau zeigte Georges Seurat sein Punktbild „Ein Sonntagnachmittag auf der Insel La Grande Jatte“.\n\nSeurat (Pointillismus), Cézanne, Van Gogh und Gauguin gingen über den Impressionismus hinaus – man fasst sie als Postimpressionisten zusammen.",
+      "img": {
+        "caption": "Pointillismus: reine Farbpunkte statt Pinselstriche",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='a' cx='20' cy='20' r='4'/><circle class='a' cx='20' cy='40' r='4'/><circle class='a' cx='20' cy='60' r='4'/><circle class='a' cx='20' cy='80' r='4'/><circle class='a' cx='20' cy='100' r='4'/><circle class='a' cx='20' cy='120' r='4'/><circle class='a' cx='20' cy='140' r='4'/><circle class='a' cx='20' cy='160' r='4'/><circle class='a' cx='20' cy='180' r='4'/><circle class='c' cx='40' cy='20' r='4'/><circle class='c' cx='40' cy='40' r='4'/><circle class='c' cx='40' cy='60' r='4'/><circle class='c' cx='40' cy='80' r='4'/><circle class='c' cx='40' cy='100' r='4'/><circle class='c' cx='40' cy='120' r='4'/><circle class='c' cx='40' cy='140' r='4'/><circle class='c' cx='40' cy='160' r='4'/><circle class='c' cx='40' cy='180' r='4'/><circle class='b' cx='60' cy='20' r='4'/><circle class='b' cx='60' cy='40' r='4'/><circle class='b' cx='60' cy='60' r='4'/><circle class='b' cx='60' cy='80' r='4'/><circle class='b' cx='60' cy='100' r='4'/><circle class='b' cx='60' cy='120' r='4'/><circle class='b' cx='60' cy='140' r='4'/><circle class='b' cx='60' cy='160' r='4'/><circle class='b' cx='60' cy='180' r='4'/><circle class='a' cx='80' cy='20' r='4'/><circle class='a' cx='80' cy='40' r='4'/><circle class='a' cx='80' cy='60' r='4'/><circle class='a' cx='80' cy='80' r='4'/><circle class='a' cx='80' cy='100' r='4'/><circle class='a' cx='80' cy='120' r='4'/><circle class='a' cx='80' cy='140' r='4'/><circle class='a' cx='80' cy='160' r='4'/><circle class='a' cx='80' cy='180' r='4'/><circle class='c' cx='100' cy='20' r='4'/><circle class='c' cx='100' cy='40' r='4'/><circle class='c' cx='100' cy='60' r='4'/><circle class='c' cx='100' cy='80' r='4'/><circle class='c' cx='100' cy='100' r='4'/><circle class='c' cx='100' cy='120' r='4'/><circle class='c' cx='100' cy='140' r='4'/><circle class='c' cx='100' cy='160' r='4'/><circle class='c' cx='100' cy='180' r='4'/><circle class='b' cx='120' cy='20' r='4'/><circle class='b' cx='120' cy='40' r='4'/><circle class='b' cx='120' cy='60' r='4'/><circle class='b' cx='120' cy='80' r='4'/><circle class='b' cx='120' cy='100' r='4'/><circle class='b' cx='120' cy='120' r='4'/><circle class='b' cx='120' cy='140' r='4'/><circle class='b' cx='120' cy='160' r='4'/><circle class='b' cx='120' cy='180' r='4'/><circle class='a' cx='140' cy='20' r='4'/><circle class='a' cx='140' cy='40' r='4'/><circle class='a' cx='140' cy='60' r='4'/><circle class='a' cx='140' cy='80' r='4'/><circle class='a' cx='140' cy='100' r='4'/><circle class='a' cx='140' cy='120' r='4'/><circle class='a' cx='140' cy='140' r='4'/><circle class='a' cx='140' cy='160' r='4'/><circle class='a' cx='140' cy='180' r='4'/><circle class='c' cx='160' cy='20' r='4'/><circle class='c' cx='160' cy='40' r='4'/><circle class='c' cx='160' cy='60' r='4'/><circle class='c' cx='160' cy='80' r='4'/><circle class='c' cx='160' cy='100' r='4'/><circle class='c' cx='160' cy='120' r='4'/><circle class='c' cx='160' cy='140' r='4'/><circle class='c' cx='160' cy='160' r='4'/><circle class='c' cx='160' cy='180' r='4'/><circle class='b' cx='180' cy='20' r='4'/><circle class='b' cx='180' cy='40' r='4'/><circle class='b' cx='180' cy='60' r='4'/><circle class='b' cx='180' cy='80' r='4'/><circle class='b' cx='180' cy='100' r='4'/><circle class='b' cx='180' cy='120' r='4'/><circle class='b' cx='180' cy='140' r='4'/><circle class='b' cx='180' cy='160' r='4'/><circle class='b' cx='180' cy='180' r='4'/><circle class='a' cx='200' cy='20' r='4'/><circle class='a' cx='200' cy='40' r='4'/><circle class='a' cx='200' cy='60' r='4'/><circle class='a' cx='200' cy='80' r='4'/><circle class='a' cx='200' cy='100' r='4'/><circle class='a' cx='200' cy='120' r='4'/><circle class='a' cx='200' cy='140' r='4'/><circle class='a' cx='200' cy='160' r='4'/><circle class='a' cx='200' cy='180' r='4'/><circle class='c' cx='220' cy='20' r='4'/><circle class='c' cx='220' cy='40' r='4'/><circle class='c' cx='220' cy='60' r='4'/><circle class='c' cx='220' cy='80' r='4'/><circle class='c' cx='220' cy='100' r='4'/><circle class='c' cx='220' cy='120' r='4'/><circle class='c' cx='220' cy='140' r='4'/><circle class='c' cx='220' cy='160' r='4'/><circle class='c' cx='220' cy='180' r='4'/><circle class='b' cx='240' cy='20' r='4'/><circle class='b' cx='240' cy='40' r='4'/><circle class='b' cx='240' cy='60' r='4'/><circle class='b' cx='240' cy='80' r='4'/><circle class='b' cx='240' cy='100' r='4'/><circle class='b' cx='240' cy='120' r='4'/><circle class='b' cx='240' cy='140' r='4'/><circle class='b' cx='240' cy='160' r='4'/><circle class='b' cx='240' cy='180' r='4'/><circle class='a' cx='260' cy='20' r='4'/><circle class='a' cx='260' cy='40' r='4'/><circle class='a' cx='260' cy='60' r='4'/><circle class='a' cx='260' cy='80' r='4'/><circle class='a' cx='260' cy='100' r='4'/><circle class='a' cx='260' cy='120' r='4'/><circle class='a' cx='260' cy='140' r='4'/><circle class='a' cx='260' cy='160' r='4'/><circle class='a' cx='260' cy='180' r='4'/><circle class='c' cx='280' cy='20' r='4'/><circle class='c' cx='280' cy='40' r='4'/><circle class='c' cx='280' cy='60' r='4'/><circle class='c' cx='280' cy='80' r='4'/><circle class='c' cx='280' cy='100' r='4'/><circle class='c' cx='280' cy='120' r='4'/><circle class='c' cx='280' cy='140' r='4'/><circle class='c' cx='280' cy='160' r='4'/><circle class='c' cx='280' cy='180' r='4'/><circle class='b' cx='300' cy='20' r='4'/><circle class='b' cx='300' cy='40' r='4'/><circle class='b' cx='300' cy='60' r='4'/><circle class='b' cx='300' cy='80' r='4'/><circle class='b' cx='300' cy='100' r='4'/><circle class='b' cx='300' cy='120' r='4'/><circle class='b' cx='300' cy='140' r='4'/><circle class='b' cx='300' cy='160' r='4'/><circle class='b' cx='300' cy='180' r='4'/></svg>"
+      },
+      "kicker": "Danach",
+      "tier": 3,
+      "title": "Der Weg zum Postimpressionismus"
+    },
+    {
+      "body": "- sichtbare, kurze Pinselstriche\n- helle Palette, farbige Schatten, kaum Schwarz\n- Alltag und Landschaft statt Mythos und Geschichte\n- Momentaufnahme, oft angeschnittener Ausschnitt\n\nIn Deutschland griffen etwa Max Liebermann, Lovis Corinth und Max Slevogt den Stil auf.",
+      "kicker": "Erkennen",
+      "tier": 3,
+      "title": "So erkennst du ein impressionistisches Bild"
+    }
+  ],
+  "date": "2026-11-06",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Monets „Impression, soleil levant“ brachte den Kritiker Leroy auf den Spottnamen.",
+      "id": "q1",
+      "options": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Edgar Degas",
+        "Paul Cézanne"
+      ],
+      "prompt": "Wessen Bild gab dem Impressionismus seinen Namen?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": true,
+      "explain": "Louis Leroy nutzte ihn 1874 abwertend; die Gruppe übernahm ihn trotzdem.",
+      "id": "q2",
+      "prompt": "Der Begriff „Impressionisten“ war ursprünglich spöttisch gemeint.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Nebeneinandergesetzte, sichtbare Farbstriche sind typisch für den Impressionismus.",
+      "id": "q3",
+      "options": [
+        "Kurze, sichtbare Pinselstriche",
+        "Glatte, unsichtbare Malweise",
+        "Strenge geometrische Formen",
+        "Dicke schwarze Konturlinien"
+      ],
+      "prompt": "Welches Stilmerkmal zeigt dieses Bild?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='a' x='30' y='40' width='22' height='6' rx='3' transform='rotate(-20 30 40)'/><rect class='c' x='70' y='50' width='22' height='6' rx='3' transform='rotate(15 70 50)'/><rect class='b' x='110' y='35' width='22' height='6' rx='3' transform='rotate(-10 110 35)'/><rect class='a' x='150' y='60' width='22' height='6' rx='3' transform='rotate(25 150 60)'/><rect class='c' x='190' y='40' width='22' height='6' rx='3' transform='rotate(-25 190 40)'/><rect class='a' x='230' y='55' width='22' height='6' rx='3' transform='rotate(10 230 55)'/><rect class='b' x='270' y='45' width='22' height='6' rx='3' transform='rotate(-15 270 45)'/><rect class='c' x='40' y='100' width='22' height='6' rx='3' transform='rotate(20 40 100)'/><rect class='a' x='80' y='110' width='22' height='6' rx='3' transform='rotate(-15 80 110)'/><rect class='c' x='120' y='95' width='22' height='6' rx='3' transform='rotate(5 120 95)'/><rect class='b' x='160' y='115' width='22' height='6' rx='3' transform='rotate(-30 160 115)'/><rect class='a' x='200' y='100' width='22' height='6' rx='3' transform='rotate(18 200 100)'/><rect class='c' x='240' y='110' width='22' height='6' rx='3' transform='rotate(-8 240 110)'/><rect class='a' x='280' y='105' width='22' height='6' rx='3' transform='rotate(22 280 105)'/><rect class='a' x='50' y='150' width='22' height='6' rx='3' transform='rotate(-12 50 150)'/><rect class='b' x='90' y='160' width='22' height='6' rx='3' transform='rotate(8 90 160)'/><rect class='a' x='130' y='145' width='22' height='6' rx='3' transform='rotate(-22 130 145)'/><rect class='c' x='170' y='165' width='22' height='6' rx='3' transform='rotate(14 170 165)'/><rect class='a' x='210' y='150' width='22' height='6' rx='3' transform='rotate(-5 210 150)'/><rect class='b' x='250' y='160' width='22' height='6' rx='3' transform='rotate(28 250 160)'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "explain": "Jeder der drei hatte ein Lieblingsthema, an dem man ihn oft erkennt.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Claude Monet",
+          "Licht und Landschaft"
+        ],
+        [
+          "Edgar Degas",
+          "Tänzerinnen"
+        ],
+        [
+          "Pierre-Auguste Renoir",
+          "Feste und Menschen"
+        ]
+      ],
+      "prompt": "Ordne Künstler und typisches Thema zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "explain": "1863 – 1872 – 1874 – 1886.",
+      "id": "q5",
+      "items": [
+        "Salon des Refusés",
+        "Monet malt „Impression, soleil levant“",
+        "Erste Gruppenausstellung",
+        "Letzte (achte) Gruppenausstellung"
+      ],
+      "prompt": "Bringe die Ereignisse in die richtige Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": false,
+      "explain": "Manet gilt als Wegbereiter, nahm aber an keiner der Gruppenausstellungen teil.",
+      "id": "q6",
+      "prompt": "Édouard Manet stellte regelmäßig bei den Impressionisten-Ausstellungen aus.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Tubenfarbe (Patent 1841) ließ sich bequem nach draußen mitnehmen.",
+      "id": "q7",
+      "options": [
+        "Farbe in Metalltuben",
+        "Die Ölfarbe an sich",
+        "Die Leinwand auf Keilrahmen",
+        "Der Bleistift"
+      ],
+      "prompt": "Welche Erfindung erleichterte das Malen im Freien?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Monet malte die Heuhaufen 1890–91 immer wieder bei unterschiedlichem Licht.",
+      "id": "q8",
+      "options": [
+        "Monets Heuhaufen-Serie",
+        "Degas’ Tänzerinnen",
+        "Caillebottes Pariser Straßen",
+        "Morisots „Wiege“"
+      ],
+      "prompt": "Diese Bildidee – ein Motiv in wechselndem Licht – verbindet man vor allem mit …",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='130' width='320' height='70' opacity='0.5'/><path class='a' d='M60 140 q40 -90 80 0 z'/><path class='a' d='M180 140 q35 -70 70 0 z' opacity='0.7'/><circle class='a' cx='270' cy='40' r='14' opacity='0.6'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": 0,
+      "explain": "Teich, Seerosen und japanische Brücke stammen aus Monets Garten in Giverny.",
+      "id": "q9",
+      "options": [
+        "Monets Seerosenteich in Giverny",
+        "Renoirs Tanzfest auf dem Montmartre",
+        "Seurats Insel La Grande Jatte",
+        "Caillebottes Regentag in Paris"
+      ],
+      "prompt": "Welches Spätwerk-Motiv ist hier angedeutet?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='0' y='100' width='320' height='100' opacity='0.4'/><path class='sb' d='M40 90 Q160 20 280 90' fill='none' stroke-width='8'/><path class='sb' d='M40 105 Q160 40 280 105' fill='none' stroke-width='3'/><rect class='b' x='70' y='68' width='3' height='42'/><rect class='b' x='110' y='52' width='3' height='58'/><rect class='b' x='160' y='46' width='3' height='64'/><rect class='b' x='210' y='52' width='3' height='58'/><rect class='b' x='250' y='68' width='3' height='42'/><ellipse class='c' cx='50' cy='150' rx='28' ry='8'/><ellipse class='c' cx='130' cy='170' rx='34' ry='9'/><ellipse class='c' cx='220' cy='145' rx='26' ry='7'/><ellipse class='c' cx='280' cy='180' rx='30' ry='8'/><ellipse class='c' cx='100' cy='135' rx='18' ry='5'/><circle class='a' cx='52' cy='146' r='4'/><circle class='a' cx='132' cy='166' r='4'/><circle class='a' cx='222' cy='141' r='4'/><circle class='a' cx='282' cy='176' r='4'/></svg>",
+      "tier": 3,
+      "type": "image"
+    },
+    {
+      "explain": "Vier Stichworte rund um Einflüsse und Nachwirkung des Impressionismus.",
+      "id": "q10",
+      "pairs": [
+        [
+          "Pointillismus",
+          "Georges Seurat"
+        ],
+        [
+          "Deutscher Impressionismus",
+          "Max Liebermann"
+        ],
+        [
+          "Japonismus",
+          "Farbholzschnitte"
+        ],
+        [
+          "Seerosen-Wandbilder",
+          "Musée de l’Orangerie"
+        ]
+      ],
+      "prompt": "Ordne zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": true,
+      "explain": "Sie entwickelten den Impressionismus weiter und gelten als Postimpressionisten.",
+      "id": "q11",
+      "prompt": "Van Gogh und Cézanne zählt man zum Postimpressionismus.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "answer": 0,
+      "explain": "Monet lebte ab 1883 in Giverny in der Normandie.",
+      "id": "q12",
+      "options": [
+        "Giverny",
+        "Le Havre",
+        "Arles",
+        "Montmartre"
+      ],
+      "prompt": "Wo befand sich Monets Garten mit dem Seerosenteich?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Impressionismus",
+      "url": "https://de.wikipedia.org/wiki/Impressionismus"
+    },
+    {
+      "title": "Wikipedia: Impression, soleil levant",
+      "url": "https://de.wikipedia.org/wiki/Impression,_soleil_levant"
+    },
+    {
+      "title": "Musée d’Orsay",
+      "url": "https://www.musee-orsay.fr/"
+    },
+    {
+      "title": "Musée de l’Orangerie",
+      "url": "https://www.musee-orangerie.fr/"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "impressionismus",
+  "subtitle": "Wie eine Pariser Künstlergruppe das Licht auf die Leinwand holte – und die moderne Kunst einleitete.",
+  "takeaways": [
+    "Der Impressionismus entstand ab 1874 in Paris als Gegenbewegung zum offiziellen Salon; der Name geht auf Monets „Impression, soleil levant“ zurück.",
+    "Erkennungszeichen sind sichtbare Pinselstriche, helle Farben, farbige Schatten und Momentaufnahmen aus Alltag und Natur.",
+    "Monet, Renoir, Degas, Morisot und andere ebneten mit Freilichtmalerei und Lichtstudien den Weg zu Postimpressionismus und Moderne."
+  ],
+  "theme": "art",
+  "title": "Impressionismus"
+}

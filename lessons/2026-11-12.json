@@ -1,0 +1,328 @@
+{
+  "cards": [
+    {
+      "body": "Die Gotik ist der große Baustil des europäischen Mittelalters. Sie entstand um 1140 in Nordfrankreich und prägte bis etwa 1500 Kirchen, Rathäuser und Burgen.\n\nIhr Ziel: Höhe und Licht. Wände wurden dünner, Fenster riesig, alles strebt nach oben – als Bild für den Himmel.",
+      "img": {
+        "caption": "Typische Westfassade: zwei Türme, Spitzbogenportal, Rosette in der Mitte",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Gothic_architecture",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><polygon class='b' points='90,200 90,60 105,20 120,60 120,200'/><polygon class='b' points='200,200 200,60 215,20 230,60 230,200'/><rect class='b' x='120' y='80' width='80' height='120'/><polygon class='b' points='120,80 160,40 200,80'/><circle class='a' cx='160' cy='105' r='18'/><path class='a' d='M145 200 L145 160 Q160 135 175 160 L175 200 Z'/><path class='a' d='M98 130 L98 100 Q105 85 112 100 L112 130 Z'/><path class='a' d='M208 130 L208 100 Q215 85 222 100 L222 130 Z'/></svg>"
+      },
+      "kicker": "Der Stil",
+      "tier": 1,
+      "title": "Was ist Gotik?"
+    },
+    {
+      "body": "Das wichtigste Erkennungszeichen ist der Spitzbogen. Die romanische Baukunst davor nutzte Rundbögen, dicke Mauern und kleine Fenster.\n\nEin Spitzbogen leitet das Gewicht steiler nach unten ab. So lassen sich höhere und schlankere Bauten errichten.",
+      "img": {
+        "caption": "Links ein romanischer Rundbogen, rechts ein gotischer Spitzbogen",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><path class='sb' fill='none' stroke-width='6' d='M40 180 L40 100 A50 50 0 0 1 140 100 L140 180'/><path class='sa' fill='none' stroke-width='6' d='M180 180 L180 100 Q180 40 230 20 Q280 40 280 100 L280 180'/><line class='sc' x1='20' y1='182' x2='300' y2='182' stroke-width='2'/></svg>"
+      },
+      "kicker": "Merkmal 1",
+      "tier": 1,
+      "title": "Der Spitzbogen"
+    },
+    {
+      "body": "Hohe Gewölbe drücken nicht nur nach unten, sondern auch zur Seite. Diesen Schub fangen außen Strebepfeiler und schräge Strebebögen ab.\n\nDas Gerüst trägt also von außen – die Wand selbst muss kaum noch tragen und kann sich in Fenster auflösen.",
+      "img": {
+        "caption": "Querschnitt: Strebebögen leiten den Druck des Mittelschiffs auf äußere Pfeiler",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='130' y='30' width='60' height='170'/><polygon class='b' points='130,30 160,10 190,30'/><rect class='c' x='40' y='90' width='24' height='110'/><rect class='c' x='256' y='90' width='24' height='110'/><path class='sa' fill='none' stroke-width='8' d='M52 95 Q90 50 130 60'/><path class='sa' fill='none' stroke-width='8' d='M268 95 Q230 50 190 60'/><rect class='c' x='64' y='140' width='66' height='60'/><rect class='c' x='190' y='140' width='66' height='60'/></svg>"
+      },
+      "kicker": "Merkmal 2",
+      "tier": 1,
+      "title": "Das Strebewerk"
+    },
+    {
+      "body": "Gotische Kirchen sind Lichträume. Farbige Glasfenster erzählen biblische Geschichten, steinernes Maßwerk gliedert sie in filigrane Muster.\n\nBesonders typisch ist die Rosette, ein großes Rundfenster über dem Hauptportal. Die Sainte-Chapelle in Paris (geweiht 1248) besteht fast nur aus Glas.",
+      "img": {
+        "caption": "Eine Rosette: rundes Fenster, durch Maßwerk in Speichen geteilt",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><circle class='b' cx='160' cy='100' r='85'/><circle class='a' cx='160' cy='100' r='70'/><g class='sb' stroke-width='5'><line x1='160' y1='30' x2='160' y2='170'/><line x1='90' y1='100' x2='230' y2='100'/><line x1='110' y1='50' x2='210' y2='150'/><line x1='210' y1='50' x2='110' y2='150'/></g><circle class='b' cx='160' cy='100' r='18'/><circle class='c' cx='160' cy='100' r='10'/></svg>"
+      },
+      "kicker": "Merkmal 3",
+      "tier": 1,
+      "title": "Licht und Glas"
+    },
+    {
+      "body": "Als Geburtsstunde der Gotik gilt der neue Chor der Abteikirche Saint-Denis bei Paris. Abt Suger ließ ihn errichten, geweiht wurde er 1144.\n\nSuger wollte einen Raum voller Licht, das er als Abglanz Gottes verstand. Bald folgten Kathedralen in Sens, Laon, Paris und Chartres.",
+      "kicker": "Der Anfang",
+      "tier": 2,
+      "title": "Saint-Denis, 1144"
+    },
+    {
+      "body": "Der Bau der Pariser Kathedrale begann 1163 und dauerte rund zwei Jahrhunderte. Sie gehört zu den ersten Bauten mit Strebebögen in großem Maßstab.\n\nAm 15. April 2019 zerstörte ein Brand den Dachstuhl und den Vierungsturm. Nach aufwendiger Restaurierung wurde sie im Dezember 2024 wiedereröffnet.",
+      "kicker": "Berühmtes Beispiel",
+      "links": [
+        {
+          "title": "Notre-Dame de Paris – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        }
+      ],
+      "tier": 2,
+      "title": "Notre-Dame de Paris"
+    },
+    {
+      "body": "1248 wurde der Grundstein gelegt, nach Vorbild französischer Kathedralen. Im 16. Jahrhundert ruhte der Bau, ein Kran stand jahrhundertelang auf dem Südturm.\n\nErst 1880 war der Dom vollendet. Mit rund 157 Metern war er bis 1884 das höchste Gebäude der Welt. Seit 1996 ist er UNESCO-Welterbe.",
+      "img": {
+        "caption": "Die markante Doppelturmfassade des Kölner Doms",
+        "credit": "Illustration",
+        "href": "https://commons.wikimedia.org/wiki/Category:Cologne_Cathedral",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><polygon class='b' points='100,200 100,70 112,70 125,5 138,70 150,70 150,200'/><polygon class='b' points='170,200 170,70 182,70 195,5 208,70 220,70 220,200'/><rect class='b' x='150' y='110' width='20' height='90'/><rect class='c' x='220' y='120' width='80' height='80'/><rect class='c' x='20' y='150' width='80' height='50'/><path class='a' d='M117 140 L117 110 Q125 95 133 110 L133 140 Z'/><path class='a' d='M187 140 L187 110 Q195 95 203 110 L203 140 Z'/><path class='a' d='M152 200 L152 175 Q160 160 168 175 L168 200 Z'/></svg>"
+      },
+      "kicker": "Berühmtes Beispiel",
+      "tier": 2,
+      "title": "Der Kölner Dom"
+    },
+    {
+      "body": "Über den Räumen spannen sich Kreuzrippengewölbe: Steinrippen kreuzen sich diagonal und bündeln das Gewicht auf wenige Punkte. Die Flächen dazwischen sind leichter gemauert.\n\nDie Baumeister trieben die Höhe immer weiter. In Beauvais stürzte 1284 ein Teil des extrem hohen Chorgewölbes ein.",
+      "img": {
+        "caption": "Blick von unten: zwei Diagonalrippen treffen sich im Schlussstein",
+        "credit": "Illustration",
+        "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='40' y='20' width='240' height='160'/><g class='sa' stroke-width='5'><line x1='40' y1='20' x2='280' y2='180'/><line x1='280' y1='20' x2='40' y2='180'/></g><g class='sb' stroke-width='4' fill='none'><rect x='40' y='20' width='240' height='160'/></g><circle class='b' cx='160' cy='100' r='9'/></svg>"
+      },
+      "kicker": "Technik",
+      "tier": 2,
+      "title": "Das Kreuzrippengewölbe"
+    },
+    {
+      "body": "Kunsthistoriker teilen die Gotik in Phasen:\n- Frühgotik: Saint-Denis, Laon, Notre-Dame\n- Hochgotik: Chartres, Reims, Amiens\n- Spätgotik: immer verspieltere Formen\n\nIn Frankreich heißt die späte Phase Flamboyant, nach dem flammenartigen Maßwerk. In England entstand der streng senkrechte Perpendicular Style.",
+      "kicker": "Entwicklung",
+      "tier": 3,
+      "title": "Früh-, Hoch- und Spätgotik"
+    },
+    {
+      "body": "Neben Kathedralen nach französischem Vorbild entwickelten sich eigene Formen. Bei der Hallenkirche sind alle Schiffe gleich hoch.\n\nIm steinarmen Norden baute man mit Ziegeln: die Backsteingotik der Hansestädte, etwa die Marienkirche in Lübeck. Das Ulmer Münster hat mit 161,53 Metern den höchsten Kirchturm der Welt – vollendet allerdings erst 1890.",
+      "kicker": "Regionale Spielarten",
+      "tier": 3,
+      "title": "Gotik in Deutschland"
+    },
+    {
+      "body": "Die Baumeister des Mittelalters sprachen nicht von Gotik. Den Namen prägten italienische Gelehrte der Renaissance wie Giorgio Vasari – abwertend.\n\nSie hielten den Stil für barbarisch, als Werk der Goten, die Rom zerstört hatten. Mit den echten Goten hat die Gotik nichts zu tun.",
+      "kicker": "Begriff",
+      "tier": 3,
+      "title": "Ein Schimpfwort wird Stilname"
+    },
+    {
+      "body": "Im 19. Jahrhundert wurde die Gotik wiederentdeckt, oft als Symbol nationaler Größe. Die Vollendung des Kölner Doms war ein solches Projekt.\n\nIn London entstand nach dem Brand von 1834 der Palace of Westminster neugotisch, entworfen von Charles Barry und Augustus Pugin. Auch viele Bahnhöfe, Rathäuser und Universitäten tragen gotische Formen.",
+      "kicker": "Nachleben",
+      "links": [
+        {
+          "title": "Neugotik – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/Neugotik"
+        }
+      ],
+      "tier": 3,
+      "title": "Die Neugotik"
+    }
+  ],
+  "date": "2026-11-12",
+  "questions": [
+    {
+      "answer": 0,
+      "explain": "Die Gotik begann um 1140 im Raum Paris, etwa mit dem Chor von Saint-Denis.",
+      "id": "q1",
+      "options": [
+        "Um 1140 in Nordfrankreich",
+        "Um 900 in Italien",
+        "Um 1300 in England",
+        "Um 1500 in Spanien"
+      ],
+      "prompt": "Wo und wann entstand die Gotik?",
+      "tier": 1,
+      "type": "mc"
+    },
+    {
+      "answer": 0,
+      "explain": "Rundbögen und massive Wände mit kleinen Öffnungen sind typisch für die Romanik vor der Gotik.",
+      "id": "q2",
+      "options": [
+        "Romanik",
+        "Gotik",
+        "Art déco",
+        "Barock"
+      ],
+      "prompt": "Welcher Stil ist das – Rundbögen, dicke Mauern, kleine Fenster?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='b' x='70' y='40' width='180' height='160'/><path class='a' d='M135 200 L135 140 A25 25 0 0 1 185 140 L185 200 Z'/><path class='a' d='M90 110 L90 85 A10 10 0 0 1 110 85 L110 110 Z'/><path class='a' d='M210 110 L210 85 A10 10 0 0 1 230 85 L230 110 Z'/><rect class='c' x='70' y='30' width='180' height='10'/></svg>",
+      "tier": 1,
+      "type": "image"
+    },
+    {
+      "answer": false,
+      "explain": "Falsch: Das Strebewerk trägt von außen, darum konnten die Wände große Fenster bekommen.",
+      "id": "q3",
+      "prompt": "Bei gotischen Kirchen tragen die Wände fast das ganze Gewicht, deshalb sind die Fenster klein.",
+      "tier": 1,
+      "type": "tf"
+    },
+    {
+      "explain": "Jedes dieser Bauteile hilft, Höhe und Licht zu verbinden.",
+      "id": "q4",
+      "pairs": [
+        [
+          "Spitzbogen",
+          "Leitet Gewicht steil nach unten"
+        ],
+        [
+          "Strebebogen",
+          "Fängt den Seitenschub ab"
+        ],
+        [
+          "Rosette",
+          "Großes Rundfenster"
+        ],
+        [
+          "Maßwerk",
+          "Steinernes Muster im Fenster"
+        ]
+      ],
+      "prompt": "Ordne die Bauteile ihrer Funktion zu.",
+      "tier": 1,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Abt Suger ließ den lichtdurchfluteten Chor errichten, geweiht 1144.",
+      "id": "q5",
+      "options": [
+        "Abt Suger",
+        "Karl der Große",
+        "Ludwig XIV.",
+        "Giorgio Vasari"
+      ],
+      "prompt": "Wer ließ den Chor von Saint-Denis bauen, der als Beginn der Gotik gilt?",
+      "tier": 2,
+      "type": "mc"
+    },
+    {
+      "answer": true,
+      "explain": "Stimmt, von 1880 bis 1884.",
+      "id": "q6",
+      "prompt": "Der Kölner Dom war nach seiner Vollendung einige Jahre das höchste Gebäude der Welt.",
+      "tier": 2,
+      "type": "tf"
+    },
+    {
+      "explain": "1144, 1163, 1248 und 1880.",
+      "id": "q7",
+      "items": [
+        "Weihe des Chors von Saint-Denis",
+        "Baubeginn von Notre-Dame de Paris",
+        "Grundsteinlegung des Kölner Doms",
+        "Vollendung des Kölner Doms"
+      ],
+      "prompt": "Bringe die Ereignisse in die richtige Reihenfolge.",
+      "tier": 2,
+      "type": "order"
+    },
+    {
+      "answer": 0,
+      "explain": "Der schräge Bogen vom äußeren Pfeiler zur Hochwand ist ein Strebebogen.",
+      "id": "q8",
+      "options": [
+        "Strebebogen",
+        "Rosette",
+        "Kreuzrippe",
+        "Wasserspeier"
+      ],
+      "prompt": "Welches Bauteil ist hier farbig hervorgehoben?",
+      "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><rect class='d' x='0' y='0' width='320' height='200'/><rect class='c' x='150' y='30' width='60' height='170'/><rect class='c' x='60' y='90' width='24' height='110'/><path class='sa' fill='none' stroke-width='10' d='M72 95 Q110 50 150 60'/></svg>",
+      "tier": 2,
+      "type": "image"
+    },
+    {
+      "answer": 0,
+      "explain": "Flamboyant kommt von frz. flamme – die Formen erinnern an Flammen.",
+      "id": "q9",
+      "options": [
+        "Flamboyant",
+        "Rayonnant",
+        "Perpendicular",
+        "Plateresk"
+      ],
+      "prompt": "Wie heißt die französische Spätgotik mit flammenartigem Maßwerk?",
+      "tier": 3,
+      "type": "mc"
+    },
+    {
+      "answer": false,
+      "explain": "Renaissance-Gelehrte verwendeten ihn abwertend im Sinne von barbarisch.",
+      "id": "q10",
+      "prompt": "Der Name Gotik war ursprünglich als Lob gemeint.",
+      "tier": 3,
+      "type": "tf"
+    },
+    {
+      "explain": "Die Beispiele zeigen die Bandbreite gotischer und neugotischer Bauten.",
+      "id": "q11",
+      "pairs": [
+        [
+          "Ulmer Münster",
+          "Höchster Kirchturm der Welt"
+        ],
+        [
+          "Marienkirche Lübeck",
+          "Backsteingotik"
+        ],
+        [
+          "Palace of Westminster",
+          "Neugotik"
+        ],
+        [
+          "Sainte-Chapelle",
+          "Wände fast nur aus Glas"
+        ]
+      ],
+      "prompt": "Ordne Bauwerk und Merkmal zu.",
+      "tier": 3,
+      "type": "match"
+    },
+    {
+      "answer": 0,
+      "explain": "Bei der Hallenkirche erreichen Mittel- und Seitenschiffe die gleiche Höhe.",
+      "id": "q12",
+      "options": [
+        "Alle Schiffe sind gleich hoch",
+        "Sie hat keine Fenster",
+        "Sie ist aus Holz gebaut",
+        "Sie hat nur einen Turm in der Mitte"
+      ],
+      "prompt": "Was kennzeichnet eine Hallenkirche?",
+      "tier": 3,
+      "type": "mc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gotik – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Gotik"
+    },
+    {
+      "title": "Kölner Dom – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/K%C3%B6lner_Dom"
+    },
+    {
+      "title": "Notre-Dame de Paris – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Notre-Dame_de_Paris"
+    },
+    {
+      "title": "Ulmer Münster – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Ulmer_M%C3%BCnster"
+    },
+    {
+      "title": "Neugotik – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Neugotik"
+    }
+  ],
+  "status": "published",
+  "subjectKey": "gotik",
+  "subtitle": "Wie das Mittelalter lernte, mit Stein nach dem Himmel zu greifen.",
+  "takeaways": [
+    "Spitzbogen, Kreuzrippengewölbe und Strebewerk machten hohe, lichte Bauten möglich.",
+    "Die Gotik begann um 1140 in Saint-Denis und prägte Europa bis um 1500.",
+    "Im 19. Jahrhundert kehrte sie als Neugotik zurück – der Kölner Dom wurde erst 1880 fertig."
+  ],
+  "theme": "architecture",
+  "title": "Gotik"
+}

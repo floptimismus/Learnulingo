@@ -11,8 +11,10 @@ läuft jetzt eigenständig auf **Cloudflare Workers** (statische Dateien + API) 
 - **Fortschritt wird auf dem Server berechnet** (XP, Streak, Streak-Freezes, Abzeichen, Fehler-Wiederholung).
 - **Redaktion** – das erste Konto, das sich registriert, wird Redaktion: Lektionen ansehen, als JSON bearbeiten
   oder anlegen, veröffentlichen/zurückziehen, löschen und (optional) mit Claude erzeugen.
-- Die 8 Lektionen aus dem Artifact sind enthalten (`seed/lessons.json`) und werden beim ersten Start
-  automatisch in die Datenbank geschrieben.
+- **Lektionen liegen im Repo** (`lessons/YYYY-MM-DD.json`, siehe `lessons/README.md`). Nach jedem Deploy
+  übernimmt die App neue oder geänderte Dateien in die Datenbank. Die 8 Lektionen aus dem Artifact sind dabei.
+- **Wöchentlicher Nachschub:** Ein geplanter Auftrag in Claude schreibt jeden Sonntag früh die Lektionen
+  für Sonntag bis Samstag und pusht sie auf `main`; Cloudflare deployt dann automatisch.
 
 ## Aufbau
 
@@ -20,7 +22,8 @@ läuft jetzt eigenständig auf **Cloudflare Workers** (statische Dateien + API) 
 public/            Frontend (index.html, app.js, styles.css, Icon, Manifest)
 src/index.js       Worker: API, Passkeys (@simplewebauthn/server), Sessions, Scoring, Cron
 src/generate.js    Optional: Lektionen mit der Claude API erzeugen
-seed/lessons.json  Start-Lektionen aus dem Daily-Learn-Artifact
+lessons/           Eine JSON-Datei pro Tag (wird vor jedem Deploy geprüft und gebündelt)
+scripts/           build-lessons.mjs: Lektionen prüfen und bündeln
 wrangler.jsonc     Cloudflare-Konfiguration (Assets, D1, Cron)
 ```
 
@@ -30,7 +33,8 @@ Die Tabellen legt der Worker beim ersten Request selbst an – es gibt keinen se
 
 ### Variante A: per Git (empfohlen)
 
-1. Im Cloudflare-Dashboard **Workers & Pages → Create → Import a repository** wählen und dieses Repo verbinden.
+1. Im Cloudflare-Dashboard **Workers & Pages → Create → Import a repository** wählen, dieses Repo verbinden
+   und als Production-Branch **`main`** wählen (dorthin pusht der wöchentliche Auftrag).
 2. Build-Einstellungen: Build command leer lassen, Deploy command `npx wrangler deploy`.
 3. Deployen. Wrangler legt die D1-Datenbank `learnulingo` beim ersten Deploy automatisch an.
 4. Seite öffnen und **sofort das eigene Konto anlegen** – das erste Konto bekommt die Redaktionsrechte.
@@ -64,7 +68,9 @@ fest vorgeben (sonst werden sie aus der aufgerufenen URL abgeleitet):
 "vars": { "APP_NAME": "Learnulingo", "RP_ID": "learnulingo.de", "ORIGIN": "https://learnulingo.de" }
 ```
 
-## Optional: Lektionen automatisch mit Claude erzeugen
+## Optional: Lektionen über die Claude API erzeugen (kostenpflichtig)
+
+Nicht nötig, wenn der wöchentliche Auftrag die Lektionen ins Repo schreibt.
 
 ```bash
 npx wrangler secret put ANTHROPIC_API_KEY
